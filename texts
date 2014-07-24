@@ -4584,7 +4584,7 @@
 "da-DK":"Kontaktpersonen er angivet som 'Attention' på kunden.",
 "sv-SE":"Kontaktpersonen har angetts som ”Attention” för kunden.",
 "no-NO":"Kontaktpersonen er angitt som `vær oppmerksom`på kunden",
-"fi-FI":"Yhteyshenkilö on luotu "Huomautuksena" asiakkaalle."
+"fi-FI":"Yhteyshenkilö on luotu \"Huomautuksena\" asiakkaalle."
 },
 "CONTACTDASHBOARD_BARBUTTON_EDIT":{
 "en-GL":"Edit",
