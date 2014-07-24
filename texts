@@ -1,0 +1,4655 @@
+{
+"fallbacks": {
+"de-CH": "de-DE",
+"de-AT": "de-DE",
+"en-GB": "en-UK",
+"en-AU": "en-UK",
+"en-NZ": "en-UK",
+"en-ZA": "en-UK",
+"en-IE": "en-UK",
+"en-SG": "en-UK",
+"en-MY": "en-UK",
+"en-PH": "en-UK",
+"en-IL": "en-UK",
+"en-IN": "en-UK",
+"es-PE": "es-ES",
+"es-CO": "es-ES",
+"es-AR": "es-ES",
+"es-VE": "es-ES",
+"es-CL": "es-ES",
+"es-IC": "es-ES",
+},
+"texts": {
+"MOBILEOFFICE_CVR_ENABLED":{
+"da-DK":"1",
+"sv-SE":"0",
+"no-NO":"0"
+},
+"POPUP_NOINTERNET_TITLE":{
+"en-GL":"No internet connection",
+"da-DK":"Ingen internetforbindelse",
+"sv-SE":"Ingen internetuppkoppling",
+"no-NO":"Ingen internettforbindelse",
+"fi-FI":"Ei Internetyhteyttä"
+},
+"POPUP_NOINTERNET_MESSAGE":{
+"en-GL":"You cannot use this feature if the phone is not connected to the internet",
+"da-DK":"Du kan ikke bruge denne funktion, hvis telefonen ikke er tilsluttet til internettet",
+"sv-SE":"Du kan inte använda denna funktion om telefonen inte är kopplad till internet",
+"no-NO":"Du kan ikke bruke denne funksjonen hvis telefonen ikke er koblet til internett",
+"fi-FI":"Et voi käyttää tätä sovellusta, jos puhelin ei ole yhteydessä nettiin."
+},
+"POPUP_NOINTERNET_OK":{
+"en-GL":"OK",
+"fi-FI":"OK"
+},
+"POPUP_OK":{
+"en-GL":"OK",
+"fi-FI":"OK"
+},
+"POPUP_CANCEL":{
+"en-GL":"Cancel",
+"da-DK":"Annullér",
+"sv-SE":"Avbryt",
+"no-NO":"Avbryt",
+"fi-FI":"Peruuta"
+},
+"ACTIONSHEET_DONE":{
+"en-GL":"Done",
+"da-DK":"Udført",
+"sv-SE":"Utfört",
+"no-NO":"Utført",
+"fi-FI":"Valmis"
+},
+"BUTTON_CLOSE":{
+"en-GL":"Close",
+"da-DK":"Luk",
+"sv-SE":"Stäng",
+"no-NO":"Lukk",
+"fi-FI":"Sulje"
+},
+"SEARCHBAR_DEFAULTSTRING":{
+"en-GL":"Search",
+"da-DK":"Søg",
+"sv-SE":"Sök",
+"no-NO":"Søk",
+"fi-FI":"Etsi"
+},
+"BUTTON_SEND":{
+"en-GL":"Send",
+"da-DK":"Send",
+"sv-SE":"Skicka",
+"no-NO":"Send",
+"fi-FI":"Lähetä"
+},
+"BUTTON_REGISTER":{
+"en-GL":"Register",
+"fi-FI":"Rekisteröi"
+},
+"ERROR_WRITING_SERVER":{
+"en-GL":"Error writing to server",
+"da-DK":"Fejl ved skrivning til server",
+"sv-SE":"Fel vid skrivning till servern",
+"no-NO":"Det oppstod en feil ved skriving til serveren",
+"fi-FI":"Virhe serverille kirjoittaessa"
+},
+"ERROR_WRITING_DATABASE":{
+"en-GL":"Error writing to local database",
+"da-DK":"Fejl ved skrivning til lokal database",
+"sv-SE":"Fel vid skrivning till lokal databas",
+"no-NO":"Det oppstod en feil ved skriving til lokal database",
+"fi-FI":"Virhe paikalliseen databaseen kirjoittaessa"
+},
+"ERROR_NOCONNECTION":{
+"en-GL":"No internet connection",
+"da-DK":"Ingen internetforbindelse",
+"sv-SE":"Ingen internetuppkoppling",
+"no-NO":"Ingen internettforbindelse",
+"fi-FI":"Ei Internetyhteyttä"
+},
+"ERROR_GENERALTITLE":{
+"en-GL":"Error",
+"da-DK":"Fejl",
+"sv-SE":"Fel",
+"no-NO":"Feil",
+"fi-FI":"Virhe"
+},
+"CURRENTINVOICES_ADDITIONAL_CURRENCIES":{
+"en-GL":"Currency",
+"da-DK":"Valuta",
+"sv-SE":"Valuta",
+"no-NO":"Valuta",
+"fi-FI":"Valuutta"
+},
+"CURRENTINVOICES_ADDITIONAL_PAYMENT":{
+"en-GL":"Payment",
+"da-DK":"Betingelser",
+"sv-SE":"Betalningsvillkor",
+"no-NO":"Betingelser",
+"fi-FI":"Maksu"
+},
+"CURRENTINVOICES_ADDITIONAL_ROOTTITLE":{
+"en-GL":"Advanced invoice settings",
+"da-DK":"Fakturaindstillinger",
+"sv-SE":"Fakturainställningar",
+"no-NO":"Faktura innstillinger",
+"fi-FI":"Kehittyneet laskutusasetukset"
+},
+"CURRENTINVOICES_ADDITIONAL_CUSTOMERSECTION_HEADER":{
+"en-GL":"Customer",
+"da-DK":"Kunde",
+"sv-SE":"Kund",
+"no-NO":"Kunde",
+"fi-FI":"Asiakas"
+},
+"CURRENTINVOICES_ADDITIONAL_CUSTOMERSECTION_FOOTER":{
+"en-GL":"Additional settings for customer",
+"da-DK":"Kundeindstillinger",
+"sv-SE":"Kundinställningar",
+"no-NO":"Kundeinnstillinger",
+"fi-FI":"Lisäasetukset asiakkaalle"
+},
+"CURRENTINVOICES_ADDITIONAL_CUSTOMERNAME":{
+"en-GL":"Name",
+"da-DK":"Navn",
+"sv-SE":"Namn",
+"no-NO":"Navn",
+"fi-FI":"Nimi"
+},
+"CURRENTINVOICES_ADDITIONAL_CUSTOMERNAME_PLACEHOLDER":{
+"en-GL":"Name",
+"da-DK":"Navn",
+"sv-SE":"Namn",
+"no-NO":"Navn",
+"fi-FI":"Nimi"
+},
+"CURRENTINVOICES_ADDITIONAL_ADDRESS_PLACEHOLDER":{
+"en-GL":"Address",
+"da-DK":"Adresse",
+"sv-SE":"Adress",
+"no-NO":"Adresse",
+"fi-FI":"Osoite"
+},
+"CURRENTINVOICES_ADDITIONAL_POSTCODE":{
+"en-GL":"Postcode",
+"da-DK":"Postnr.",
+"sv-SE":"Postnr",
+"no-NO":"Postnr.",
+"fi-FI":"Postinumero"
+},
+"CURRENTINVOICES_ADDITIONAL_POSTCODE_PLACEHOLDER":{
+"en-GL":"Postcode",
+"da-DK":"Postnr.",
+"sv-SE":"Postnr",
+"no-NO":"Postnr.",
+"fi-FI":"Postinumero"
+},
+"CURRENTINVOICES_ADDITIONAL_TOWN":{
+"en-GL":"Town/City",
+"da-DK":"By",
+"sv-SE":"Ort",
+"no-NO":"By",
+"fi-FI":"Postitoimipaikka"
+},
+"CURRENTINVOICES_ADDITIONAL_TOWN_PLACEHOLDER":{
+"en-GL":"Town/City",
+"da-DK":"By",
+"sv-SE":"Ort",
+"no-NO":"By",
+"fi-FI":"Postitoimipaikka"
+},
+"CURRENTINVOICES_ADDITIONAL_COUNTRY":{
+"en-GL":"Country",
+"da-DK":"Land",
+"sv-SE":"Land",
+"no-NO":"Land",
+"fi-FI":"Maa"
+},
+"CURRENTINVOICES_ADDITIONAL_COUNTRY_PLACEHOLDER":{
+"en-GL":"Country",
+"da-DK":"Land",
+"sv-SE":"Land",
+"no-NO":"Land",
+"fi-FI":"Maa"
+},
+"CURRENTINVOICES_ADDITIONAL_COUNTY":{
+"en-GL":"County",
+"da-DK":"Amt",
+"sv-SE":"Län",
+"no-NO":"Fylke",
+"fi-FI":"Alue"
+},
+"CURRENTINVOICES_ADDITIONAL_COUNTY_PLACEHOLDER":{
+"en-GL":"County",
+"da-DK":"Amt",
+"sv-SE":"Län",
+"no-NO":"Fylke",
+"fi-FI":"Alue"
+},
+"CURRENTINVOICES_ADDITIONAL_TERMS_HEADER":{
+"en-GL":"Terms",
+"da-DK":"Betingelser",
+"sv-SE":"Betalningsvillkor",
+"no-NO":"Vilkår",
+"fi-FI":"Maksuehdot"
+},
+"CURRENTINVOICES_ADDITIONAL_VAT":{
+"en-GL":"VAT",
+"da-DK":"Moms",
+"sv-SE":"Moms",
+"no-NO":"Mva",
+"fi-FI":"Alv"
+},
+"CURRENTINVOICES_DETAILS_SELECTCUSTOMERSECTION_TITLE":{
+"en-GL":"Customer",
+"da-DK":"Kunde",
+"sv-SE":"Kund",
+"no-NO":"Kunde",
+"fi-FI":"Asiakas"
+},
+"CURRENTINVOICES_DETAILS_SELECTCUSTOMER_PLACEHOLDER":{
+"en-GL":"Select customer",
+"da-DK":"Vælg kunde",
+"sv-SE":"Välj kund",
+"no-NO":"Velg kunde",
+"fi-FI":"Valitse asiakas"
+},
+"CURRENTINVOICES_DETAILS_BOOK":{
+"en-GL":"Book",
+"da-DK":"Bogfør",
+"sv-SE":"Bokför",
+"no-NO":"Bokfør",
+"fi-FI":"Kirjaa"
+},
+"CURRENTINVOICES_DETAILS_VIEW":{
+"en-GL":"Preview",
+"da-DK":"Forhåndsvisning",
+"sv-SE":"Förhandsgranska",
+"no-NO":"Forhåndsvisning",
+"fi-FI":"Esikatsele"
+},
+"CURRENTINVOICES_DETAILS_INVOICE_LOADING":{
+"en-GL":"Loading",
+"da-DK":"Indlæser",
+"sv-SE":"Läser in",
+"no-NO":"Laster",
+"fi-FI":"Lataa"
+},
+"CURRENTINVOICES_DETAILS_DATE":{
+"en-GL":"Invoice date",
+"da-DK":"Fakturadato",
+"sv-SE":"Fakturadatum",
+"no-NO":"Fakturadato",
+"fi-FI":"Laskupäivämäärä"
+},
+"CURRENTINVOICES_DETAILS_NEWINVOICE_TITILE":{
+"en-GL":"New invoice",
+"da-DK":"Ny faktura",
+"sv-SE":"Ny faktura",
+"no-NO":"Ny faktura",
+"fi-FI":"Uusi asiakas"
+},
+"CURRENTINVOICES_DETAILS_CUSTOMER_TITLE":{
+"en-GL":"Customer",
+"da-DK":"Kunden",
+"sv-SE":"Kunden",
+"no-NO":"Kunden",
+"fi-FI":"Asiakas"
+},
+"CURRENTINVOICES_DETAILS_TITLE":{
+"en-GL":"Invoice",
+"da-DK":"Faktura",
+"sv-SE":"Faktura",
+"no-NO":"Faktura",
+"fi-FI":"Lasku"
+},
+"CURRENTINVOICES_DETAILS_DETAILSSECTION_TITLE":{
+"en-GL":"Invoice details",
+"da-DK":"Faktura detaljer",
+"sv-SE":"Fakturauppgifter",
+"no-NO":"Faktura",
+"fi-FI":"Laskutiedot"
+},
+"CURRENTINVOICES_DETAILS_ADDITIONAL":{
+"en-GL":"Additional info",
+"da-DK":"Yderligere info",
+"sv-SE":"Övrig information",
+"no-NO":"Ytterligere info",
+"fi-FI":"Lisätiedot"
+},
+"CURRENTINVOICES_DETAILS_BOOK_INCOMPLETE":{
+"en-GL":"Invoice is not complete. Please create new invoice",
+"da-DK":"Fakturaen er ikke komplet. Skal du oprette ny faktura",
+"sv-SE":"Fakturan är ofullständig. Vänligen skapa en ny faktura",
+"no-NO":"Faktura er ikke komplett. Opprett ny faktura",
+"fi-FI":"Lasku ei ole valmis. Luo uusi lasku."
+},
+"CURRENTINVOICES_DETAILS_BOOKING_POPUP":{
+"en-GL":"Booking invoice",
+"da-DK":"Bogfører faktura",
+"sv-SE":"Bokför faktura",
+"no-NO":"Bokfør faktura",
+"fi-FI":"Laskun kirjaus"
+},
+"CURRENTINVOICES_DETAILS_ERROR_SAVING":{
+"en-GL":"Error saving invoice",
+"da-DK":"Fejl besparelse faktura",
+"sv-SE":"Fakturan kan inte sparas",
+"no-NO":"Feil ved lagring av faktura",
+"fi-FI":"Virhe laskua tallennettaessa"
+},
+"CURRENTINVOICES_DETAILS_ERROR_NOLINES":{
+"en-GL":"The invoice cannot be booked because it does not contain any invoice lines",
+"da-DK":"Fakturaen kan ikke bogføres, da den ikke indeholder nogen fakturalinjer",
+"sv-SE":"Fakturan kan inte bokföras eftersom det inte finns några faturabokningsrader ",
+"no-NO":"På grunn av manglende fakturalinjer kan fakturaen ikke bokføres",
+"fi-FI":"Laskua ei voida kirjata, koska se ei sisällä laskurivejä."
+},
+"CURRENTINVOICES_DETAILS_ERROR_NOACCOUNTINGYEAR":{
+"en-GL":"You have not created the current accounting year yet. Create accounting year in e-conomic to continue",
+"da-DK":"Du har ikke oprettet det aktuelle regnskabsår endnu. Opret regnskabsåret i e-conomic for at fortsætte",
+"sv-SE":"Du har inte något registrerat redovisningsår än. För att  kunna fortsätta vänligen registrera ett nytt redovisningsår i e-conomic",
+"no-NO":"Du har ikke opprettet nåværende regnskapsår. Opprett regnskapsår for å fortsette",
+"fi-FI":"Et ole luonut nykyistä tilivuotta. Luo tilivuosi e-conomicissa jatkaaksesi."
+},
+"CURRENTINVOICES_DETAILS_ERROR_INTERNAL":{
+"en-GL":"Internal error occurred",
+"da-DK":"Intern fejl opstod",
+"sv-SE":"Internt fel har uppstått",
+"no-NO":"Det oppstod en intern feil",
+"fi-FI":"Sisäinen virhe"
+},
+"CURRENTINVOICES_DETAILS_BOOK_SUCCESS":{
+"en-GL":"Invoice booked successfully",
+"da-DK":"Faktura bogført succes",
+"sv-SE":"Fakturan är bokförd",
+"no-NO":"Faktura er bokført",
+"fi-FI":"Laskun kirjaus onnistui"
+},
+"CURRENTINVOICES_DETAILS_BOOK_FAILED":{
+"en-GL":"Error booking invoice",
+"da-DK":"Fejl ved bogføring af faktura",
+"sv-SE":"Kan inte bokföra faktura",
+"no-NO":"Feil under bokføring av faktura",
+"fi-FI":"Virhe laskua kirjattaessa"
+},
+"CURRENTINVOICES_DETAILS_POPUP_LOADING_TITLE":{
+"en-GL":"Loading PDF",
+"da-DK":"Indlæser PDF",
+"sv-SE":"Läser in PDF",
+"no-NO":"Laster PDF",
+"fi-FI":"PDF latautuu"
+},
+"CURRENTINVOICES_DETAILS_POPUP_LOADING_MESSAGE":{
+"en-GL":"Please wait",
+"da-DK":"Vent venligst",
+"sv-SE":"Vänligen vänta",
+"no-NO":"Vennligst vent",
+"fi-FI":"Odota"
+},
+"CURRENTINVOICES_DETAILS_ERROR_PREVIEW_TITLE":{
+"en-GL":"Cannot preview current invoice",
+"da-DK":"Kan ikke få vist faktura",
+"sv-SE":"Kan inte förhandsgranska aktuell faktura",
+"no-NO":"Kan ikke vise faktura",
+"fi-FI":"Nykyistä laskua ei voi tarkastella"
+},
+"CURRENTINVOICES_DETAILS_ERROR_PREVIEW_SAVEMESSAGE":{
+"en-GL":"A problem occurred while saving invoice",
+"da-DK":"Der opstod et problem under lagring faktura",
+"sv-SE":"Ett fel uppstod när fakturan skulle sparas",
+"no-NO":"Det oppstod et problem under lagring av faktura",
+"fi-FI":"Laskua tallentaessa sattui ongelma"
+},
+"CURRENTINVOICES_DETAILS_ERROR_PREVIEW_DOWNLOADMESSAGE":{
+"en-GL":"A problem occurred while downloading invoice",
+"da-DK":"Der opstod et problem, mens du downloader aktuelle faktura",
+"sv-SE":"Ett fel uppstod när fakturan skulle laddas ned",
+"no-NO":"Det oppstod et problem under nedlastingen av faktura",
+"fi-FI":"Laskua ladattaessa sattui ongelma"
+},
+"CURRENTINVOICES_DETAILS_ERROR_PREVIEW_NOTSAVED":{
+"en-GL":"Please save your invoice first",
+"da-DK":"Gem fakturaen først",
+"sv-SE":"Vänligen spara fakturan först",
+"no-NO":"Lagre fakturaen først",
+"fi-FI":"Tallenna laskusi ensin"
+},
+"CURRENTINVOICES_DETAILS_POPUP_SAVING":{
+"en-GL":"Saving Invoice",
+"da-DK":"Gemmer faktura",
+"sv-SE":"Sparar faktura",
+"no-NO":"Lagrer faktura",
+"fi-FI":"Tallennetaan laskua"
+},
+"CURRENTINVOICES_DETAILS_LINESSECTION_TITLE":{
+"en-GL":"Invoice lines",
+"da-DK":"Fakturalinjer",
+"sv-SE":"Fakturarader",
+"no-NO":"Fakturalinjer",
+"fi-FI":"Laskurivit"
+},
+"CURRENTINVOICES_DETAILS_ADDNEWLINE":{
+"en-GL":"Add new line",
+"da-DK":"Tilføj linje",
+"sv-SE":"Lägg till rad",
+"no-NO":"Legg til linje",
+"fi-FI":"Lisää uusi rivi"
+},
+"CURRENTINVOICES_DETAILS_TOTALSSECTION_TITLE":{
+"en-GL":"Totals",
+"da-DK":"Totaler",
+"sv-SE":"Summor",
+"no-NO":"Totaler",
+"fi-FI":"Yhteensä"
+},
+"CURRENTINVOICES_DETAILS_TOTALS_SUBTOTAL":{
+"en-GL":"Subtotal",
+"da-DK":"Subtotal",
+"sv-SE":"Totalt netto",
+"no-NO":"Delsum",
+"fi-FI":"Välisumma"
+},
+"CURRENTINVOICES_DETAILS_TOTALS_VAT":{
+"en-GL":"VAT",
+"da-DK":"Moms",
+"sv-SE":"Moms",
+"no-NO":"Mva",
+"fi-FI":"Alv"
+},
+"CURRENTINVOICES_DETAILS_TOTALS_TOTAL":{
+"en-GL":"Total [SUM]",
+"da-DK":"Total [SUM]",
+"sv-SE":"Att betala [SUM]",
+"no-NO":"Total[SUM]",
+"fi-FI":"Yhteensä"
+},
+"CURRENTINVOICES_DETAILS_POPUP_NOTSAVED_TITLE":{
+"en-GL":"Invoice was not saved",
+"da-DK":"Faktura blev ikke gemt",
+"sv-SE":"Fakturan har inte sparats",
+"no-NO":"Faktura ble ikke lagret",
+"fi-FI":"Laskua ei tallennettu"
+},
+"CURRENTINVOICES_DETAILS_POPUP_NOTSAVED_UNITNOTEXIST":{
+"en-GL":"The unit does not exist. Please try again",
+"da-DK":"Enheden fungerer ikke eksisterer. Prøv igen",
+"sv-SE":"Enheten finns inte. Vänligen försök igen",
+"no-NO":"Enheten eksisterer ikke. Vennligst prøv igjen",
+"fi-FI":"Yksikköä ei ole olemassa. Yritä uudelleen."
+},
+"CURRENTINVOICES_DETAILS_POPUP_BARRED_PRODUCT_TITLE":{
+"en-GL":"One of the products in the invoice lines is barred",
+"da-DK":"Et af produkterne i fakturalinjer er spærret",
+"sv-SE":"En av produkterna på fakturaraden är spärrad",
+"no-NO":"Et av produktene i fakturalinjene er sperret",
+"fi-FI":"Yksi käytettävistä artikkeleista on estetty."
+},
+"CURRENTINVOICES_DETAILS_POPUP_BARRED_PRODUCT_MESSAGE":{
+"en-GL":"Please allow access to this product before trying to save/book the invoice",
+"da-DK":"Venligst give adgang til dette produkt før du forsøger at gemme / bog fakturaen",
+"sv-SE":"Vänligen tillåt åtkomst till denna produkt innan du försöker att spara/bokföra fakturan",
+"no-NO":"Vennligst gi adgang til dette produktet før du forsøker å lagre/Bokføre fakturaen",
+"fi-FI":"Muuta pääsyn tälle tuotteelle ennen laskun tallentamista/kirjaamista."
+},
+"CURRENTINVOICES_DETAILS_POPUP_BARRED_DEBTOR_TITLE":{
+"en-GL":"The invoice cannot be booked because the customer is barred",
+"da-DK":"Fakturaen kan ikke bogføres, da kunden er spærret",
+"sv-SE":"Fakturan kan inte bokföras eftersom kunden har spärrats",
+"no-NO":"Faktura kan ikke bokføres fordi kunden er sperret",
+"fi-FI":"Laskua ei voida kirjata, koska asiakas on estetty."
+},
+"CURRENTINVOICES_DETAILS_POPUP_BARRED_DEBTOR_MESSAGE":{
+"en-GL":"Please allow access to the customer before trying to save/book the invoice",
+"da-DK":"Lad adgang til debitor, før du prøver at gemme / bog fakturaen",
+"sv-SE":"Vänligen tillåt åtkomst till kunden innan du försöker att spara/bokföra fakturan",
+"no-NO":"Kunden er sperret, gi adgang før du forsøker å lagre/bokføre faktura",
+"fi-FI":"Muuta pääsyn tälle asiakkaalle ennen laskun tallentamista/kirjaamista."
+},
+"CURRENTINVOICES_DETAILS_POPUP_EXACTPRODUCT_BARRED_TITLE":{
+"en-GL":"[PRODUCT_NAME] is barred",
+"da-DK":"[PRODUCT_NAME] er spærret",
+"sv-SE":"[PRODUCT_NAME] är spärrat",
+"no-NO":"[PRODUCT_NAME] er sperret",
+"fi-FI":"[PRODUCT_NAME] on estetty"
+},
+"CURRENTINVOICES_DETAILS_POPUP_SAVING_INVOICE":{
+"en-GL":"Saving invoice",
+"da-DK":"Gemmer faktura",
+"sv-SE":"Sparar faktura",
+"no-NO":"Lagrer faktura",
+"fi-FI":"Tallennetaan laskua"
+},
+"CURRENTINVOICES_DETAILS_SAVE_SUCCESS":{
+"en-GL":"Saved invoice",
+"da-DK":"Gemt faktura",
+"sv-SE":"Sparad faktura",
+"no-NO":"Faktura lagret",
+"fi-FI":"Lasku tallennettu"
+},
+"CURRENTINVOICES_DETAILS_POPUP_NOTSAVED_UNITTERMNOTEXIST":{
+"en-GL":"Unit/Payment term does not exist. Please try again",
+"da-DK":"Enheden / Betaling sigt findes ikke. Prøv igen",
+"sv-SE":"Enheten/Betalningsvillkoret finns inte. Vänligen försök igen",
+"no-NO":"Enhet/Betalings vilkår eksisterer ikke. Prøv igjen",
+"fi-FI":"Yksikköä/Maksuehtoa ei ole luotu. Yritä uudelleen. "
+},
+"CURRENTINVOICES_DETAILS_ERROR_DEBTORNOTEXIST":{
+"en-GL":"The customer does not exist",
+"da-DK":"Kunden findes ikke",
+"sv-SE":"Kunden finns inte",
+"no-NO":"Kunden finnes ikke",
+"fi-FI":"Asiakasta ei ole luotu"
+},
+"CURRENTINVOICES_DETAILS_ERROR_DEBTORBARRED":{
+"en-GL":"The customer is barred",
+"da-DK":"Kunden er spærret",
+"sv-SE":"Kunden är spärrad",
+"no-NO":"Kunden er sperret",
+"fi-FI":"Asiakas on estetty"
+},
+"CURRENTINVOICES_DETAILS_ERROR_CANNOTDELETE":{
+"en-GL":"Error deleting invoice",
+"da-DK":"Fejl ved sletning af faktura",
+"sv-SE":"Kan inte ta bort faktura",
+"no-NO":"Feil ved sletting av faktura",
+"fi-FI":"Virhe laskua poistettaessa"
+},
+"CURRENTINVOICES_DETAILS_POPUP_SELECTCUSTOMER":{
+"en-GL":"Please select a customer",
+"da-DK":"Vælg en kunde",
+"sv-SE":"Vänligen välj kund",
+"no-NO":"Velg en kunde",
+"fi-FI":"Valitse asiakas"
+},
+"CURRENTINVOICES_DETAILS_TEXT1_PLACEHOLDER":{
+"en-GL":"Description",
+"da-DK":"Beskrivelse",
+"sv-SE":"Faktureringstext",
+"no-NO":"Beskrivelse",
+"fi-FI":"Kuvaus"
+},
+"CURRENTINVOICES_DETAILS_TEXT2_PLACEHOLDER":{
+"en-GL":"Invoice Note",
+"da-DK":"Faktura Obs",
+"sv-SE":"Faktura Obs",
+"no-NO":"Faktura note",
+"fi-FI":"Laskun lisäteksti"
+},
+"CURRENTINVOICES_DETAILS_CONFIRMBOOK_TITLE":{
+"en-GL":"Are you sure?",
+"da-DK":"Er du sikker?",
+"sv-SE":"Är du säker?",
+"no-NO":"Er du sikker?",
+"fi-FI":"Oletko varma?"
+},
+"CURRENTINVOICES_DETAILS_CONFIRMBOOK_MESSAGE":{
+"en-GL":"The invoice will be booked. This action cannot be undone",
+"da-DK":"Fakturaen vil blive bogført. Denne aktion kan ikke fortrydes",
+"sv-SE":"Fakturan kommer att bokföras. Denna åtgärd kan inte ångras",
+"no-NO":"Fakturaen vil bli bokført. Denne handlingen kan ikke angres",
+"fi-FI":"Lasku on kirjattu. Toimintoa ei voi enää peruuttaa."
+},
+"CURRENTINVOICES_DETAILS_CONFIRMBOOK_YES":{
+"en-GL":"Book invoice",
+"da-DK":"Bogfør ",
+"sv-SE":"Bokför ",
+"no-NO":"Bokfør",
+"fi-FI":"Kirjaa lasku"
+},
+"CURRENTINVOICES_DETAILS_CONFIRMBOOK_NO":{
+"en-GL":"Cancel",
+"da-DK":"Annullér",
+"sv-SE":"Avbryt",
+"no-NO":"Avbryt",
+"fi-FI":"Peruuta"
+},
+"CURRENTINVOICES_DETAILS_NOEMAIL":{
+"en-GL":"The customer does not have an e-mail",
+"da-DK":"Kunden ikke har en e-mail",
+"sv-SE":"Kunden har inte en e-post",
+"no-NO":"Denne kunden har ingen E-post",
+"fi-FI":"Asiakkaalla ei ole sähköpostia"
+},
+"CURRENTINVOICES_DETAILS_EMAILSUBJECT":{
+"en-GL":"Invoice [NUMBER] from [COMPANY_NAME]",
+"da-DK":"Bilag [NUMBER] fra [COMPANY_NAME]",
+"sv-SE":"Faktura [NUMBER] från [COMPANY_NAME]",
+"no-NO":"Bilag [NUMBER] fra [COMPANY_NAME]",
+"fi-FI":"Lasku [NUMBER] yritykseltä [COMPANY_NAME]"
+},
+"CURRENTINVOICES_DETAILS_PDFVIEW_ACTION_EMAIL":{
+"en-GL":"Send by e-mail",
+"da-DK":"Send via e-mail",
+"sv-SE":"Skicka med e-post",
+"no-NO":"Send via E-post",
+"fi-FI":"Lähetä sähköpostitse"
+},
+"CURRENTINVOICES_DETAILS_PDFVIEW_TITLE":{
+"en-GL":"Invoice [NUMBER]",
+"da-DK":"Faktura [NUMBER]",
+"sv-SE":"Faktura [NUMBER]",
+"no-NO":"Faktura [NUMBER]",
+"fi-FI":"Lasku [NUMBER]"
+},
+"CURRENTINVOICE_DETAILS_DOWNLOADINGPDF":{
+"en-GL":"Downloading PDF",
+"da-DK":"Hentning PDF",
+"sv-SE":"Laddar PDF",
+"no-NO":"Nedlaster PDF",
+"fi-FI":"PDF latautuu"
+},
+"CURRENTINVOICELINE_DETAILS_UNITSROOT_TITLE":{
+"en-GL":"Units",
+"da-DK":"Enheder",
+"sv-SE":"Enheter",
+"no-NO":"Enheter",
+"fi-FI":"Yksiköt"
+},
+"CURRENTINVOICELINE_DETAILS_TITLE":{
+"en-GL":"Invoice line",
+"da-DK":"Faktura linje",
+"sv-SE":"Fakturarad",
+"no-NO":"Faktura linje",
+"fi-FI":"Laskurivi"
+},
+"CURRENTINVOICELINE_DETAILS_PRODUCTSECTION_TITLE":{
+"en-GL":"Product",
+"da-DK":"Produkt",
+"sv-SE":"Produkt",
+"no-NO":"Produkt",
+"fi-FI":"Artikkeli"
+},
+"CURRENTINVOICELINE_DETAILS_PRODUCTDESCRIPTION_PLACEHOLDER":{
+"en-GL":"Product description",
+"da-DK":"Produktbeskrivelse",
+"sv-SE":"Produktbeskrivning",
+"no-NO":"Varebeskrivelse",
+"fi-FI":"Artikkelin kuvaus"
+},
+"CURRENTINVOICELINE_DETAILS_PRICINGSECTION_TITLE":{
+"en-GL":"Pricing",
+"da-DK":"Prisfastsættelse",
+"sv-SE":"Prissättning",
+"no-NO":"Prising",
+"fi-FI":"Hinnoittelu"
+},
+"CURRENTINVOICELINE_DETAILS_PRICING_QUANTITY":{
+"en-GL":"Quantity",
+"da-DK":"Antal",
+"sv-SE":"Antal",
+"no-NO":"Antall",
+"fi-FI":"Määrä"
+},
+"CURRENTINVOICELINE_DETAILS_PRICING_QUANTITY_PLACEHOLDER":{
+"en-GL":"Quantity",
+"da-DK":"Antal",
+"sv-SE":"Antal",
+"no-NO":"Antall",
+"fi-FI":"Määrä"
+},
+"CURRENTINVOICELINE_DETAILS_PRICING_PRICE":{
+"en-GL":"Price",
+"da-DK":"Pris",
+"sv-SE":"Pris",
+"no-NO":"Prising",
+"fi-FI":"Hinta"
+},
+"CURRENTINVOICELINE_DETAILS_PRICING_PRICE_PLACEHOLDER":{
+"en-GL":"Price",
+"da-DK":"Pris",
+"sv-SE":"Pris",
+"no-NO":"Prising",
+"fi-FI":"Hinta"
+},
+"CURRENTINVOICELINE_DETAILS_PRICING_DISCOUNT":{
+"en-GL":"Discount %",
+"da-DK":"Rabat %",
+"sv-SE":"Rabatt%",
+"no-NO":"Rabatt%",
+"fi-FI":"Alennus%"
+},
+"CURRENTINVOICELINE_DETAILS_PRICING_DISCOUNT_PLACEHOLDER":{
+"en-GL":"Discount %",
+"da-DK":"Rabat %",
+"sv-SE":"Rabatt%",
+"no-NO":"Rabatt%",
+"fi-FI":"Alennus%"
+},
+"CURRENTINVOICELINE_DETAILS_LINEINFOSECTION_TITLE":{
+"en-GL":"Line information",
+"da-DK":"Linje detaljer",
+"sv-SE":"Raddetaljer",
+"no-NO":"Linje detaljer",
+"fi-FI":"Rivin tiedot"
+},
+"CURRENTINVOICELINE_DETAILS_LINEINFOSECTION_GROSSPRICE":{
+"en-GL":"Gross price",
+"da-DK":"Brutto pris",
+"sv-SE":"Bruttopris",
+"no-NO":"Brutto pris",
+"fi-FI":"Bruttohinta"
+},
+"CURRENTINVOICELINE_DETAILS_LINEINFOSECTION_MARGIN":{
+"en-GL":"Margin",
+"da-DK":"Avance",
+"sv-SE":"Marginal",
+"no-NO":"Margin",
+"fi-FI":"Marginaali"
+},
+"CURRENTINVOICELINE_DETAILS_LINEINFOSECTION_MARGIN_PERCENT":{
+"en-GL":"Margin %",
+"da-DK":"Avance %",
+"sv-SE":"Marginal (%)",
+"no-NO":"Margin%",
+"fi-FI":"Marginaali%"
+},
+"CURRENTINVOICELINE_DETAILS_SELECTPRODUCT_PLACEHOLDER":{
+"en-GL":"Select product",
+"da-DK":"Vælg produkt",
+"sv-SE":"Välj produkt",
+"no-NO":"Velg vare",
+"fi-FI":"Valitse artikkeli"
+},
+"CURRENTINVOICELINE_DETAILS_ERROR_NOTVALIDDISCOUNT":{
+"en-GL":"Please enter a valid discount",
+"da-DK":"Angiv en gyldig rabat",
+"sv-SE":"Vänligen ange giltig rabatt",
+"no-NO":"Angi en gylding rabatt",
+"fi-FI":"Anna alennus"
+},
+"CURRENTINVOICELINE_DETAILS_ERROR_NOQUANTITY":{
+"en-GL":"Please specify quantity",
+"da-DK":"Angiv antal",
+"sv-SE":"Vänligen ange antal",
+"no-NO":"Angi antall",
+"fi-FI":"Anna määrä"
+},
+"CURRENTINVOICELINE_DETAILS_ERROR_NOPRODUCT":{
+"en-GL":"Please select a product or enter product name",
+"da-DK":"Vælg et produkt eller indtaste et produktnavn",
+"sv-SE":"Välj produkt eller skriv produktnamnet",
+"no-NO":"Velg en vare eller inntast varenavn",
+"fi-FI":"Valitse artikkeli tai anna artikkelin nimi"
+},
+"CURRENTINVOICELINE_DETAILS_COSTPRICE":{
+"en-GL":"Cost price",
+"da-DK":"Kostpris",
+"sv-SE":"Kostpris",
+"no-NO":"Kostpris",
+"fi-FI":"Omakustannushinta"
+},
+"CURRENTINVOICELINE_DETAILS_STOCK_SECTION_HEADER":{
+"en-GL":"Stock",
+"da-DK":"Lager",
+"sv-SE":"Lager",
+"no-NO":"Lager",
+"fi-FI":"Varasto"
+},
+"CURRENTINVOICELINE_DETAILS_STOCK_INSTOCK":{
+"en-GL":"In Stock",
+"da-DK":"På lager",
+"sv-SE":"På lager",
+"no-NO":"På lager",
+"fi-FI":"Varastossa"
+},
+"CURRENTINVOICELINE_DETAILS_STOCK_AVAILABLE":{
+"en-GL":"Available",
+"da-DK":"Til rådighed",
+"sv-SE":"Tillgängligt",
+"no-NO":"Til gode",
+"fi-FI":"Saatavana"
+},
+"CURRENTINVOICELINE_DETAILS_STOCK_ONORDER":{
+"en-GL":"On Order",
+"da-DK":"I ordre",
+"sv-SE":"I order",
+"no-NO":"På ordre",
+"fi-FI":"Tilauksessa"
+},
+"CURRENTINVOICELINE_DETAILS_STOCK_ORDERED":{
+"en-GL":"Ordered",
+"da-DK":"Bestilt",
+"sv-SE":"Beställt",
+"no-NO":"Bestilt",
+"fi-FI":"Tilattu"
+},
+"CURRENTINVOICETABLE_SEARCH_PLACEHOLDER":{
+"en-GL":"Search invoices",
+"da-DK":"Søg fakturaer",
+"sv-SE":"Sök fakturor",
+"no-NO":"Søk faktura",
+"fi-FI":"Etsi laskuja"
+},
+"CURRENTINVOICETABLE_TITLE":{
+"en-GL":"Invoices",
+"da-DK":"Fakturaer",
+"sv-SE":"Fakturor",
+"no-NO":"Fakturaer",
+"fi-FI":"Laskut"
+},
+"CURRENTINVOICETABLE_STATUSBAR_LOADING":{
+"en-GL":"Invoices are loading…",
+"da-DK":"Indlæser fakturaer...",
+"sv-SE":"Laddar fakturor...",
+"no-NO":"Laster inn fakturaer",
+"fi-FI":"Laskuja ladataan..."
+},
+"CURRENTINVOICETABLE_STATUSBAR_LOADED":{
+"en-GL":"Invoices loaded",
+"da-DK":"Fakturaer indlæst",
+"sv-SE":"Fakturor nerladdade",
+"no-NO":"Fakturaer lastet",
+"fi-FI":"Laskut ladattu"
+},
+"CURRENTINVOICETABLE_LOADINGINVOICE":{
+"en-GL":"Loading",
+"da-DK":"Indlæser",
+"sv-SE":"Läser in",
+"no-NO":"Laster inn fakturaer",
+"fi-FI":"Ladataan"
+},
+"CURRENTINVOICETABLE_POPUP_INVOICENOTEXIST_TITLE":{
+"en-GL":"The invoice does not exist",
+"da-DK":"Fakturaen eksisterer ikke",
+"sv-SE":"Fakturan finns inte",
+"no-NO":"Fakturaen eksisterer ikke",
+"fi-FI":"Laskua ei ole olemassa"
+},
+"CURRENTINVOICETABLE_POPUP_INVOICENOTEXIST_MESSAGE":{
+"en-GL":"Please refresh the list",
+"da-DK":"Venligst opdatere listen",
+"sv-SE":"Vänligen uppdatera listan",
+"no-NO":"Vennligst oppdater listen",
+"fi-FI":"Päivitä lista"
+},
+"CURRENTINVOICETABLE_ERROR_CANNOTOPENINVOICE":{
+"en-GL":"Cannot open invoice",
+"da-DK":"Kan ikke åbne faktura",
+"sv-SE":"Kan inte öppna fakturan",
+"no-NO":"Faktura kan ikke åpnes",
+"fi-FI":"Laskua ei voida avata"
+},
+"CURRENTINVOICETABLE_DELETE":{
+"en-GL":"Delete",
+"da-DK":"Slet",
+"sv-SE":"Ta bort",
+"no-NO":"Slett",
+"fi-FI":"Poista"
+},
+"CURRENTINVOICETABLE_POPUP_DELETE":{
+"en-GL":"Deleting Current Invoice",
+"da-DK":"Sletter faktura",
+"sv-SE":"Tar bort faktura",
+"no-NO":"Sletter faktura",
+"fi-FI":"Poista nykyinen lasku"
+},
+"CURRENTINVOICETABLE_DELETE_SUCCESS":{
+"en-GL":"Invoice deleted",
+"da-DK":"Faktura slettet",
+"sv-SE":"Fakturan bortagen",
+"no-NO":"Faktura slettet",
+"fi-FI":"Lasku poistettu"
+},
+"CURRENTINVOICETABLE_POPUP_DELETEERROR_TITLE":{
+"en-GL":"Invoice cannot be deleted",
+"da-DK":"Faktura kan ikke slettes",
+"sv-SE":"Fakturan kan inte tas bort",
+"no-NO":"Faktura kan ikke slettes",
+"fi-FI":"Laskua ei voida poistaa"
+},
+"CURRENTINVOICES_EMPTYSTATE_BUTTONTEXT":{
+"en-GL":"Create new invoice",
+"da-DK":"Opret ny faktura",
+"sv-SE":"Skapa ny faktura",
+"no-NO":"Opprett ny faktura",
+"fi-FI":"Luo uusi lasku"
+},
+"CURRENTINVOICETABLE_TOOLBAR_COUNT":{
+"en-GL":"Count: [NUMBER]",
+"da-DK":"[NUMBER] post(er) i alt",
+"sv-SE":"Räkna: [NUMBER]",
+"no-NO":"[NUMBER] post(er) i alt",
+"fi-FI":"Määrä: [NUMBER]"
+},
+"CURRENTINVOICETABLE_TOOLBAR_TOTAL":{
+"en-GL":"Total: [NUMBER]",
+"da-DK":"Summen: [NUMBER]",
+"sv-SE":"Summa: [NUMBER]",
+"no-NO":"Sum: [NUMBER]",
+"fi-FI":"Yhteensä: [NUMBER]"
+},
+"SLIDEOUT_ORDERS":{
+"en-GL":"Orders",
+"da-DK":"Ordrer",
+"no-NO":"Ordre",
+"fi-FI":"Tilaukset"
+},
+"ORDERS_SEARCH_PLACEHOLDER":{
+"en-GL":"Search orders",
+"da-DK":"Søg ordrer",
+"sv-SE":"Sök orders",
+"no-NO":"Søk ordre",
+"fi-FI":"Etsi tilauksia"
+},
+"ORDERSTABLE_TITLE":{
+"en-GL":"Orders",
+"da-DK":"Ordrer",
+"no-NO":"Ordre",
+"fi-FI":"Tilaukset"
+},
+"ORDERSTABLE_STATUSBAR_LOADING":{
+"en-GL":"Orders are loading...",
+"da-DK":"Indlæser ordrer",
+"sv-SE":"Laddar orders",
+"no-NO":"Laster ordre",
+"fi-FI":"Tilauksia ladataan..."
+},
+"ORDERSTABLE_STATUSBAR_LOADED":{
+"en-GL":"Orders loaded",
+"da-DK":"Udført ordrer",
+"sv-SE":"Orders laddade",
+"no-NO":"Ordre utført",
+"fi-FI":"Tilaukset ladattu"
+},
+"ORDERS_EMPTYSTATE_BUTTONTEXT":{
+"en-GL":"Add new order",
+"da-DK":"Oprette ny ordre",
+"sv-SE":"Lägga ny order",
+"no-NO":"Opprette ny ordre",
+"fi-FI":"Lisää uusi tilaus"
+},
+"ORDERTABLE_LOADINGORDER":{
+"en-GL":"Loading",
+"da-DK":"Indlæser",
+"sv-SE":"Laddar",
+"no-NO":"Laster ordre",
+"fi-FI":"Ladataan"
+},
+"ORDERTABLE_DELETE":{
+"en-GL":"Delete",
+"da-DK":"Slet",
+"sv-SE":"Ta bort",
+"no-NO":"Slett",
+"fi-FI":"Poista"
+},
+"ORDERTABLE_POPUP_DELETE":{
+"en-GL":"Deleting Order",
+"da-DK":"Sletning ordre",
+"sv-SE":"Tar bort order",
+"no-NO":"Slette ordre",
+"fi-FI":"Poista tilaus"
+},
+"ORDERTABLE_POPUP_DELETEERROR_TITLE":{
+"en-GL":"Order cannot be deleted",
+"da-DK":"Ordren kan ikke slettes",
+"sv-SE":"Order kan inte tas bort",
+"no-NO":"Ordren kan ikke slettes",
+"fi-FI":"Tilausta ei voida poistaa"
+},
+"ORDERS_DETAILS_SELECTCUSTOMER_PLACEHOLDER":{
+"en-GL":"Select customer",
+"da-DK":"Vælg kunde",
+"sv-SE":"Välj kund",
+"no-NO":"Velg kunde",
+"fi-FI":"Valitse asiakas"
+},
+"ORDERS_DETAILS_BARBUTTON_CONVERT":{
+"en-GL":"Convert To Invoice",
+"da-DK":"Konvertér til faktura",
+"sv-SE":"Konvertera till faktura",
+"no-NO":"Konverter til faktura",
+"fi-FI":"Muunna laskuksi"
+},
+"ORDERS_DETAILS_VIEW":{
+"en-GL":"Preview",
+"da-DK":"Vis ordre",
+"sv-SE":"Förhandsgranska",
+"no-NO":"Vis ordre",
+"fi-FI":"Esikatselu"
+},
+"ORDERS_DETAILS_ORDER_LOADING":{
+"en-GL":"Loading",
+"da-DK":"Indlæser",
+"sv-SE":"Laddar",
+"no-NO":"Laster",
+"fi-FI":"Ladataan"
+},
+"ORDERS_DETAILS_DATE":{
+"en-GL":"Order Date",
+"da-DK":"Ordredato",
+"sv-SE":"Orderdatum",
+"no-NO":"Ordredato",
+"fi-FI":"Tilauspäivä"
+},
+"ORDERS_DETAILS_NEWORDER_TITLE":{
+"en-GL":"New order",
+"da-DK":"Ny ordre",
+"sv-SE":"Ny order",
+"no-NO":"Ny ordre",
+"fi-FI":"Uusi tilaus"
+},
+"ORDERS_DETAILS_CUSTOMER_TITLE":{
+"en-GL":"Customer",
+"da-DK":"Kunden",
+"sv-SE":"Kunden",
+"no-NO":"Kunden",
+"fi-FI":"Asiakas"
+},
+"ORDERS_DETAILS_TITLE":{
+"en-GL":"Order",
+"da-DK":"Ordrer",
+"no-NO":"Ordre",
+"fi-FI":"Tilaus"
+},
+"ORDERS_DETAILS_SELECTCUSTOMERSECTION_TITLE":{
+"en-GL":"Customer",
+"da-DK":"Kunden",
+"sv-SE":"Kunden",
+"no-NO":"Kunden",
+"fi-FI":"Asiakas"
+},
+"ORDERS_DETAILS_DETAILSSECTION_TITLE":{
+"en-GL":"Order Details",
+"da-DK":"Ordre detaljer",
+"sv-SE":"Orderuppgifter",
+"no-NO":"Ordre detaljer",
+"fi-FI":"Tilaustiedot"
+},
+"ORDERS_DETAILS_ADDITIONAL":{
+"en-GL":"Additional",
+"da-DK":"Yderligere",
+"sv-SE":"Övrigt",
+"no-NO":"Ytterligere",
+"fi-FI":"Ylimääräinen"
+},
+"ORDERS_DETAILS_CONFIRMCONVERT_YES":{
+"en-GL":"Convert",
+"da-DK":"Konvertér",
+"sv-SE":"Konvertera",
+"no-NO":"Konverter",
+"fi-FI":"Muunna"
+},
+"ORDERS_DETAILS_TEXT1_PLACEHOLDER":{
+"en-GL":"Description",
+"da-DK":"Beskrivelse",
+"sv-SE":"Beskrivning",
+"no-NO":"Beskrivelse",
+"fi-FI":"Kuvaus"
+},
+"ORDERS_DETAILS_CONFIRMCONVERT_TITLE":{
+"en-GL":"Convert to invoice",
+"da-DK":"Konvertér til faktura",
+"sv-SE":"Konvertera till faktura",
+"no-NO":"Konverter til faktura",
+"fi-FI":"Muunna laskuksi"
+},
+"ORDERS_DETAILS_CONFIRMCONVERT_MESSAGE":{
+"en-GL":"Are you sure you want to convert to invoice? This action cannot be undone.",
+"da-DK":"Er du sikker på, du vil konvertere til faktura? Denne handling kan ikke fortrydes.",
+"sv-SE":"Är du säker på att du vill konvertera till faktura? Denna åtgärd kan inte ångras.",
+"no-NO":"Er du sikker på at du vil konvertere til faktura? Denne handlingen kan ikke angres",
+"fi-FI":"Haluatko varmasti muuntaa laskuksi? Tätä toimintoa ei voi perua."
+},
+"ORDERS_DETAILS_CONFIRMCONVERT_NO":{
+"en-GL":"Cancel",
+"da-DK":"Annullér",
+"sv-SE":"Avbryt",
+"no-NO":"Avbryt",
+"fi-FI":"Peruuta"
+},
+"ORDERS_DETAILS_CONVERT_INCOMPLETE":{
+"en-GL":"Order is not complete. Please create new order",
+"da-DK":"Ordre er ikke komplet. Opret venligst ny ordre",
+"sv-SE":"Order är inte komplett. Skapa ny order",
+"no-NO":"Ordren er ikke komplett. Opprett ny vare",
+"fi-FI":"Tilaus ei ole valmis. Luo uusi tilaus"
+},
+"ORDERS_DETAILS_CONVERT_POPUP":{
+"en-GL":"Converting order",
+"da-DK":"Konvertering ordre",
+"sv-SE":"Konvertera order",
+"no-NO":"Konvertering av ordre",
+"fi-FI":"Muunnetaan tilausta"
+},
+"ORDERS_DETAILS_ERROR_SAVING":{
+"en-GL":"Error saving order",
+"da-DK":"Fejl besparelse ordre",
+"sv-SE":"Order kan inte sparas",
+"no-NO":"Feil under lagring av ordre",
+"fi-FI":"Virhe tilausta tallentaessa"
+},
+"ORDER_DETAILS_CONVERT_FAILED":{
+"en-GL":"Failed to convert order to invoice",
+"da-DK":"Kan ikke konvertere til en faktura",
+"sv-SE":"Det går inte att konvertera till en faktura",
+"no-NO":"Kan ikke konvertere til faktura",
+"fi-FI":"Tilauksen muunto laskuksi epäonnistui"
+},
+"ORDER_DETAILS_POPUP_LOADING_TITLE":{
+"en-GL":"Loading PDF",
+"da-DK":"Indlæser PDF",
+"sv-SE":"Laddar PDF",
+"no-NO":"Laster PDF",
+"fi-FI":"PDF latautuu"
+},
+"ORDER_DETAILS_POPUP_LOADING_MESSAGE":{
+"en-GL":"Please wait",
+"da-DK":"Vent venligst",
+"sv-SE":"Vänta",
+"no-NO":"Vennligst vent",
+"fi-FI":"Odota"
+},
+"ORDERS_DETAILS_ERROR_PREVIEW_TITLE":{
+"en-GL":"Cannot preview order",
+"da-DK":"Kan ikke få vist ordre",
+"sv-SE":"Kan inte förhandsgranska aktuell order",
+"no-NO":"Kan ikke vise ordre",
+"fi-FI":"Tilausta ei voida esikatsella"
+},
+"ORDERS_DETAILS_ERROR_PREVIEW_SAVEMESSAGE":{
+"en-GL":"A problem occurred while saving order",
+"da-DK":"Der opstod et problem under lagring ordre",
+"sv-SE":"Ett fel uppstod när order skulle sparas",
+"no-NO":"Det oppstod et problem under lagringen av ordren",
+"fi-FI":"Ongelma sattui tilausta tallennettaessa"
+},
+"ORDERS_DETAILS_ERROR_PREVIEW_DOWNLOADMESSAGE":{
+"en-GL":"A problem occurred while downloading order",
+"da-DK":"Der opstod et problem, mens du downloader aktuelle ordre",
+"sv-SE":"Ett fel uppstod när order skulle laddas ned",
+"no-NO":"Det oppstod er problem under nedlasting av ordre",
+"fi-FI":"Ongelma sattui tilausta ladattaessa"
+},
+"ORDERS_DETAILS_ERROR_PREVIEW_NOTSAVED":{
+"en-GL":"Please save your order first",
+"da-DK":"Gem ordre først",
+"sv-SE":"Vänligen spara order först",
+"no-NO":"Vennligst lagre din ordre først",
+"fi-FI":"Tallenna tilauksesi ensin"
+},
+"ORDERS_DETAILS_POPUP_SAVING":{
+"en-GL":"Saving order",
+"da-DK":"Gemmer ordre",
+"sv-SE":"Sparar order",
+"no-NO":"Lagrer ordre",
+"fi-FI":"Tilausta tallennetaan"
+},
+"ORDERS_DETAILS_LINESECTION_TITLE":{
+"en-GL":"Order lines",
+"da-DK":"Ordrelinjer",
+"sv-SE":"Orderrader",
+"no-NO":"Ordrelinjer",
+"fi-FI":"Tilausrivit"
+},
+"ORDERS_DETAILS_ADDNEWLINE":{
+"en-GL":"Add new line",
+"da-DK":"Tilføj linje",
+"sv-SE":"Lägg till rad",
+"no-NO":"Legg til Linje",
+"fi-FI":"Lisaa uusi rivi"
+},
+"ORDER_DETAILS_TOTALSECTION_TITLE":{
+"en-GL":"Totals",
+"da-DK":"Totaler",
+"sv-SE":"Summor",
+"no-NO":"Totalt",
+"fi-FI":"Yhteensä"
+},
+"ORDER_DETAILS_TOTALS_SUBTOTAL":{
+"en-GL":"Subtotal",
+"da-DK":"Subtotal",
+"sv-SE":"Totalt netto",
+"no-NO":"Delsum",
+"fi-FI":"Välisumma"
+},
+"ORDER_DETAILS_TOTALS_VAT":{
+"en-GL":"VAT",
+"da-DK":"Moms",
+"sv-SE":"Moms",
+"no-NO":"Mva",
+"fi-FI":"Alv"
+},
+"ORDER_DETAILS_TOTALS_TOTAL":{
+"en-GL":"Total [SUM]",
+"da-DK":"Total [SUM]",
+"sv-SE":"Att betala [SUM]",
+"no-NO":"Total [SUM]",
+"fi-FI":"Yhteensä [SUM]"
+},
+"ORDERS_DETAILS_POPUP_NOTSAVED_TITLE":{
+"en-GL":"Not Saved",
+"da-DK":"Ordre blev ikke gemt",
+"sv-SE":"Order har inte sparats",
+"no-NO":"Ordre ble ikke lagret",
+"fi-FI":"Ei tallennettu"
+},
+"ORDERS_DETAILS_POPUP_NOTSAVED_UNITNOTEXT":{
+"en-GL":"The unit does not exist",
+"da-DK":"Enheden fungerer ikke eksisterer",
+"sv-SE":"Enheten finns inte",
+"no-NO":"Denne enheten eksisterer ikke",
+"fi-FI":"Yksikköä ei ole olemassa"
+},
+"ORDERS_DETAILS_POPUP_BARRED_PRODUCT_TITLE":{
+"en-GL":"Cannot save order",
+"da-DK":"Kan ikke gemme ordre",
+"sv-SE":"Kan inte spara order",
+"no-NO":"Kan ikke lagre ordre",
+"fi-FI":"Tilausta ei voida tallentaa"
+},
+"ORDERS_DETAILS_POPUP_BARRED_PRODUCT_MESSAGE":{
+"en-GL":"Product is barred",
+"da-DK":"Produktet er spærret",
+"sv-SE":"Produkten är spärrad",
+"no-NO":"Vare er sperret",
+"fi-FI":"Artikkeli on estetty"
+},
+"ORDERS_DETAILS_POPUP_BARRED_DEBTOR_TITLE":{
+"en-GL":"Cannot save order",
+"da-DK":"Kan ikke gemme ordre",
+"sv-SE":"Kan inte spara order",
+"no-NO":"Kan ikke lagre ordre",
+"fi-FI":"Tilausta ei voida tallentaa"
+},
+"ORDERS_DETAILS_POPUP_BARRED_DEBTOR_MESSAGE":{
+"en-GL":"Customer is barred",
+"da-DK":"Kunden er spærret",
+"sv-SE":"Kunden är spärrad",
+"no-NO":"Kunden er sperret",
+"fi-FI":"Asiakas on estetty"
+},
+"ORDERS_DETAILS_POPUP_SELECTCUSTOMER":{
+"en-GL":"Please select a customer",
+"da-DK":"Vælg en kunde",
+"sv-SE":"Vänligen välj kund",
+"no-NO":"Velg en kunde",
+"fi-FI":"Valitse asiakas"
+},
+"ORDER_DETAILS_ERROR_CANNOTDELETE":{
+"en-GL":"Cannot delete line",
+"da-DK":"Kan ikke slette linje",
+"sv-SE":"Kan inte ta bort raden",
+"no-NO":"Kan ikke slette linje",
+"fi-FI":"Riviä ei voida poistaa"
+},
+"ORDER_DETAILS_CONVERT_SUCCESS":{
+"en-GL":"Success",
+"da-DK":"Succes",
+"sv-SE":"Succé",
+"no-NO":"Vellykket",
+"fi-FI":"Onnistui"
+},
+"ORDERLINE_TITLE":{
+"en-GL":"Order line",
+"da-DK":"Ordre linje",
+"sv-SE":"Orderrad",
+"no-NO":"Ordre linje",
+"fi-FI":"Tilausrivi"
+},
+"ORDERLINE_DELETEBUTTON":{
+"en-GL":"Delete Order Line",
+"da-DK":"Slet Linje",
+"sv-SE":"Radera orderrad",
+"no-NO":"Slett linje",
+"fi-FI":"Poista tilausrivi"
+},
+"ORDERLINE_DETAILS_STOCK_SECTION_HEADER":{
+"en-GL":"Stock",
+"da-DK":"Lager",
+"sv-SE":"Lager",
+"no-NO":"Lager",
+"fi-FI":"Varasto"
+},
+"ORDERLINE_DETAILS_STOCK_INSTOCK":{
+"en-GL":"In Stock",
+"da-DK":"På lager",
+"sv-SE":"På lager",
+"no-NO":"På lager",
+"fi-FI":"Varastossa"
+},
+"ORDERLINE_DETAILS_STOCK_AVAILABLE":{
+"en-GL":"Available",
+"da-DK":"Til rådighed",
+"sv-SE":"Tillgängligt",
+"no-NO":"Til gode",
+"fi-FI":"Saatavana"
+},
+"ORDERLINE_DETAILS_STOCK_ONORDER":{
+"en-GL":"On Order",
+"da-DK":"I ordre",
+"sv-SE":"I order",
+"no-NO":"I ordre",
+"fi-FI":"Tilauksessa"
+},
+"ORDERLINE_DETAILS_STOCK_ORDERED":{
+"en-GL":"Ordered",
+"da-DK":"Bestilt",
+"sv-SE":"Beställt",
+"no-NO":"Bestilt",
+"fi-FI":"Tilattu"
+},
+"ORDER_DETAILS_SAVE_SUCCESS":{
+"en-GL":"Saved order",
+"da-DK":"Gemt ordre",
+"sv-SE":"Sparad order",
+"no-NO":"Ordre lagret",
+"fi-FI":"Tallenna tilaus"
+},
+"ORDER_DETAILS_SAVE_FAILED":{
+"en-GL":"Order was not saved",
+"da-DK":"Ordre blev ikke gemt",
+"sv-SE":"Order har inte sparats",
+"no-NO":"Ordre ble ikke lagret",
+"fi-FI":"Tilausta ei tallennettu"
+},
+"ORDER_DETAILS_ERROR_SAVING":{
+"en-GL":"Error saving order",
+"da-DK":"Fejl besparelse ordre",
+"sv-SE":"Order kan inte sparas",
+"no-NO":"Feil under lagring av ordre",
+"fi-FI":"Virhe tilausta tallennettaessa"
+},
+"ORDERS_ADDITIONAL_TEXT2_PLACEHOLDER":{
+"en-GL":"Order Note",
+"da-DK":"Ordre Obs",
+"sv-SE":"Order Obs",
+"no-NO":"Ordre note",
+"fi-FI":"Tilauksen huomautus"
+},
+"ORDERTABLE_POPUP_ORDERNOTEXITST_TITLE":{
+"en-GL":"The order does not exist",
+"da-DK":"Ordre findes ikke",
+"sv-SE":"Order finns inte",
+"no-NO":"Ordre finnes ikke",
+"fi-FI":"Tätä tilausta ei ole olemassa"
+},
+"ORDERTABLE_POPUP_ORDERNOTEXITST_MESSAGE":{
+"en-GL":"Please refresh the list",
+"da-DK":"Venligst opdatere listen",
+"sv-SE":"Vänligen uppdatera listan",
+"no-NO":"Vennligst oppdater listen",
+"fi-FI":"Päivitä lista"
+},
+"ORDERTABLE_ERROR_CANNOTOPENORDER":{
+"en-GL":"Cannot open order",
+"da-DK":"Kan ikke åbne ordre",
+"sv-SE":"Kan inte öppna order",
+"no-NO":"Kan ikke åpne ordre",
+"fi-FI":"Tilausta ei voida avata"
+},
+"ORDER_DETAILS_CANNOTCONVERT":{
+"en-GL":"Cannot convert order",
+"da-DK":"Kan ikke konvertere ordre",
+"sv-SE":"Kan inte konvertera order",
+"no-NO":"Kan ikke konvertere ordre",
+"fi-FI":"Tilausta ei voida muuntaa"
+},
+"ORDER_DETAILS_POPUP_BARRED_PRODUCT_TITLE":{
+"en-GL":"One of the products in the order lines is barred",
+"da-DK":"Et af produkterne i ordrelinjer er spærret",
+"sv-SE":"En av produkterna på orderraden är spärrad",
+"no-NO":"En av varene i ordrelinjen er sperret",
+"fi-FI":"Yksi tilausrivien artikkeleista on estetty"
+},
+"ORDER_DETAILS_POPUP_BARRED_PRODUCT_MESSAGE":{
+"en-GL":"Please allow access to this product before trying to save/convert the order",
+"da-DK":"Venligst give adgang til dette produkt før du forsøger at gemme ordre",
+"sv-SE":"Vänligen tillåt åtkomst till denna produkt innan du försöker att spara order",
+"no-NO":"Vennligst gi adgang til denne varen før du forsøker å lagre ordre",
+"fi-FI":"Salli pääsy tähän artikkeliin ennen kuin yrität tallentaa/muuntaa tilauksen"
+},
+"ORDERS_DETAILS_PDFVIEW_TITLE":{
+"en-GL":"Order [NUMBER]",
+"da-DK":"Ordre [NUMBER]",
+"no-NO":"Ordre [NUMBER]",
+"fi-FI":"Tilaus [NUMBER]"
+},
+"ORDERS_DETAILS_EMAILSUBJECT":{
+"en-GL":"Order [NUMBER] from [COMPANY_NAME]",
+"da-DK":"Ordre [NUMBER] fra [COMPANY_NAME]",
+"sv-SE":"Order [NUMBER] från [COMPANY_NAME]",
+"no-NO":"Ordre [NUMBER] fra [COMPANY_NAME]",
+"fi-FI":"Tilaus [NUMBER] yrityksestä [COMPANY_NAME]"
+},
+"RATE_TITLE":{
+"en-GL":"Rate MobileOffice for e-conomic",
+"da-DK":"Bedøm MobileOffice for e-conomic",
+"sv-SE":"Betygsätt MobileOffice for e-conomic",
+"no-NO":"Bedøm MobileOffice for e-conomic",
+"fi-FI":"Arvostele MobileOffice for e-conomic"
+},
+"RATE_MESSAGE":{
+"en-GL":"Do you enjoy using MobileOffice for e-conomic? If so, please rate it",
+"da-DK":"Nyder du at bruge MobileOffice for e-conomic? Hvis ja, bedes du sats det",
+"sv-SE":"Är du nöjd med MobileOffice for e-conomic? Vänligen betygsätt",
+"no-NO":"Nyter du å bruke MobileOffice for e-conomic? Hvis ja, Vennligst bedøm appen",
+"fi-FI":"Nautitko MobileOffice for e-conomicin käyttämisestä?"
+},
+"RATE_BUTTON_NO":{
+"en-GL":"No thanks",
+"da-DK":"Nej tak",
+"sv-SE":"Nej tack",
+"no-NO":"Nei takk",
+"fi-FI":"Ei kiitos"
+},
+"RATE_BUTTON_YES":{
+"en-GL":"Rate now",
+"da-DK":"Bedøm nu",
+"sv-SE":"Betygsätt nu",
+"no-NO":"Bedøm nå",
+"fi-FI":"Arvostele nyt"
+},
+"RATE_BUTTON_LATER":{
+"en-GL":"Remind me later",
+"da-DK":"Påmind mig senere",
+"sv-SE":"Påminn mig senare",
+"no-NO":"Påminn meg senere",
+"fi-FI":"Muistuta myöhemmin"
+},
+"DEBTOR_DETAILS_RADIO_VATZONES":{
+"en-GL":"Vat Zones",
+"da-DK":"Momszone",
+"sv-SE":"Momsområde",
+"no-NO":"Mva sone",
+"fi-FI":"Alv-alueet"
+},
+"DEBTOR_DETAILS_RADIO_PAYMENT":{
+"en-GL":"Payment",
+"da-DK":"Betingelser",
+"sv-SE":"Betalningsvillkor",
+"no-NO":"Betingelser",
+"fi-FI":"Maksut"
+},
+"DEBTOR_DETAILS_RADIO_GROUP":{
+"en-GL":"Group",
+"da-DK":"Gruppe",
+"sv-SE":"Grupp",
+"no-NO":"Gruppe",
+"fi-FI":"Ryhmä"
+},
+"DEBTOR_DETAILS_RADIO_CURRENCY":{
+"en-GL":"Currency",
+"da-DK":"Valuta",
+"sv-SE":"Valuta",
+"no-NO":"Valuta",
+"fi-FI":"Valuutta"
+},
+"DEBTOR_DETAILS_NEWDEBTOR_TITLE":{
+"en-GL":"New Customer",
+"da-DK":"Ny",
+"sv-SE":"Ny",
+"no-NO":"Ny",
+"fi-FI":"Uusi asiakas"
+},
+"DEBTOR_DETAILS_GENERALSECTION_TITLE":{
+"en-GL":"General",
+"da-DK":"Generel",
+"no-NO":"Generel",
+"fi-FI":"Yleinen"
+},
+"DEBTOR_DETAILS_DEBTORNAME":{
+"en-GL":"Name",
+"da-DK":"Navn",
+"sv-SE":"Namn",
+"no-NO":"Navn",
+"fi-FI":"Nimi"
+},
+"DEBTOR_DETAILS_DEBTORNAME_PLACEHOLDER":{
+"en-GL":"Customer name",
+"da-DK":"Navn",
+"sv-SE":"Namn",
+"no-NO":"Navn",
+"fi-FI":"Asiakasnimi"
+},
+"DEBTOR_DETAILS_GROUPSECTION_TITLE":{
+"en-GL":"Customer group",
+"da-DK":"Kundegruppe",
+"sv-SE":"Kundgrupp",
+"no-NO":"Kundegruppe",
+"fi-FI":"Asiakasryhmä"
+},
+"DEBTOR_DETAILS_VAT":{
+"en-GL":"VAT No.",
+"da-DK":"Momsnr.",
+"sv-SE":"Momsnummer",
+"no-NO":"Mva nr.",
+"fi-FI":"Alv-numero"
+},
+"DEBTOR_DETAILS_VAT_PLACEHOLDER":{
+"en-GL":"VAT Number",
+"da-DK":"Momsnr.",
+"sv-SE":"Momsnummer",
+"no-NO":"Mva nr.",
+"fi-FI":"Alv-numero"
+},
+"DEBTOR_DETAILS_LOCATIONSECTION_TITLE":{
+"en-GL":"Address",
+"da-DK":"Adresse",
+"sv-SE":"Adress",
+"no-NO":"Adresse",
+"fi-FI":"Osoite"
+},
+"DEBTOR_DETAILS_ADDRESS_PLACEHOLDER":{
+"en-GL":"Address",
+"da-DK":"Adresse",
+"sv-SE":"Adress",
+"no-NO":"Adresse",
+"fi-FI":"Osoite"
+},
+"DEBTOR_DETAILS_TOWN":{
+"en-GL":"Town/City",
+"da-DK":"By",
+"sv-SE":"Ort",
+"no-NO":"By",
+"fi-FI":"Postitoimipaikka"
+},
+"DEBTOR_DETAILS_TOWN_PLACEHOLDER":{
+"en-GL":"Town/City",
+"da-DK":"By",
+"sv-SE":"Ort",
+"no-NO":"By",
+"fi-FI":"Postitoimipaikka"
+},
+"DEBTOR_DETAILS_COUNTY":{
+"en-GL":"County",
+"da-DK":"Amt",
+"sv-SE":"Län",
+"no-NO":"Fylke",
+"fi-FI":"Alue"
+},
+"DEBTOR_DETAILS_COUNTY_PLACEHOLDER":{
+"en-GL":"County",
+"da-DK":"Amt",
+"sv-SE":"Län",
+"no-NO":"Fylke",
+"fi-FI":"Alue"
+},
+"DEBTOR_DETAILS_POSTCODE":{
+"en-GL":"Postcode",
+"da-DK":"Postnr.",
+"sv-SE":"Postnr",
+"no-NO":"Postnr.",
+"fi-FI":"Postinumero"
+},
+"DEBTOR_DETAILS_POSTCODE_PLACEHOLDER":{
+"en-GL":"Postal/Zip code",
+"da-DK":"Postnr.",
+"sv-SE":"Postnr",
+"no-NO":"Postnr.",
+"fi-FI":"Postinumero"
+},
+"DEBTOR_DETAILS_COUNTRY":{
+"en-GL":"Country",
+"da-DK":"Land",
+"sv-SE":"Land",
+"no-NO":"Land",
+"fi-FI":"Maa"
+},
+"DEBTOR_DETAILS_COUNTRY_PLACEHOLDER":{
+"en-GL":"Country",
+"da-DK":"Land",
+"sv-SE":"Land",
+"no-NO":"Land",
+"fi-FI":"Maa"
+},
+"DEBTOR_DETAILS_CONTACTSECTION_TITLE":{
+"en-GL":"Contact",
+"da-DK":"Kontakt",
+"sv-SE":"Kontakt",
+"no-NO":"Kontakt",
+"fi-FI":"Yhteyshenkilö"
+},
+"DEBTOR_DETAILS_EMAIL":{
+"en-GL":"Invoice email",
+"da-DK":"Faktura e-mail",
+"sv-SE":"Faktura e-post",
+"no-NO":"Faktura E-post",
+"fi-FI":"Laskun sähköposti"
+},
+"DEBTOR_DETAILS_EMAIL_PLACEHOLDER":{
+"en-GL":"E-Mail",
+"da-DK":"E-mail",
+"sv-SE":"E-post",
+"no-NO":"E-post",
+"fi-FI":"Sähköposti"
+},
+"DEBTOR_DETAILS_PHONE":{
+"en-GL":"Telephone/Fax",
+"da-DK":"Tlf.",
+"sv-SE":"Tel.",
+"no-NO":"Tlf.",
+"fi-FI":"Puhelin/Fax"
+},
+"DEBTOR_DETAILS_PHONE_PLACEHOLDER":{
+"en-GL":"Telephone/Fax",
+"da-DK":"Tlf.",
+"sv-SE":"Tel.",
+"no-NO":"Tlf.",
+"fi-FI":"Puhelin/Fax"
+},
+"DEBTOR_DETAILS_OTHERSECTION_TITLE":{
+"en-GL":"Other",
+"da-DK":"Øvrigt",
+"sv-SE":"Övrigt",
+"no-NO":"Øvrige",
+"fi-FI":"Muu"
+},
+"DEBTOR_DETAILS_WEBSITE":{
+"en-GL":"Website",
+"da-DK":"Hjemmeside",
+"sv-SE":"Webbsida",
+"no-NO":"Hjemmeside",
+"fi-FI":"Kotisivu"
+},
+"DEBTOR_DETAILS_WEBSITE_PLACEHOLDER":{
+"en-GL":"Customer website",
+"da-DK":"Hjemmeside",
+"sv-SE":"Webbsida",
+"no-NO":"Hjemmeside",
+"fi-FI":"Asiakkaan kotisivu"
+},
+"DEBTOR_DETAILS_COMPANYREGISTERNUMBER":{
+"en-GL":"Co. Reg. No.",
+"da-DK":"CVR-nr.",
+"sv-SE":"Org-nr.",
+"no-NO":"Org-nr.",
+"fi-FI":"Y-tunnus"
+},
+"DEBTOR_DETAILS_COMPANYREGISTERNUMBER_PLACEHOLDER":{
+"en-GL":"Company Register Number",
+"da-DK":"CVR",
+"sv-SE":"Organisationsnummer",
+"no-NO":"Org-nr.",
+"fi-FI":"Yritystunnus"
+},
+"DEBTOR_DETAILS_ADDITIONALSECTION_TITLE":{
+"en-GL":"Additional",
+"da-DK":"Yderligere",
+"sv-SE":"Övrigt",
+"no-NO":"Ytterligere",
+"fi-FI":"Lisätietoja"
+},
+"DEBTOR_DETAILS_CREDITLIMIT":{
+"en-GL":"Credit limit",
+"da-DK":"Kredit",
+"sv-SE":"Kreditgräns",
+"no-NO":"Kredit",
+"fi-FI":"Luottoraja"
+},
+"DEBTOR_DETAILS_CREDITLIMIT_PLACEHOLDER":{
+"en-GL":"Credit limit",
+"da-DK":"Kreditmaksimum",
+"sv-SE":"Kreditmaximum",
+"no-NO":"Kredit",
+"fi-FI":"Luottoraja"
+},
+"DEBTOR_DETAILS_POPUP_SAVING":{
+"en-GL":"Saving",
+"da-DK":"Gemmer",
+"sv-SE":"Sparar",
+"no-NO":"Lagrer",
+"fi-FI":"Tallennetaan"
+},
+"DEBTOR_DETAILS_POPUP_SAVED":{
+"en-GL":"Saved",
+"da-DK":"Gemt",
+"sv-SE":"Sparad",
+"no-NO":"Lagret",
+"fi-FI":"Tallennettu"
+},
+"DEBTOR_DETAILS_NOTSAVED_TITLE":{
+"en-GL":"The customer was not saved",
+"da-DK":"Kunden blev ikke gemt",
+"sv-SE":"Kunden har inte sparats",
+"no-NO":"Kunden ble ikke lagret",
+"fi-FI":"Asiakasta ei tallennettu"
+},
+"DEBTOR_DETAILS_ERROR_SIDETABLENOTEXIST":{
+"en-GL":"The Customer Group/Term of payment/VAT group does not exist. Please try again",
+"da-DK":"Kunden Group / Betalingsbetingelser / VAT gruppe findes ikke. Prøv igen",
+"sv-SE":"Kundrgruppen / Betalningsvillkor / Momsgrupp existerar inte. Vänligen försök igen",
+"no-NO":"Kundegruppen/ Betalingsbetingelser/ Mva gruppe finnes ikke. Prøv igjen",
+"fi-FI":"Asiakasryhmä/Maksuehdot/Alv-ryhmä ei ole olemassa. Yritä uudelleen"
+},
+"DEBTOR_DETAILS_NUMBER":{
+"en-GL":"No.",
+"da-DK":"Nr.",
+"sv-SE":"Nr.",
+"no-NO":"Nr.",
+"fi-FI":"Nro"
+},
+"DEBTOR_DETAILS_NUMBER_PLACEHOLDER":{
+"en-GL":"Number",
+"da-DK":"Nr.",
+"sv-SE":"Nr.",
+"no-NO":"Nr.",
+"fi-FI":"Numero"
+},
+"DEBTOR_DETAILS_ERROR_NUMBEREXISTS":{
+"en-GL":"The number already exists",
+"da-DK":"Kundenummeret findes allerede",
+"sv-SE":"Kundnumret finns redan",
+"no-NO":"Kundenummeret finnes allerede",
+"fi-FI":"Numero on jo olemassa"
+},
+"DEBTOR_DETAILS_ACCESS":{
+"en-GL":"Enabled",
+"da-DK":"Aktiveret",
+"sv-SE":"Aktiverat",
+"no-NO":"Aktivert",
+"fi-FI":"Sallittu"
+},
+"DEBTOR_DETAILS_SECTIONTITLE_DELIVERY":{
+"en-GL":"Access",
+"da-DK":"Adgang",
+"sv-SE":"Tillgång",
+"no-NO":"Adgang",
+"fi-FI":"Pääsy"
+},
+"DEBTOR_DASHBOARD_ADDRESS":{
+"en-GL":"Address",
+"da-DK":"Adresse",
+"sv-SE":"Adress",
+"no-NO":"Adresse",
+"fi-FI":"Osoite"
+},
+"DEBTOR_DASHBOARD_PHONE":{
+"en-GL":"Call customer",
+"da-DK":"Ring kunde",
+"sv-SE":"Samtals kund",
+"no-NO":"Ring kunde",
+"fi-FI":"Soita asiakkaalle"
+},
+"DEBTOR_DASHBOARD_EMAIL":{
+"en-GL":"Send e-mail to customer",
+"da-DK":"Send e-mail til kunden",
+"sv-SE":"Skicka e-post till kunden",
+"no-NO":"Send E-post til kunden",
+"fi-FI":"Lähetä asiakkaalle sähköposti"
+},
+"DEBTOR_DASHBOARD_CREATEINVOICE":{
+"en-GL":"Create new invoice",
+"da-DK":"Opret ny faktura",
+"sv-SE":"Skapa ny faktura",
+"no-NO":"Opprett ny faktura",
+"fi-FI":"Luo uusi lasku"
+},
+"DEBTOR_DASHBOARD_BARBUTTON_EDIT":{
+"en-GL":"Edit customer",
+"da-DK":"Rediger kunde",
+"sv-SE":"Redigera kund",
+"no-NO":"Rediger kunde",
+"fi-FI":"Muokkaa asiakasta"
+},
+"DEBTOR_DASHBOARD_MAPERROR_NOTFOUND":{
+"en-GL":"The address cannot be found",
+"da-DK":"Adressen kan ikke findes",
+"sv-SE":"Adressen kan inte hittas",
+"no-NO":"Adressen kan ikke finnes",
+"fi-FI":"Osoitetta ei löydetty"
+},
+"DEBTOR_DASHBOARD_CANNOTCALL_TITLE":{
+"en-GL":"Cannot call customer",
+"da-DK":"Kan ikke ringe",
+"sv-SE":"Det går inte att ringa",
+"no-NO":"Kan ikke ringe",
+"fi-FI":"Asiakkaalle ei voi soittaa"
+},
+"DEBTOR_DASHBOARD_CANNOTCALL_MESSAGE":{
+"en-GL":"There is no telephone number",
+"da-DK":"Der er ingen telefonnummer",
+"sv-SE":"Det finns inget telefonnummer",
+"no-NO":"Det er ingen telefonnummer",
+"fi-FI":"Puhelinnumeroa ei ole annettu"
+},
+"DEBTOR_DASHBOARD_NOADDRESS":{
+"en-GL":"Add address",
+"da-DK":"Tilføj adresse",
+"sv-SE":"Lägg till adress",
+"no-NO":"Legg til adresse",
+"fi-FI":"Lisää osoite"
+},
+"DEBTOR_DASHBOARD_NOPHONE":{
+"en-GL":"Add telephone number",
+"da-DK":"Tilføj telefonnummer",
+"sv-SE":"Lägg till telefonnummer",
+"no-NO":"Legg til telefonnummer",
+"fi-FI":"Lisää puhelinnumero"
+},
+"DEBTOR_DASHBOARD_NOEMAIL":{
+"en-GL":"Add e-mail",
+"da-DK":"Tilføj e-mail",
+"sv-SE":"Lägg till e-post",
+"no-NO":"Legg til E-post",
+"fi-FI":"Lisää sähköposti"
+},
+"DEBTOR_DASHBOARD_BALANCE_TITLE":{
+"en-GL":"Balance",
+"da-DK":"Saldo",
+"sv-SE":"Saldo",
+"no-NO":"Saldo",
+"fi-FI":"Saldo"
+},
+"DEBTOR_DASHBOARD_BALANCE_BALANCE":{
+"en-GL":"Balance",
+"da-DK":"Saldo",
+"sv-SE":"Saldo",
+"no-NO":"Saldo",
+"fi-FI":"Saldo"
+},
+"DEBTOR_DASHBOARD_BALANCE_DUEINVOICES":{
+"en-GL":"Due Invoices",
+"da-DK":"Forfaldne fakturaer",
+"sv-SE":"Förfallna fakturor",
+"no-NO":"Folfalte faktura",
+"fi-FI":"Maksamattomat laskut"
+},
+"DEBTOR_DASHBOARD_BALANCE_THISYEAR":{
+"en-GL":"This Year",
+"da-DK":"Dette år",
+"sv-SE":"Detta år",
+"no-NO":"Dette året",
+"fi-FI":"Tämä vuosi"
+},
+"DEBTOR_DASHBOARD_BALANCE_LASTYEAR":{
+"en-GL":"Last Year",
+"da-DK":"Sidste år",
+"sv-SE":"Förra året",
+"no-NO":"Forrige år",
+"fi-FI":"Viime vuosi"
+},
+"DEBTOR_DASHBOARD_CHARTS_TITLE":{
+"en-GL":"Sales",
+"da-DK":"Salg",
+"sv-SE":"Försäljning",
+"no-NO":"Salg",
+"fi-FI":"Myynti"
+},
+"DEBTOR_DASHBOARD_CHARTS_PLOTLEGEND":{
+"en-GL":"Last 12 Months",
+"da-DK":"Sidste 12 måneder",
+"sv-SE":"Senaste 12 månaderna",
+"no-NO":"Siste 12 måneder",
+"fi-FI":"Viimeisimmät 12 kuukautta"
+},
+"DEBTOR_DASHBOARD_INVOICESLIST_TITLE":{
+"en-GL":"Invoices",
+"da-DK":"Fakturaer",
+"sv-SE":"Fakturor",
+"no-NO":"Fakturaer",
+"fi-FI":"Laskut"
+},
+"DEBTOR_DASHBOARD_ACTIONBUTTON_SHARECONTACT":{
+"en-GL":"Share Contact",
+"da-DK":"Del Kontakt",
+"sv-SE":"Dela Kontakt",
+"no-NO":"Del kontak",
+"fi-FI":"Jaa kontakti"
+},
+"DEBTOR_DASHBOARD_SHARECONTACT_SIGNATURE":{
+"en-GL":"### Sent by MobileOffice for e-conomic (mobileoffice.mca.mk) ###",
+"da-DK":"### Sendt af MobileOffice for e-conomic (mobileoffice.mca.mk) ###",
+"sv-SE":"### Skickat av Mobile för e-conomic (mobileoffice.mca.mk) ###",
+"no-NO":"### Sendt av MobileOffice for e-conomic (mobileoffice.mca.mk) ###",
+"fi-FI":"### Lähetetty MobileOffice for e-conomicin toimesta (mobileoffice.mca.mk) ###"
+},
+"DEBTOR_DASHBOARD_CONTACTSLIST_TITLE":{
+"en-GL":"Contacts",
+"da-DK":"Kontaktpersoner",
+"sv-SE":"Kontaktpersoner",
+"no-NO":"Kontaktpersoner",
+"fi-FI":"Yhteyshenkilöt"
+},
+"DEBTORTABLE_SEARCH_PLACEHOLDER":{
+"en-GL":"Search customers",
+"da-DK":"Søg i alle kunder",
+"sv-SE":"Sök alla kunder",
+"no-NO":"Søk i alle kunder",
+"fi-FI":"Etsi asiakkaita"
+},
+"DEBTORTABLE_TITLE":{
+"en-GL":"Customers",
+"da-DK":"Kunder",
+"sv-SE":"Kunder",
+"no-NO":"Kunder",
+"fi-FI":"Asiakkaat"
+},
+"DEBTORTABLE_BUTTON_DELETE":{
+"en-GL":"Delete",
+"da-DK":"Slet",
+"sv-SE":"Ta bort",
+"no-NO":"Slett",
+"fi-FI":"Poista"
+},
+"DEBTORTABLE_CANNOTDELETE_DEBTOREXISTININVOICE_TITLE":{
+"en-GL":"Cannot delete the customer because it exists in 1 or more invoices",
+"da-DK":"Kunden kan ikke slettes. Der er en eller flere posteringer for denne kunde",
+"sv-SE":"Kunden kan inte tas bort efetrsom det finns ett eller flera fakturor för denna kund",
+"no-NO":"Kunden kan ikke slettes. Der er en eller flere posteringer på denne kunden",
+"fi-FI":"Asiakasta ei voida poistaa kirjattujen laskujen takia"
+},
+"DEBTORTABLE_CANNOTDELETE_DEBTOREXISTININVOICE_MESSAGE_1":{
+"en-GL":"Do you want to hide it?",
+"da-DK":"Ønsker du at skjule det?",
+"sv-SE":"Vill du dölja det?",
+"no-NO":"Ønsker du å skjule det?",
+"fi-FI":"Haluatko piilottaa asiakkaan?"
+},
+"DEBTORTABLE_CANNOTDELETE_DEBTOREXISTININVOICE_MESSAGE_2":{
+"en-GL":"(Will be put in barred customers)",
+"da-DK":"(Vil blive sat i spærrede kunder)",
+"sv-SE":"(Kommer att placeras i spärrade kunder)",
+"no-NO":"(Vil bli satt i sperrede kunder)",
+"fi-FI":"(Siirretään estettyihin asiakkaisiin)"
+},
+"DEBTORTABLE_CANNOTDELETE_BUTTON_NO":{
+"en-GL":"No",
+"da-DK":"Nej",
+"sv-SE":"Nej",
+"no-NO":"Nei",
+"fi-FI":"Ei"
+},
+"DEBTORTABLE_CANNOTDELETE_BUTTON_YES":{
+"en-GL":"Yes",
+"da-DK":"Ja",
+"sv-SE":"Ja",
+"no-NO":"Ja",
+"fi-FI":"Kyllä"
+},
+"DEBTORTABLE_POPUP_DELETING":{
+"en-GL":"Deleting customer",
+"da-DK":"Sletning kunde",
+"sv-SE":"Kunden tas bort",
+"no-NO":"Sletter kunde",
+"fi-FI":"Poistetaan asiakasta"
+},
+"DEBTORTABLE_POPUP_DEBTOREXISTININVOICE_TITLE":{
+"en-GL":"The customer exists in one or more invoices",
+"da-DK":"Kunden eksisterer i en eller flere fakturaer",
+"sv-SE":"Det finns ett eller flera fakturor för denna kund",
+"no-NO":"Kunde eksisterer i en eller flere fakturaer",
+"fi-FI":"Asiakkaalla on yksi tai useampi lasku"
+},
+"DEBTORTABLE_POPUP_DEBTOREXISTININVOICE_MESSAGE":{
+"en-GL":"If you delete the customer, the invoice/s will also be deleted",
+"da-DK":"Hvis du sletter kunden, vil fakturaerne også slettet",
+"sv-SE":"Om du tar bort kunden, kommer dess fakturor också tas bort",
+"no-NO":"Hvis du sletter kunden, vil fakturaen også slettes",
+"fi-FI":"Jos poistat asiakkaan, lasku(t) poistuvat samalla."
+},
+"DEBTORTABLE_POPUP_DEBTOREXISTININVOICE_BUTTON_CANCEL":{
+"en-GL":"Cancel",
+"da-DK":"Annullér",
+"sv-SE":"Avbryt",
+"no-NO":"Avbryt",
+"fi-FI":"Peruuta"
+},
+"DEBTORTABLE_POPUP_DEBTOREXISTININVOICE_BUTTON_DELETE":{
+"en-GL":"Delete customer",
+"da-DK":"Slet kunde",
+"sv-SE":"Ta bort kund",
+"no-NO":"Slett kunde",
+"fi-FI":"Poista asiakas"
+},
+"DEBTORTABLE_CANOTDELETE_TITLE":{
+"en-GL":"The customer cannot be deleted",
+"da-DK":"Kunden kan ikke slettes",
+"sv-SE":"Kunden kan inte tas bort",
+"no-NO":"kunden kan ikke slettes",
+"fi-FI":"Asiakasta ei voida poistaa"
+},
+"DEBTORTABLE_ADDCONTACT_MANUALLY":{
+"en-GL":"Add Manually",
+"da-DK":"Tilføj manuelt",
+"sv-SE":"Lägg manuellt",
+"no-NO":"Legg til mauelt",
+"fi-FI":"Lisää manuaalisesti"
+},
+"DEBTORTABLE_ADDCONTACT_FROMCONTACTS":{
+"en-GL":"Add From Contacts",
+"da-DK":"Tilføj fra Kontakter",
+"sv-SE":"Lägg från kontakter",
+"no-NO":"Legg til kontakter",
+"fi-FI":"Lisää yhteyshenkilöistä"
+},
+"DEBTORTABLE_ADDCONTACT_FROMCVR":{
+"en-GL":"Add From CVR",
+"da-DK":"Tilføj fra CVR",
+"sv-SE":"Lägg till från CVR",
+"no-NO":"Legg til Org-nr.",
+"fi-FI":"Lisää Y-tunnuksista"
+},
+"DEBTORTABLE_TOOLBAR_SHOWBARRED":{
+"en-GL":"Show barred",
+"da-DK":"Vis spærret",
+"sv-SE":"Visa spärrade",
+"no-NO":"Vis sperrede",
+"fi-FI":"Näytä estetyt"
+},
+"DEBTORTABLE_TOOLBAR_HIDEBARRED":{
+"en-GL":"Hide barred",
+"da-DK":"Skjul spærret",
+"sv-SE":"Göm spärrade",
+"no-NO":"Skjul sperrede",
+"fi-FI":"Piilota estetyt"
+},
+"DEBTORTABLE_POPUP_CREATINGCUSTOMER":{
+"en-GL":"Creating Customer",
+"da-DK":"Oprettelse af Kunden",
+"sv-SE":"Skapa kund",
+"no-NO":"Opprettelse av kunden",
+"fi-FI":"Luodaan asiakasta"
+},
+"DEBTOR_CVR_SEARCHPLACEHOLDER":{
+"en-GL":"Find customer by name or CVR number",
+"da-DK":"Find kunden ved navn eller CVR-nummer",
+"sv-SE":"Sök kund på namn eller CVR-nummer",
+"no-NO":"Finn kunden ved bruk av navn eller Org nr",
+"fi-FI":"Etsi asiakas nimen tai Y-tunnuksen perusteella"
+},
+"DEBTOR_CVR_TITLE":{
+"en-GL":"CVR",
+"no-NO":"Org",
+"fi-FI":"Y-tunnus"
+},
+"INVOICETABLE_SEARCH_PLACEHOLDER":{
+"en-GL":"Search invoices",
+"da-DK":"Søg fakturaer",
+"sv-SE":"Sök fakturor",
+"no-NO":"Søk fakturaer",
+"fi-FI":"Etsi laskuja"
+},
+"INVOICETABLE_STATUSBAR_LOADING":{
+"en-GL":"Invoices are loading…",
+"da-DK":"Indlæser fakturaer...",
+"sv-SE":"Laddar fakturor...",
+"no-NO":"Laster faktura",
+"fi-FI":"Laskuja ladataan"
+},
+"INVOICETABLE_STATUSBAR_LOADED":{
+"en-GL":"Invoices loaded",
+"da-DK":"Fakturaer indlæst",
+"sv-SE":"Fakturor laddade",
+"no-NO":"Faktura Lastet",
+"fi-FI":"Laskut ladattu"
+},
+"INVOICETABLE_POPUP_PDFLOADING_TITLE":{
+"en-GL":"Loading PDF",
+"da-DK":"Indlæser PDF",
+"sv-SE":"Laddar PDF",
+"no-NO":"Laster PDF",
+"fi-FI":"PDF latautuu"
+},
+"INVOICETABLE_POPUP_PDFLOADING_MESSAGE":{
+"en-GL":"Please wait",
+"da-DK":"Vent venligst",
+"sv-SE":"Vänta",
+"no-NO":"Vennligst vent",
+"fi-FI":"Odota "
+},
+"INVOICETABLE_ERROR_DOWNLOADINGPDF":{
+"en-GL":"Error downloading PDF",
+"da-DK":"Fejl at hente PDF",
+"sv-SE":"Fel vid hämtning av PDF",
+"no-NO":"Feil under nedlasting av PDF",
+"fi-FI":"Virhe PDF:ää ladattaessa"
+},
+"INVOICETABLE_SEGMENT_ALL":{
+"en-GL":"All",
+"da-DK":"Alle",
+"sv-SE":"Alla",
+"no-NO":"Alle",
+"fi-FI":"Kaikki"
+},
+"INVOICETABLE_SEGMENT_DUEUNPAID":{
+"en-GL":"Due & Unpaid",
+"da-DK":"Forfaldne & Ubetalte",
+"sv-SE":"Förfallna & Obetalda",
+"no-NO":"Forfalte og ubetalte",
+"fi-FI":"Myöhässä & Maksamatta"
+},
+"INVOICETABLE_POPUP_LOADINGTOOLONG_TITLE":{
+"en-GL":"This is taking too long",
+"da-DK":"Det tager for lang tid",
+"sv-SE":"Det tar för lång tid",
+"no-NO":"Dette tar for lang tid",
+"fi-FI":"Tässä kestää liian pitkään"
+},
+"INVOICETABLE_POPUP_LOADINGTOOLONG_MESSAGE":{
+"en-GL":"Either there are a lot of invoices, or some error occurred. Try again later, and refresh the list",
+"da-DK":"Enten er der en masse af fakturaer, eller nogle fejl. Prøv igen senere, og opdatere listen",
+"sv-SE":"Antingen finns det många fakturor, eller ett fel har uppstod. Försök igen senare, och uppdatera listan",
+"no-NO":"Det er enten for mange fakturaer, eller oppstått en feil. Prøv igjen senere, og oppdater listen",
+"fi-FI":"Joko haettavana on paljon laskuja tai virhe sattui. Yritä uudelleen ja päivitä lista."
+},
+"PRODUCT_DETAILS_PRODUCTGROUP_TITLE":{
+"en-GL":"Product groups",
+"da-DK":"Varegruppe",
+"sv-SE":"Varugrupp",
+"no-NO":"Varegruppe",
+"fi-FI":"Artikkeliryhmät"
+},
+"PRODUCT_DETAILS_UNITGROUP_TITLE":{
+"en-GL":"Units",
+"da-DK":"Enheder",
+"sv-SE":"Enheter",
+"no-NO":"Enheter",
+"fi-FI":"Yksiköt"
+},
+"PRODUCT_DETAILS_GENERALSECTION_TITLE":{
+"en-GL":"General",
+"da-DK":"Generel",
+"no-NO":"Generelt",
+"fi-FI":"Yleinen"
+},
+"PRODUCT_DETAILS_DESCRIPTIONSECTION_TITLE":{
+"en-GL":"Description",
+"da-DK":"Beskrivelse",
+"sv-SE":"Beskrivning",
+"no-NO":"Beskrivelse",
+"fi-FI":"Kuvaus"
+},
+"PRODUCT_DETAILS_PRICINGSECTION_TITLE":{
+"en-GL":"Pricing",
+"da-DK":"Prisfastsættelse",
+"sv-SE":"Prissättning",
+"no-NO":"Pris fastsettelse",
+"fi-FI":"Hinnoittelu"
+},
+"PRODUCT_DETAILS_OTHERSECTION_TITLE":{
+"en-GL":"Other",
+"da-DK":"Øvrigt",
+"sv-SE":"Övrigt",
+"no-NO":"Øvrige",
+"fi-FI":"Muu"
+},
+"PRODUCT_DETAILS_PRODUCTNUMBER":{
+"en-GL":"No.",
+"da-DK":"Nummer",
+"sv-SE":"Nummer",
+"no-NO":"Nummer",
+"fi-FI":"Nro"
+},
+"PRODUCT_DETAILS_PRODUCTNUMBER_PLACEHOLDER":{
+"en-GL":"Product Number",
+"da-DK":"Varenr.",
+"sv-SE":"Artikelnr",
+"no-NO":"Varenr.",
+"fi-FI":"Artikkelinumero"
+},
+"PRODUCT_DETAILS_PRODUCTNAME":{
+"en-GL":"Name",
+"da-DK":"Navn",
+"sv-SE":"Namn",
+"no-NO":"Navn",
+"fi-FI":"Nimi"
+},
+"PRODUCT_DETAILS_PRODUCTNAME_PLACEHOLDER":{
+"en-GL":"Product Name",
+"da-DK":"Varenavn",
+"sv-SE":"Artikelnamn",
+"no-NO":"Varenavn",
+"fi-FI":"Artikkelinimi"
+},
+"PRODUCT_DETAILS_DESCRIPTION_PLACEHOLDER":{
+"en-GL":"Description",
+"da-DK":"Beskrivelse",
+"sv-SE":"Beskrivning",
+"no-NO":"Beskrivelse",
+"fi-FI":"Kuvaus"
+},
+"PRODUCT_DETAILS_SALESPRICE":{
+"en-GL":"Sales Price",
+"da-DK":"Salgspris",
+"sv-SE":"Försäljningspris",
+"no-NO":"Salgspris",
+"fi-FI":"Myyntihinta"
+},
+"PRODUCT_DETAILS_SALESPRICE_PLACEHOLDER":{
+"en-GL":"Sales Price",
+"da-DK":"Salgspris",
+"sv-SE":"Försäljningspris",
+"no-NO":"Salgspris",
+"fi-FI":"Myyntihinta"
+},
+"PRODUCT_DETAILS_RECOMMENDEDPRICE":{
+"en-GL":"Rec. Price",
+"da-DK":"Vejl. pris",
+"sv-SE":"Rek. pris",
+"no-NO":"Veil. pris",
+"fi-FI":"Suos. hinta"
+},
+"PRODUCT_DETAILS_RECOMMENDEDPRICE_PLACEHOLDER":{
+"en-GL":"Recommended Price",
+"da-DK":"Vejledende pris",
+"sv-SE":"Rekommenderat pris",
+"no-NO":"Veiledende pris",
+"fi-FI":"Suositeltava hinta"
+},
+"PRODUCT_DETAILS_BARCODE":{
+"en-GL":"Bar Code",
+"da-DK":"Stregkode",
+"sv-SE":"Streckkod",
+"no-NO":"Strekkode",
+"fi-FI":"Viivakoodi"
+},
+"PRODUCT_DETAILS_BARCODE_PLACEHOLDER":{
+"en-GL":"Bar Code",
+"da-DK":"Stregkode",
+"sv-SE":"Streckkod",
+"no-NO":"Strekkode",
+"fi-FI":"Viivakoodi"
+},
+"PRODUCT_DETAILS_POPUP_SELECTPRODUCTGROUP":{
+"en-GL":"Please select a Product group",
+"da-DK":"Vælg en produktgruppe",
+"sv-SE":"Välj en produktgrupp",
+"no-NO":"Velg varegruppe",
+"fi-FI":"Valitse Artikkeliryhmä"
+},
+"PRODUCT_DETAILS_SAVING":{
+"en-GL":"Saving",
+"da-DK":"Gemmer",
+"sv-SE":"Sparar",
+"no-NO":"Lagrer",
+"fi-FI":"Tallennetaan"
+},
+"PRODUCT_DETAILS_ERROR_PRODUCTNUMBEREXIST_TITLE":{
+"en-GL":"Cannot create new product",
+"da-DK":"Kan ikke oprette nye produkt",
+"sv-SE":"Kan inte skapa ny produkt",
+"no-NO":"Kan ikke opprette ny vare",
+"fi-FI":"Uutta artikkelia ei voida luoda"
+},
+"PRODUCT_DETAILS_ERROR_PRODUCTNUMBEREXIST_MESSAGE":{
+"en-GL":"Product number already exists",
+"da-DK":"Product findes allerede",
+"sv-SE":"Produkt nummer finns redan",
+"no-NO":"Vare finnes allere",
+"fi-FI":"Artikkelinumero on jo olemassa"
+},
+"PRODUCT_DETAILS_ERROR_NUMBERCANNOTCHANGE_TITLE":{
+"en-GL":"Cannot edit product",
+"da-DK":"Kan ikke redigere produkt",
+"sv-SE":"Kan inte ändra produkten",
+"no-NO":"Kan ikke redigere vare",
+"fi-FI":"Artikkelia ei voi muokata"
+},
+"PRODUCT_DETAILS_ERROR_NUMBERCANNOTCHANGE_MESSAGE":{
+"en-GL":"Product number cannot be changed",
+"da-DK":"Produkt nummer kan ikke ændres",
+"sv-SE":"Produktnummer kan inte ändras",
+"no-NO":"varenr kan ikke endres",
+"fi-FI":"Artikkelinumeroa ei voi muuttaa"
+},
+"PRODUCT_DETAILS_SAVED":{
+"en-GL":"Saved",
+"da-DK":"Gemt",
+"sv-SE":"Sparad",
+"no-NO":"Lagret",
+"fi-FI":"Tallennettu"
+},
+"PRODUCT_DETAILS_POPUP_NOTSAVED_TITLE":{
+"en-GL":"Product was not saved",
+"da-DK":"Produktet blev ikke gemt",
+"sv-SE":"Produkten sparades inte",
+"no-NO":"Vare ble ikke lagret",
+"fi-FI":"Artikkelia ei tallennettu"
+},
+"PRODUCT_DETAILS_ERROR_PRODUCTGROUPNOTEXIST":{
+"en-GL":"The Product Group does not exist. Please try again",
+"da-DK":"Product Group findes ikke. Prøv igen",
+"sv-SE":"Produktgruppen existerar inte. Vänligen försök igen",
+"no-NO":"Varegruppe",
+"fi-FI":"Artikkeliryhmä ei ole olemassa. Yritä uudestaan"
+},
+"PRODUCT_DETAILS_COSTPRICE":{
+"en-GL":"Cost price",
+"da-DK":"Kostpris",
+"sv-SE":"Kostpris",
+"no-NO":"Kostpris",
+"fi-FI":"Omakustannehinta"
+},
+"PRODUCT_DETAILS_COSTPRICE_PLACEHOLDER":{
+"en-GL":"Cost price",
+"da-DK":"Kostpris",
+"sv-SE":"Kostpris",
+"no-NO":"Kostpris",
+"fi-FI":"Omakustannehinta"
+},
+"PRODUCT_DETAILS_ACCESS":{
+"en-GL":"Access",
+"da-DK":"Adgang",
+"sv-SE":"Tillgång",
+"no-NO":"Adgang",
+"fi-FI":"Pääsy"
+},
+"PRODUCT_DASHBOARD_BARBUTTON_EDIT":{
+"en-GL":"Edit",
+"da-DK":"Redigere",
+"sv-SE":"Redigera",
+"no-NO":"Redigere",
+"fi-FI":"Muokkaa"
+},
+"PRODUCT_DASHBOARD_TITLE":{
+"en-GL":"Product",
+"da-DK":"Produkt",
+"sv-SE":"Produkt",
+"no-NO":"Produkt",
+"fi-FI":"Artikkeli"
+},
+"PRODUCT_DASHBOARD_NAME":{
+"en-GL":"Product Name",
+"da-DK":"Varenavn",
+"sv-SE":"Artikelnamn",
+"no-NO":"Varenavn",
+"fi-FI":"Artikkelin nimi"
+},
+"PRODUCT_DASHBOARD_PRODUCTGROUP":{
+"en-GL":"Group",
+"da-DK":"Gruppe",
+"sv-SE":"Grupp",
+"no-NO":"Gruppe",
+"fi-FI":"Ryhmä"
+},
+"PRODUCT_DASHBOARD_SALESPRICE":{
+"en-GL":"Sales Price",
+"da-DK":"Salgspris",
+"sv-SE":"Försäljningspris",
+"no-NO":"Salgspris",
+"fi-FI":"Myyntihinta"
+},
+"PRODUCT_DASHBOARD_COSTPRICE":{
+"en-GL":"Cost Price",
+"da-DK":"Kostpris",
+"sv-SE":"Kostpris",
+"no-NO":"Kostpris",
+"fi-FI":"Omakustannehinta"
+},
+"PRODUCT_DASHBOARD_STOCKSECTION_TITLE":{
+"en-GL":"Stock",
+"da-DK":"Lager",
+"sv-SE":"Lager",
+"no-NO":"Lager",
+"fi-FI":"Varasto"
+},
+"PRODUCT_DASHBOARD_INSTOCK":{
+"en-GL":"In Stock",
+"da-DK":"På lager",
+"sv-SE":"På lager",
+"no-NO":"På lager",
+"fi-FI":"Varastossa"
+},
+"PRODUCT_DASHBOARD_ONORDER":{
+"en-GL":"On Order",
+"da-DK":"I ordre",
+"sv-SE":"I order",
+"no-NO":"I ordre",
+"fi-FI":"Tilauksessa"
+},
+"PRODUCT_DASHBOARD_AVAILABLE":{
+"en-GL":"Available",
+"da-DK":"Til rådighed",
+"sv-SE":"Tillgängligt",
+"no-NO":"Til gode",
+"fi-FI":"Saatavana"
+},
+"PRODUCT_DASHBOARD_ORDERED":{
+"en-GL":"Ordered",
+"da-DK":"Bestilt",
+"sv-SE":"Beställt",
+"no-NO":"Bestilt",
+"fi-FI":"Tilattu"
+},
+"PRODUCTTABLE_SEARCH_PLACEHOLDER":{
+"en-GL":"Search products",
+"da-DK":"Søg i alle varer",
+"sv-SE":"Sök alla artiklar",
+"no-NO":"Søk i alle varer",
+"fi-FI":"Etsi artikkeleita"
+},
+"PRODUCTTABLE_TITLE":{
+"en-GL":"Products",
+"da-DK":"Varer",
+"sv-SE":"Artiklar",
+"no-NO":"Varer",
+"fi-FI":"Artikkelit"
+},
+"PRODUCTTABLE_STATUSBAR_LOADING":{
+"en-GL":"Products are loading…",
+"da-DK":"Indlæser varer...",
+"sv-SE":"Laddar artiklar...",
+"no-NO":"Laster inn varer",
+"fi-FI":"Artikkeleita ladataan"
+},
+"PRODUCTTABLE_STATUSBAR_LOADED":{
+"en-GL":"Products loaded",
+"da-DK":"Produkter indlæst",
+"sv-SE":"Produkter laddad",
+"no-NO":"Varer lastet inn",
+"fi-FI":"Artikkelit ladattu"
+},
+"PRODUCTTABLE_BUTTON_DELETE":{
+"en-GL":"Delete",
+"da-DK":"Slet",
+"sv-SE":"Ta bort",
+"no-NO":"Slett",
+"fi-FI":"Poista"
+},
+"PRODUCTTABLE_POPUP_PRODUCTEXISTSINLINE_TITLE":{
+"en-GL":"Cannot delete product because it exists in 1 or more invoice lines",
+"da-DK":"Kan ikke slette produkt, fordi det findes i 1 eller flere fakturalinjer",
+"sv-SE":"Kan inte ta bort produkten eftersom den finns i en eller flera fakturarader",
+"no-NO":"Kan ikke slette vare, fordi den finnes i 1 eller flere fakturalinjer",
+"fi-FI":"Artikkelia ei voida poistaa, koska sitä on käytetty laskuissa."
+},
+"PRODUCTTABLE_POPUP_PRODUCTEXISTSINLINE_MESSAGE_1":{
+"en-GL":"Do you want to hide it?",
+"da-DK":"Ønsker du at skjule det?",
+"sv-SE":"Vill du dölja det?",
+"no-NO":"Ønsker du å skjule det?",
+"fi-FI":"Haluatko piilottaa artikkelin?"
+},
+"PRODUCTTABLE_POPUP_PRODUCTEXISTSINLINE_MESSAGE_2":{
+"en-GL":"(Will be put in barred products)",
+"da-DK":"(Vil blive sat i spærrede produkter)",
+"sv-SE":"(Kommer att placeras i spärrade produkter)",
+"no-NO":"(Vil bli satt i sperrede varer)",
+"fi-FI":"(Siirretään estettyihin artikkeleihin)"
+},
+"PRODUCTTABLE_POPUP_PRODUCTEXISTSINLINE_BUTTON_YES":{
+"en-GL":"Yes",
+"da-DK":"Ja",
+"sv-SE":"Ja",
+"no-NO":"Ja",
+"fi-FI":"Kyllä"
+},
+"PRODUCTTABLE_POPUP_PRODUCTEXISTSINLINE_BUTTON_NO":{
+"en-GL":"No",
+"da-DK":"Nej",
+"sv-SE":"Nej",
+"no-NO":"Nei",
+"fi-FI":"Ei"
+},
+"PRODUCTTABLE_POPUP_DELETING_TITLE":{
+"en-GL":"Deleting Product",
+"da-DK":"Sletning produkt",
+"sv-SE":"Tar bort produkt",
+"no-NO":"Sletter vare",
+"fi-FI":"Poistetaan artikkelia"
+},
+"PRODUCTTABLE_ERROR_DELETING_TITLE":{
+"en-GL":"Product cannot be deleted",
+"da-DK":"Produktet kan ikke slettes",
+"sv-SE":"Produkten kan inte tas bort",
+"no-NO":"Vare kan ikke slettes",
+"fi-FI":"Artikkelia ei voida poistaa"
+},
+"PRODUCTTABLE_TOOLBAR_HIDEBARRED":{
+"en-GL":"Hide barred",
+"da-DK":"Skjul spærret",
+"sv-SE":"Göm spärrade",
+"no-NO":"Skjul vare",
+"fi-FI":"Piilota estetyt"
+},
+"PRODUCTTABLE_TOOLBAR_SHOWBARRED":{
+"en-GL":"Show barred",
+"da-DK":"Vis spærret",
+"sv-SE":"Visa spärrade",
+"no-NO":"Vis vare",
+"fi-FI":"Näytä estetyt"
+},
+"SCAN_TITLE_1":{
+"en-GL":"Upload receipts by taking a photo and do your expenses on the go",
+"da-DK":"Uploade kvitteringer ved at tage et foto og gøre dine udgifter på farten",
+"sv-SE":"Ladda upp kvitton genom att ta en bild och sköt dina utgifter när du vill",
+"no-NO":"Last opp kvitteringer ved å ta et bilde og ta deg av dine utgifter på farten",
+"fi-FI":"Lataa kuitit ottamalla kuva ja hoida kulusi lennosta"
+},
+"SCAN_TITLE_2":{
+"en-GL":"The image will be added as an entry in the selected Day Books category",
+"da-DK":"Billedet vil blive tilføjet som en post i den valgte Kassekladde kategori",
+"sv-SE":"Bilden kommer att läggas till som en post i den valda kassabokskategorin",
+"no-NO":"Bildet vil bli lagt til som en post i den valgte Kassekladd kategorien",
+"fi-FI":"Tämä kuva lisätään tapahtumana valittuun päiväkirjakategoriaan"
+},
+"SCAN_TITLE":{
+"en-GL":"Scan",
+"da-DK":"Indscanning",
+"sv-SE":"Skanna",
+"no-NO":"Innskanning",
+"fi-FI":"Skannaus"
+},
+"SCAN_BUTTON_TAKEPHOTO":{
+"en-GL":"Take a photo",
+"da-DK":"Tag billede",
+"sv-SE":"Ta bild",
+"no-NO":"Ta et bilde",
+"fi-FI":"Ota kuva"
+},
+"SCAN_BUTTON_FROMGALLERY":{
+"en-GL":"Select from gallery",
+"da-DK":"Billedbibliotek",
+"sv-SE":"Välj i bildarkiv",
+"no-NO":"Bilde galleri",
+"fi-FI":"Valitse galleriasta"
+},
+"SCAN_ERROR_CANNOTPICKPHOTO":{
+"en-GL":"Cannot pick an image at this moment",
+"da-DK":"Kan ikke vælge et billede på dette tidspunkt",
+"sv-SE":"Kan inte välja en bild just nu",
+"no-NO":"Kan ikke velge et bilde på dette tidspunktet",
+"fi-FI":"Kuvaa ei voida valita tällä hetkellä"
+},
+"SCAN_POPUP_SENDING":{
+"en-GL":"Sending",
+"da-DK":"Afsendelse",
+"sv-SE":"Skickar",
+"no-NO":"Avsendeslse",
+"fi-FI":"Lähetetään"
+},
+"SCAN_POPUP_ERROR":{
+"en-GL":"An error occurred",
+"da-DK":"Der opstod en fejl",
+"sv-SE":"Ett fel uppstod",
+"no-NO":"Det oppstod en feil",
+"fi-FI":"Virhe sattui"
+},
+"SCAN_ERROR_NOTSENT":{
+"en-GL":"Not sent",
+"da-DK":"Ikke sendt",
+"sv-SE":"Inte skickat",
+"no-NO":"Ikke sendt",
+"fi-FI":"Ei lähetetty"
+},
+"SCAN_POPUP_ERROR_NOACCESS_TITLE":{
+"en-GL":"Image was not sent",
+"da-DK":"Billede blev ikke sendt",
+"sv-SE":"Bilden har inte skickats",
+"no-NO":"Bilde ble ikke sendt",
+"fi-FI":"Kuvaa ei lähetetty"
+},
+"SCAN_POPUP_ERROR_NOACCESS_MESSAGE":{
+"en-GL":"The Scanning module is not enabled for your account",
+"da-DK":"Indscanning Modulet er ikke aktiveret for din aftale",
+"sv-SE":"Skanningsmodulen är inte aktiverad för ditt konto",
+"no-NO":"Innscannings modul er ikke aktivert for din avtale",
+"fi-FI":"Skannausmoduulia ei ole aktivoitu sopimuksessasi"
+},
+"SCAN_POPUP_ERROR_NOACCESS_BUTTON_OK":{
+"en-GL":"OK",
+"fi-FI":"OK"
+},
+"SCAN_POPUP_ERROR_NOACCESS_BUTTON_HELP":{
+"en-GL":"Help",
+"da-DK":"Hjælp",
+"sv-SE":"Hjälp",
+"no-NO":"Hjelp",
+"fi-FI":"Apua"
+},
+"SCAN_NOACCESS_URL":{
+"en-GL":"http://www.youtube.com/watch?v=jb2bcHwYWn4",
+"da-DK":"http://www.youtube.com/watch?v=W23rqU03qNY",
+"sv-SE":"http://www.youtube.com/watch?v=Uj3_iNDhHRs",
+"no-NO":"http://www.youtube.com/watch?v=W23rqU03qNY",
+"fi-FI":"http://www.youtube.com/watch?v=jb2bcHwYWn4"
+},
+"SCAN_SENT":{
+"en-GL":"Sent",
+"da-DK":"Sendt",
+"sv-SE":"Skickat",
+"no-NO":"Sendt",
+"fi-FI":"Lähetetty"
+},
+"SCAN_ERROR_DAYBOOKNOTEXIST":{
+"en-GL":"Day Book does not exist",
+"da-DK":"Kassekladde eksisterer ikke",
+"sv-SE":"Kassabok existerar inte",
+"no-NO":"Kassekladd eksisterer ikke",
+"fi-FI":"Päiväkirja ei ole olemassa"
+},
+"SCAN_POPUP_NOCAMERA":{
+"en-GL":"Camera is not available",
+"da-DK":"Camera er ikke tilgængelig",
+"sv-SE":"Kameran är inte tillgänglig",
+"no-NO":"Kamera er ikke tilgjengelig",
+"fi-FI":"Kamera ei ole käytettävissä"
+},
+"SCAN_SENDINGENTRIES_TITLE":{
+"en-GL":"Sending",
+"da-DK":"Sender",
+"sv-SE":"Skickar",
+"no-NO":"Sender",
+"fi-FI":"Lähetetään"
+},
+"SCAN_ALL_ENTRIES_SENT":{
+"en-GL":"All scans sent to e-conomic",
+"da-DK":"Alle billeder sendt til e-conomic",
+"sv-SE":"Alla bilder skickas till e-conomic",
+"no-NO":"Alle bilder sendt til e-conomic",
+"fi-FI":"Kaikki skannaukset lähetetään e-conomiciin"
+},
+"SCAN_AT_LEAST_ONE_ENTRY_FAILED":{
+"en-GL":"One or more scans were not sent",
+"da-DK":"Et eller flere billeder blev ikke sendt",
+"sv-SE":"En eller flera bilder har inte skickats",
+"no-NO":"Et eller flere bilder ble ikke sendt",
+"fi-FI":"Yhtä tai useampaa skannausta ei lähetetty"
+},
+"MAINSCAN_DEFAULTS_DAYBOOK":{
+"en-GL":"Daybook",
+"da-DK":"Kassekladde",
+"sv-SE":"Kassabok",
+"no-NO":"Kassekladd",
+"fi-FI":"Päiväkirja"
+},
+"MAINSCAN_DEFAULTS_ACCOUNT":{
+"en-GL":"Account",
+"da-DK":"Konto",
+"sv-SE":"Konto",
+"no-NO":"Konto",
+"fi-FI":"Tili"
+},
+"MAINSCAN_DEFAULTS_CONTRAACCOUNT":{
+"en-GL":"Contra Account",
+"da-DK":"Modkonto",
+"sv-SE":"Motkonto",
+"no-NO":"Motkonto",
+"fi-FI":"Vastatili"
+},
+"MAINSCAN_DEFAULTS_CONTRAACCOUNT_NONE":{
+"en-GL":"None",
+"da-DK":"Tom",
+"sv-SE":"Tom",
+"no-NO":"Tom",
+"fi-FI":"Tyhjä"
+},
+"MAINSCAN_QUICKSCAN":{
+"en-GL":"Quick Scan",
+"da-DK":"Quick Indscanning",
+"sv-SE":"Quick Skanning",
+"no-NO":"Quick scan",
+"fi-FI":"Pikaskannaus"
+},
+"MAINSCAN_DIRECTENTRIESBLOCKED_TITLE":{
+"en-GL":"The Account is blocked for direct entries",
+"da-DK":"Kontoen er spærret for direkte indgange",
+"sv-SE":"Kontot är spärrat för direkta poster",
+"no-NO":"Kontoen er sperret for direkte inngang",
+"fi-FI":"Tili on estetty suorilta tapahtumilta"
+},
+"MAINSCAN_DIRECTENTRIESBLOCKED_MESSAGE":{
+"en-GL":"Please refresh accounts or select a different account and try again",
+"da-DK":"Opdater venligst konti eller vælge en anden konto, og prøv igen",
+"sv-SE":"Vänligen uppdatera konton eller välja ett annat konto och försök igen",
+"no-NO":"Oppdater vennligst konti eller velg en annen konto og prøv igjen",
+"fi-FI":"Päivitä tilit tai valitse toinen tili ja yritä uudestaan"
+},
+"MAINSCAN_ACCOUNTINGYEARNOTCREATED_TITLE":{
+"en-GL":"Accounting year is not created",
+"da-DK":"Regnskabsår er ikke startet",
+"sv-SE":"Räkenskapsåret har inte startats",
+"no-NO":"Regnskapsår er ikke startet",
+"fi-FI":"Tilivuotta ei ole luotu"
+},
+"MAINSCAN_NOINTERNET_SECTIONTITLE":{
+"en-GL":"No Internet Connection",
+"da-DK":"Ingen internetforbindelse",
+"sv-SE":"Ingen Internet",
+"no-NO":"Ingen internettforbindelse",
+"fi-FI":"Ei Internet-yhteyttä"
+},
+"MAINSCAN_NOINTERNET_SECTIONFOOTER":{
+"en-GL":"Your entries will start sending as soon as internet connection is available",
+"da-DK":"Dine poster vil begynde at sende, så snart internetforbindelse er tilgængelig",
+"sv-SE":"Dina uppgifter kommer att börja skicka så fort internet finns",
+"no-NO":"Dine poster vil sendes så snart det finnes internettfobindelse",
+"fi-FI":"Tapahtumat lähetetään niin pian kuin Internet-yhteys on muodostettu"
+},
+"DETAILSCAN_TITLE":{
+"en-GL":"Entry",
+"da-DK":"Postering",
+"sv-SE":"Post",
+"no-NO":"Postering",
+"fi-FI":"Tapahtuma"
+},
+"DETAILSCAN_YOURSCAN":{
+"en-GL":"Image",
+"da-DK":"Billede",
+"sv-SE":"Bild",
+"no-NO":"Bilde",
+"fi-FI":"Kuva"
+},
+"DETAILSCAN_ACCOUNT":{
+"en-GL":"Account",
+"da-DK":"Konto",
+"sv-SE":"Konto",
+"no-NO":"Konto",
+"fi-FI":"Tili"
+},
+"DETAILSCAN_CONTRAACCOUNT":{
+"en-GL":"Contra Account",
+"da-DK":"Modkonto",
+"sv-SE":"Motkonto",
+"no-NO":"Motkonto",
+"fi-FI":"Vastatili"
+},
+"DETAILSCAN_AMOUNT":{
+"en-GL":"Amount",
+"da-DK":"Beløb",
+"sv-SE":"Belopp",
+"no-NO":"Beløp",
+"fi-FI":"Määrä"
+},
+"DETAILSCAN_TEXT":{
+"en-GL":"Enter text here",
+"da-DK":"Indtast tekst her",
+"sv-SE":"Skriv text här",
+"no-NO":"Inntast tekst her",
+"fi-FI":"Anna teksti tähän"
+},
+"DETAILSCAN_RADIOGROUP_DAYBOOKS_TITLE":{
+"en-GL":"Daybook",
+"da-DK":"Kassekladde",
+"sv-SE":"Kassabok",
+"no-NO":"Kassekladd",
+"fi-FI":"Päiväkirja"
+},
+"DETAILSCAN_RADIOGROUP_CURRENCY_TITLE":{
+"en-GL":"Currency",
+"da-DK":"Valuta",
+"sv-SE":"Valuta",
+"no-NO":"Valuta",
+"fi-FI":"Valuutta"
+},
+"ACCOUNTSTABLE_SEARCH_PLACEHOLDER":{
+"en-GL":"Search",
+"da-DK":"Søg",
+"sv-SE":"Sök",
+"no-NO":"Søk",
+"fi-FI":"Etsi"
+},
+"ACCOUNTSTABLE_TITLE":{
+"en-GL":"Chart of Accounts",
+"da-DK":"Kontoplan",
+"sv-SE":"Kontoplan",
+"no-NO":"Kontoplan",
+"fi-FI":"Tilikartta"
+},
+"ACCOUNTSTABLE_CONTRAACCOUNTS_TITLE":{
+"en-GL":"Chart of Accounts",
+"da-DK":"Kontoplan",
+"sv-SE":"Kontoplan",
+"no-NO":"Kontoplan",
+"fi-FI":"Tilikartta"
+},
+"ACCOUNTSTABLE_NO_CONTRAACCOUNT":{
+"en-GL":"None",
+"da-DK":"Tom",
+"sv-SE":"Tom",
+"no-NO":"Tom",
+"fi-FI":"Tyhjä"
+},
+"ACCOUNTSTABLE_LOADINGACCOUNTS_TITLE":{
+"en-GL":"Loading Accounts",
+"da-DK":"Indlæser kontoplan",
+"sv-SE":"Laddar kontoplan",
+"no-NO":"Laster kontoplan",
+"fi-FI":"Ladataan tilejä"
+},
+"ACCOUNTSTABLE_LOADINGACCOUNTS_MESSAGE":{
+"en-GL":"Please wait",
+"da-DK":"Vent venligst",
+"sv-SE":"Var god vänta",
+"no-NO":"Vennligst vent",
+"fi-FI":"Odota"
+},
+"SETTINGS_MODULESSECTION_TITLE":{
+"en-GL":"Modules",
+"da-DK":"Moduler",
+"sv-SE":"Moduler",
+"no-NO":"Moduler",
+"fi-FI":"Lisämoduulit"
+},
+"SETTINGS_SECTIONTITLE_INVOICES":{
+"en-GL":"Invoices",
+"da-DK":"Fakturaer",
+"sv-SE":"Fakturor",
+"no-NO":"Fakturaer",
+"fi-FI":"Laskut"
+},
+"SETTINGS_SECTIONTITLE_GENERAL":{
+"en-GL":"General",
+"da-DK":"Generel",
+"sv-SE":"Generell",
+"no-NO":"Generelt",
+"fi-FI":"Yleinen"
+},
+"SETTINGS_REFRESHBUTTON":{
+"en-GL":"Synchronize Data",
+"da-DK":"Synkronisere data",
+"sv-SE":"Synkronisera data som",
+"no-NO":"Synkronisere data",
+"fi-FI":"Dataa synkronisoidaan"
+},
+"SETTINGS_BUTTON_LOGOFF":{
+"en-GL":"Log Off",
+"da-DK":"Log af",
+"sv-SE":"Logga ut",
+"no-NO":"Logg av",
+"fi-FI":"Kirjaudu ulos"
+},
+"SETTINGS_SHOWBADGE":{
+"en-GL":"Show Badge",
+"da-DK":"Vis Badge",
+"sv-SE":"Visa avisering ",
+"no-NO":"Vis Badge",
+"fi-FI":"Näytä merkki"
+},
+"SETTINGS_VATZONES_TITLE":{
+"en-GL":"Vat Zones",
+"da-DK":"Momszone",
+"sv-SE":"Momsområde",
+"no-NO":"Mva sone",
+"fi-FI":"Alv-alueet"
+},
+"SETTINGS_DEBTORGROUP_TITLE":{
+"en-GL":"Customer Group",
+"da-DK":"Kundegruppe",
+"sv-SE":"Kundgrupp",
+"no-NO":"Kundegruppe",
+"fi-FI":"Asiakasryhmä"
+},
+"SETTINGS_DAYBOOKS_TITLE":{
+"en-GL":"Day Books",
+"da-DK":"Kassekladde",
+"sv-SE":"Kassabok",
+"no-NO":"Kassekladder",
+"fi-FI":"Päiväkirjat"
+},
+"SETTINGS_PININTERVAL_TITLE":{
+"en-GL":"Interval",
+"da-DK":"Interval",
+"sv-SE":"Intervall",
+"no-NO":"Interval",
+"fi-FI":"Väli"
+},
+"SETTINGS_PAYMENT_TITLE":{
+"en-GL":"Payment",
+"da-DK":"Betingelser",
+"sv-SE":"Betalningsvillkor",
+"no-NO":"Betingelser",
+"fi-FI":"Maksuehdot"
+},
+"SETTINGS_PININTERVAL_IMMEDIATELY":{
+"en-GL":"Immediately",
+"da-DK":"Straks",
+"sv-SE":"Omedelbart",
+"no-NO":"Straks",
+"fi-FI":"Heti"
+},
+"SETTINGS_PININTERVAL_MINUTES":{
+"en-GL":"[MINUTES] minutes",
+"da-DK":"[MINUTES] minutter",
+"sv-SE":"[MINUTES] minuter",
+"no-NO":"[MINUTES] minutter",
+"fi-FI":"[MINUTES] minuuttia"
+},
+"SETTINGS_TITLE":{
+"en-GL":"Settings",
+"da-DK":"Indstillinger",
+"sv-SE":"Inställningar",
+"no-NO":"Innstillinger",
+"fi-FI":"Asetukset"
+},
+"SETTINGS_DEBTORSECTION_TITLE":{
+"en-GL":"Customers",
+"da-DK":"Kunder",
+"sv-SE":"Kunder",
+"no-NO":"Kunder",
+"fi-FI":"Asiakkaat"
+},
+"SETTINGS_DEBTORSECTION_FOOTER":{
+"en-GL":"Set default customer settings",
+"da-DK":"Kundeindstillinger",
+"sv-SE":"Kundinställningar",
+"no-NO":"Kundeinnstillinger",
+"fi-FI":"Anna oletusasiakasasetukset"
+},
+"SETTINGS_SCANSECTION_TITLE":{
+"en-GL":"Scanning",
+"da-DK":"Indscanning",
+"sv-SE":"Skanning",
+"no-NO":"Innskanning",
+"fi-FI":"Skannaus"
+},
+"SETTINGS_SCANSECTION_FOOTER":{
+"en-GL":"Scanning Day Books settings",
+"da-DK":"Indscanningsindstillinger",
+"sv-SE":"Skanningsinställningar ",
+"no-NO":"Innskannings innstillinger",
+"fi-FI":"Skannauksen päiväkirja-asetukset"
+},
+"SETTINGS_PINSECTION_TITLE":{
+"en-GL":"Security",
+"da-DK":"Sikkerhed",
+"sv-SE":"Säkerhet",
+"no-NO":"Sikkerhet",
+"fi-FI":"Turvallisuus"
+},
+"SETTINGS_PINSECTION_FOOTER":{
+"en-GL":"Security settings",
+"da-DK":"Sikkerhedsindstillinger",
+"sv-SE":"Säkerhetsinställningar",
+"no-NO":"Sikkerhetsinnstillinger",
+"fi-FI":"Turvallisuusasetukset"
+},
+"SETTINGS_CHECKFORPIN":{
+"en-GL":"Check for PIN",
+"da-DK":"Kontroller for PIN",
+"sv-SE":"Kontrollera om PIN",
+"no-NO":"Kontroler ",
+"fi-FI":"Tarkistetaan PIN"
+},
+"SETTINGS_CHANGEPIN":{
+"en-GL":"Change PIN",
+"da-DK":"Skift PIN-kode",
+"sv-SE":"Ändra PIN-kod",
+"no-NO":"Endre PIN-kode",
+"fi-FI":"Muuta PIN"
+},
+"SETTINGS_BADGESECTION_TITLE":{
+"en-GL":"Badge options",
+"da-DK":"Badge optioner",
+"sv-SE":"Aviseringsalternativ",
+"no-NO":"Etikkete alternativer",
+"fi-FI":"Merkkiasetukset"
+},
+"SETTINGS_BADGESECTION_FOOTER":{
+"en-GL":"Indicates whether the red badge telling the number of due invoices will be shown after you close the application",
+"sv-SE":"Indikerar om det röda avisering som visar antalet förfallna fakturor kommer visas när du stänger programmet",
+"fi-FI":"Osoittaa näytetäänkö punaista merkkiä ohjelman sulkemisen jälkeen, mikä kertoo erääntyneiden laskujen määrän. "
+},
+"SETTINGS_FULLRESYNC_TITLE":{
+"en-GL":"Full Sync from e-conomic",
+"da-DK":"Fuld synkronisering fra e-conomic",
+"sv-SE":"Full synkronisering av e-conomic",
+"no-NO":"Full synkronisering fra e-conomic",
+"fi-FI":"Täysin synkronisoitu e-conomicista"
+},
+"SETTINGS_FULLRESYNC_ERROR_SENDINGSCANS_TITLE":{
+"en-GL":"Please wait",
+"da-DK":"Vent venligst",
+"sv-SE":"Vänta",
+"no-NO":"Vennligst vent",
+"fi-FI":"Odota"
+},
+"SETTINGS_FULLRESYNC_ERROR_SENDINGSCANS_MESSAGE":{
+"en-GL":"MobileOffice is still sending scans",
+"da-DK":"MobileOffice stadig sende scanninger",
+"sv-SE":"MobileOffice fortfarande skicka skanningar",
+"no-NO":"MobileOffice sender fortsatt skannede",
+"fi-FI":"MobileOffice lähettää vielä skannauksia"
+},
+"SETTINGS_FULLRESYNC_SECTIONFOOTER_DESCRIPTION":{
+"en-GL":"Use this feature to resolve missing data issues",
+"da-DK":"Brug denne funktion til at løse manglende data problemer",
+"sv-SE":"Använd denna funktion för att lösa saknade datafrågor",
+"no-NO":"Bruk denne funksjonen til å løse manglende dataproblemer",
+"fi-FI":"Käytä tätä toimintoa ratkaistaksesi dataongelmat"
+},
+"SETTINGS_POPUP_LOGGINGOFF":{
+"en-GL":"Logging Off",
+"da-DK":"Logger af",
+"sv-SE":"Loggar ut",
+"no-NO":"Logger av",
+"fi-FI":"Kirjaudutaan ulos"
+},
+"SETTINGS_POPUP_LOGGINGOFF_FAILED":{
+"en-GL":"Logging Off Failed",
+"da-DK":"Logger off mislykkedes",
+"sv-SE":"Utloggning misslyckades",
+"no-NO":"Av logging mislykkes",
+"fi-FI":"Uloskirjautuminen epäonnistui"
+},
+"SETTINGS_PINDIALOG_BUTTON_CLOSE":{
+"en-GL":"Close",
+"da-DK":"Luk",
+"sv-SE":"Stäng",
+"no-NO":"Lukk",
+"fi-FI":"Sulje"
+},
+"SETTINGS_PINDIALOG_YOURPIN":{
+"en-GL":"Your PIN",
+"da-DK":"Din PIN-kode",
+"sv-SE":"Din PIN-kod",
+"no-NO":"Din PIN-kode",
+"fi-FI":"Sinun PIN"
+},
+"SETTINGS_PINDIALOG_YOURPIN_PLACEHOLDER":{
+"en-GL":"Enter your PIN",
+"da-DK":"Indtast din pinkode",
+"sv-SE":"Ange din PIN-kod",
+"no-NO":"Sett inn PIN-kode",
+"fi-FI":"Anna sinun PIN"
+},
+"SETTINGS_PINDIALOG_CHANGEPIN_TITLE":{
+"en-GL":"Change PIN",
+"da-DK":"Skift PIN-kode",
+"sv-SE":"Ändra PIN-kod",
+"no-NO":"Skift PIN-kode",
+"fi-FI":"Muuta PIN"
+},
+"SETTINGS_PINDIALOG_NEWPIN":{
+"en-GL":"New PIN",
+"da-DK":"Ny PIN",
+"sv-SE":"Ny PIN",
+"no-NO":"Ny PIN",
+"fi-FI":"Uusi PIN"
+},
+"SETTINGS_PINDIALOG_NEWPIN_PLACEHOLDER":{
+"en-GL":"Enter new PIN",
+"da-DK":"Indtast den nye PIN",
+"sv-SE":"Ange ny PIN",
+"no-NO":"Inntast den nye PIN",
+"fi-FI":"Anna uusi PIN"
+},
+"SETTINGS_PINDIALOG_CONFIRMPIN":{
+"en-GL":"Confirm PIN",
+"da-DK":"Bekræft PIN",
+"sv-SE":"Bekräfta PIN",
+"no-NO":"Bekreft PIN",
+"fi-FI":"Varmenna PIN"
+},
+"SETTINGS_PINDIALOG_CONFIRMPIN_PLACEHOLDER":{
+"en-GL":"Re-enter new PIN",
+"da-DK":"Indtast ny PIN",
+"sv-SE":"Mata in ny PIN",
+"no-NO":"Inntast ny PIN",
+"fi-FI":"Anna uusi PIN uudelleen"
+},
+"SETTINGS_PINDIALOG_POPUP_INCORRECTPIN_TITLE":{
+"en-GL":"Incorrect PIN",
+"da-DK":"Forkert PIN",
+"sv-SE":"Felaktig PIN",
+"no-NO":"Feil PIN",
+"fi-FI":"Väärä PIN"
+},
+"SETTINGS_PINDIALOG_POPUP_INCORRECTPIN_MESSAGE":{
+"en-GL":"The PIN you entered is not correct. Please enter the correct PIN",
+"da-DK":"Den PIN-kode, du indtastede, er ikke korrekt. Indtast den korrekte PIN",
+"sv-SE":"PIN-koden du angav är inte korrekt. Ange rätt PIN-kod",
+"no-NO":"PIN koden du har tastet er feil. Inntast korrekt PIN",
+"fi-FI":"Antamasi PIN ei ole oikea. Anna oikea PIN"
+},
+"SETTINGS_PINDIALOG_POPUP_NOMATCH_TITLE":{
+"en-GL":"No Match",
+"da-DK":"Ingen Match",
+"sv-SE":"Överensstämmer inte",
+"no-NO":"Ingen Match",
+"fi-FI":"Ei tuloksia"
+},
+"SETTINGS_PINDIALOG_POPUP_NOMATCH_MESSAGE":{
+"en-GL":"You didn't confirm the new PIN correctly",
+"da-DK":"Du har ikke bekræfte den nye PIN-kode korrekt",
+"sv-SE":"Den nya PIN-koden kunde inte bekräftas rätt",
+"no-NO":"Du har bekreftet at den nye PIN er korrekt",
+"fi-FI":"Et varmentanut uutta PIN:iä oikein"
+},
+"SETTINGS_PINDIALOG_POPUP_SUCCESS_TITLE":{
+"en-GL":"Success",
+"da-DK":"Succes",
+"sv-SE":"Succé",
+"no-NO":"Vellykket",
+"fi-FI":"Onnistui"
+},
+"SETTINGS_PINDIALOG_POPUP_SUCCESS_MESSAGE_SET":{
+"en-GL":"PIN successfully set",
+"da-DK":"PIN succes oprettet",
+"sv-SE":"PIN-koden är inställd",
+"no-NO":"Opprettelse av PIN vellykket",
+"fi-FI":"PIN on asetettu "
+},
+"SETTINGS_PINDIALOG_POPUP_SUCCESS_MESSAGE_CHANGED":{
+"en-GL":"PIN successfully changed",
+"da-DK":"PIN held ændret",
+"sv-SE":"PIN-koden har ändrats",
+"no-NO":"Endring av PIN er vellykket",
+"fi-FI":"PIN on vaihdettu"
+},
+"SETTINGS_PINDIALOG_POPUP_ERROR_INVALIDPIN_TITLE":{
+"en-GL":"Invalid PIN",
+"da-DK":"Ugyldig PIN",
+"sv-SE":"Ogiltig PIN",
+"no-NO":"Ugyldig PIN",
+"fi-FI":"Väärä PIN"
+},
+"SETTINGS_PINDIALOG_POPUP_ERROR_INVALIDPIN_MESSAGE":{
+"en-GL":"Your PIN was not changed",
+"da-DK":"Din PIN-kode blev ikke ændret",
+"sv-SE":"Din PIN ändrades inte",
+"no-NO":"Din PIN-kode ble ikke endret",
+"fi-FI":"Sinun PIN:iä ei ole muutettu"
+},
+"SETTINGS_INVOICES_HEADER":{
+"en-GL":"NET / GROSS",
+"da-DK":"Netto / Brutto",
+"sv-SE":"Netto / Brutto",
+"no-NO":"Netto / Brutto",
+"fi-FI":"Netto / Brutto"
+},
+"SETTINGS_INVOICES_PRICETYPE_TITLE":{
+"en-GL":"Price Type",
+"da-DK":"Pris form",
+"sv-SE":"Pris formen",
+"no-NO":"Pris type",
+"fi-FI":"Hintatyyppi"
+},
+"SETTINGS_INVOICES_PRICETYPE_NET":{
+"en-GL":"Net",
+"da-DK":"Netto",
+"sv-SE":"Netto",
+"no-NO":"Netto",
+"fi-FI":"Netto"
+},
+"SETTINGS_INVOICES_PRICETYPE_GROSS":{
+"en-GL":"Gross",
+"da-DK":"Brutto",
+"sv-SE":"Brutto",
+"no-NO":"Brutto",
+"fi-FI":"Brutto"
+},
+"SETTINGS_LOGOFFERROR_SENDINGSCANS_TITLE":{
+"en-GL":"Cannot Log Off",
+"da-DK":"Kan ikke logge ud",
+"sv-SE":"Kan inte logga ut",
+"no-NO":"Kan ikke logge ut",
+"fi-FI":"Ei voida kirjautua ulos"
+},
+"SETTINGS_LOGOFFERROR_SENDINGSCANS_MESSAGE":{
+"en-GL":"MobileOffice is still sending scans",
+"da-DK":"MobileOffice stadig sende scanninger",
+"sv-SE":"MobileOffice fortfarande skicka skanningar",
+"no-NO":"MobileOffice sender fortsatt skannede",
+"fi-FI":"MobileOffice lähettää vielä skannauksia"
+},
+"SETTINGS_SCAN_ACCOUNT":{
+"en-GL":"Account",
+"da-DK":"Konto",
+"sv-SE":"Konto",
+"no-NO":"Konto",
+"fi-FI":"Tili"
+},
+"SETTINGS_SCAN_CONTRAACCOUNT":{
+"en-GL":"Contra Account",
+"da-DK":"Modkonto",
+"sv-SE":"Motkonto",
+"no-NO":"Motkonto",
+"fi-FI":"Vastatili"
+},
+"SETTINGS_POPUP_CONTRAACCOUNT_AUTOSET_TITLE":{
+"en-GL":"Default Contra Account",
+"da-DK":"Modkonto",
+"sv-SE":"Motkonto",
+"no-NO":"Motkonto",
+"fi-FI":"Oletusvastatili"
+},
+"SETTINGS_POPUP_CONTRAACCOUNT_AUTOSET_MESSAGE":{
+"en-GL":"There is a default Contra Account for the Account you selected. Do you want to change the default Contra Accout?",
+"da-DK":"Ønsker du at ændre din Modkonto til standard for denne konto?",
+"sv-SE":"Vill du ändra din Motkonto till standard för detta konto?",
+"no-NO":"Ønsker du å endre din motkonto til standard for denne konto?",
+"fi-FI":"Tämä on oletusvastatili valitsemallesi tilille. Haluatko muuttaa oletusvastatiliä?"
+},
+"SETTINGS_POPUP_CONTRAACCOUNT_AUTOSET_BUTTON_KEEPOLD":{
+"en-GL":"Keep Current",
+"da-DK":"Hold aktuelle",
+"sv-SE":"Behåll den nuvarande",
+"no-NO":"Behold aktuelle",
+"fi-FI":"Pidä valuutta"
+},
+"SETTINGS_POPUP_CONTRAACCOUNT_AUTOSET_BUTTON_CHANGE":{
+"en-GL":"Change",
+"da-DK":"Skift til standard",
+"sv-SE":"Ändra till standard",
+"no-NO":"Skift til  standard",
+"fi-FI":"Muuta"
+},
+"SETTINGS_INVENTORY_SECTION_TITLE":{
+"en-GL":"Inventory",
+"da-DK":"Lager",
+"sv-SE":"Lager",
+"no-NO":"Lager",
+"fi-FI":"Varasto"
+},
+"SETTINGS_INVENTORY_ENABLEDELEMENT":{
+"en-GL":"Enabled",
+"da-DK":"Aktiveret",
+"sv-SE":"Aktiverat",
+"no-NO":"Aktivert",
+"fi-FI":"Salli"
+},
+"SETTINGS_INVENTORY_ENABLEDELEMENT_DESCRIPTION_DISABLED":{
+"en-GL":"This can be enabled only if the Inventory module in your e-conomic account is accessible.",
+"da-DK":"Dette kan kun aktiveres, hvis Lagermodulet i din e-conomic konto er aktiveret.",
+"sv-SE":"Detta kan aktiveras endast om Lager tilläggsmodul i e-conomic konto är aktiverat.",
+"no-NO":"Dette kan aktiveres bare hvis Lagerstyring Tilleggsmodulen i din e-conomic kontoen er aktivert.",
+"fi-FI":"Tämä voidaan sallia ainoastaan jos sinulla on Varasto-moduuli käytössäsi e-conomicissa."
+},
+"SETTINGS_INVENTORY_ENABLEDELEMENT_DESCRIPTION_ENABLED":{
+"en-GL":"Disabling this will not allow you to see the stock statistics of a product. You can enable it at any time.",
+"da-DK":"Deaktivering af denne vil ikke tillade dig at se bestanden statistik for et produkt. Du kan aktivere det på noget tidspunkt.",
+"sv-SE":"Inaktivera detta kommer inte att tillåta dig att se lagerstatistiken i en produkt. Du kan aktivera den när som helst.",
+"no-NO":"Deaktivering av denne vil ikke tillate deg å se aksjestatistikk av et produkt. Du kan aktivere den når som helst.",
+"fi-FI":"Estämällä tämä et pysty enää näkemään varastotietoja artikkelilta. Voit ottaa sen käyttöön milloin vain."
+},
+"SETTINGS_INVENTORY_CANNOTENABLE_POPUP_TITLE":{
+"en-GL":"Cannot Enable Inventory",
+"da-DK":"Kan ikke aktiver Lagerstyring",
+"sv-SE":"Kan inte aktivera Lager ",
+"no-NO":"Kan ikke aktiver Lager",
+"fi-FI":"Ei voida aktivoida Varastoa"
+},
+"SETTINGS_INVENTORY_CANNOTENABLE_POPUP_MESSAGE":{
+"en-GL":"You need to have the Inventory Add On Module enabled in your e-conomic account",
+"da-DK":"Du er nødt til at have Lagerstyringsmodulet slået til i din e-conomic konto",
+"sv-SE":"Du måste ha Lager tilläggsmodul aktiverat i din e-conomic konto",
+"no-NO":"Du må ha Lagerstyring Tilleggsmodulen aktivert i din e-conomic konto",
+"fi-FI":"Sinun pitää aktivoida Varasto-moduuli e-conomic-sopimukseesi."
+},
+"LOGIN_AGREEMENTNO":{
+"en-GL":"Agreement No.",
+"da-DK":"Aftalenr.",
+"sv-SE":"Avtalsnr",
+"no-NO":"Avtalenr.",
+"fi-FI":"Sopimusnro"
+},
+"LOGIN_AGREEMENTNO_PLACEHOLDER":{
+"en-GL":"Agreement No.",
+"da-DK":"Aftalenr.",
+"sv-SE":"Avtalsnr",
+"no-NO":"Avtalenr.",
+"fi-FI":"Sopimusnro"
+},
+"LOGIN_USERNAME":{
+"en-GL":"Username",
+"da-DK":"Brugernavn",
+"sv-SE":"Användarnamn",
+"no-NO":"Brukernavn",
+"fi-FI":"Käyttäjätunnus"
+},
+"LOGIN_USERNAME_PLACEHOLDER":{
+"en-GL":"Username",
+"da-DK":"Brugernavn",
+"sv-SE":"Användarnamn",
+"no-NO":"Brukernavn",
+"fi-FI":"Käyttäjätunnus"
+},
+"LOGIN_PASSWORD":{
+"en-GL":"Password",
+"da-DK":"Adgangskode",
+"sv-SE":"Lösenord",
+"no-NO":"Adgangskode",
+"fi-FI":"Salasana"
+},
+"LOGIN_PASSWORD_PLACEHOLDER":{
+"en-GL":"Password",
+"da-DK":"Adgangskode",
+"sv-SE":"Lösenord",
+"no-NO":"Adgangskode",
+"fi-FI":"Salasana"
+},
+"LOGIN_BUTTON_ABOUT":{
+"en-GL":"About",
+"da-DK":"Om",
+"sv-SE":"Om",
+"no-NO":"Om",
+"fi-FI":"Aiheesta"
+},
+"LOGIN_BUTTON_LOGIN":{
+"en-GL":"Log In",
+"da-DK":"Log på",
+"sv-SE":"Logga in",
+"no-NO":"Logg på",
+"fi-FI":"Kirjaudu sisään"
+},
+"LOGIN_TITLE":{
+"en-GL":"Log In",
+"da-DK":"Log på",
+"sv-SE":"Logga in",
+"no-NO":"Logg på",
+"fi-FI":"Kirjaudu sisään"
+},
+"LOGIN_SECTION_FOOTER":{
+"en-GL":"Log in with your e-conomic credentials",
+"da-DK":"Log på med din e-conomic aftale",
+"sv-SE":"Logga in med ditt e-conomic konto",
+"no-NO":"Logg på med din e-conoomic avtale",
+"fi-FI":"Kirjaudu sisään e-conomicin tunnuksilla"
+},
+"LOGIN_POPUP_AUTHENTICATING":{
+"en-GL":"Authenticating",
+"da-DK":"Godkender",
+"sv-SE":"Verifierar",
+"no-NO":"Godkjenner",
+"fi-FI":"Varmennetaan"
+},
+"LOGIN_AUTHENTICATED":{
+"en-GL":"Authenticated",
+"da-DK":"Godkendt",
+"sv-SE":"Verifierad",
+"no-NO":"Godkjent",
+"fi-FI":"Varmennettu"
+},
+"LOGIN_ERROR_NOAPIACCESS":{
+"en-GL":"No API access",
+"da-DK":"Ingen API adgang",
+"sv-SE":"Ingen API-åtkomst",
+"no-NO":"Ingen API tilgang",
+"fi-FI":"Ei API-pääsyä"
+},
+"LOGIN_ERROR_NOTAUTHENTICATED":{
+"en-GL":"Not authenticated",
+"da-DK":"Ikke godkendt",
+"sv-SE":"Icke verifierad",
+"no-NO":"Ikke godkjent",
+"fi-FI":"Ei varmennettu"
+},
+"LOGIN_POPUP_NOAPIACCESS_TITLE":{
+"en-GL":"Login failed. Make sure that the API access is enabled in e-conomic",
+"da-DK":"Logon mislykkedes. Sørg for, at API-modulet er aktiveret i e-conomic, og at du ikke logger på som administrator",
+"sv-SE":"Inloggningen misslyckades. Se till att API-modulen har aktiverats i e-conomic och att du inte har loggat in som administratör",
+"no-NO":"På loggingen ble mislykket. Sørg for at API modulet er aktivert i e-conomic",
+"fi-FI":"Kirjautuminen epäonnistui. Tarkista, että API-pääsy on aktivoitu e-conomicissa."
+},
+"LOGIN_POPUP_NOAPIACCESS_BUTTON_OK":{
+"en-GL":"OK",
+"da-DK":"OK",
+"sv-SE":"OK",
+"no-NO":"OK",
+"fi-FI":"OK"
+},
+"LOGIN_POPUP_NOAPIACCESS_BUTTON_HELP":{
+"en-GL":"Help",
+"da-DK":"Hjælp",
+"sv-SE":"Hjälp",
+"no-NO":"Hjelp",
+"fi-FI":"Apua"
+},
+"LOGIN_NOAPIACCESS_URL":{
+"en-GL":"http://www.youtube.com/watch?v=QevPojNxMdM",
+"da-DK":"http://www.youtube.com/watch?v=fWK6F9WTmFo",
+"sv-SE":"http://www.youtube.com/watch?v=HvvWWDG0ZPc",
+"no-NO":"http://www.youtube.com/watch?v=fWK6F9WTmFo",
+"fi-FI":"http://www.youtube.com/watch?v=QevPojNxMdM"
+},
+"LOGIN_SLIDEOUT_LOGIN":{
+"en-GL":"Log In",
+"da-DK":"Log på",
+"sv-SE":"Logga in",
+"no-NO":"Logg på",
+"fi-FI":"Kirjaudu sisään"
+},
+"LOGIN_SLIDEOUT_SUPPORT":{
+"en-GL":"Support",
+"fi-FI":"Tuki"
+},
+"LOGIN_SLIDEOUT_POPUP_MAILNOTSETUP_TITLE":{
+"en-GL":"Please set up a mail account in the Phone settings",
+"da-DK":"Venligst oprette en mail-konto i Telefonindstillinger",
+"sv-SE":"Vänligen skapa ett e-postkonto under Telefoninställningar",
+"no-NO":"Vennligst opprett en E-post konto i telefoninnstillinger",
+"fi-FI":"Aseta sähköpostitili puhelinasetuksiin"
+},
+"LOGIN_SLIDEOUT_CLEARDATA":{
+"en-GL":"Clear private data",
+"da-DK":"Fjern private data",
+"sv-SE":"Rensa personuppgifter",
+"no-NO":"Fjern private data",
+"fi-FI":"Poista yksityinen data"
+},
+"LOGIN_SLIDEOUT_SENDFEEDBACK":{
+"en-GL":"Feedback",
+"fi-FI":"Palaute"
+},
+"LOGIN_SLIDEOUT_LIKEFACEBOOK":{
+"en-GL":"Like us on facebook",
+"da-DK":"Synes godt om",
+"sv-SE":"Gilla oss på Facebook",
+"no-NO":"Lik oss på Facebook",
+"fi-FI":"Tykkää meistä Facebookissa"
+},
+"LOGIN_SLIDEOUT_ABOUT":{
+"en-GL":"About",
+"da-DK":"Om",
+"sv-SE":"Om",
+"no-NO":"Om",
+"fi-FI":"Aiheesta"
+},
+"LOGIN_SLIDEOUT_COMMUNICATION":{
+"en-GL":"Communication",
+"da-DK":"Kommunikation",
+"sv-SE":"Kommunikation",
+"no-NO":"Kommunikasjon",
+"fi-FI":"Kommunikaatio"
+},
+"LOGIN_DEMOBUTTON_TITLE":{
+"en-GL":"Start demo",
+"fi-FI":"Aloita testiversio"
+},
+"LOGIN_DEMOSECTION_FOOTER":{
+"en-GL":"Try the app with a Demo Account",
+"da-DK":"Prøv app'en med en demo aftale",
+"sv-SE":"Prova app med en demo-konto",
+"no-NO":"Prøv app`en med en demo avtale",
+"fi-FI":"Kokeile sovellusta testiversiolla"
+},
+"WELCOME_TITLE":{
+"en-GL":"Welcome",
+"da-DK":"Velkommen",
+"sv-SE":"Välkommen",
+"no-NO":"Velkommen",
+"fi-FI":"Tervetuloa"
+},
+"SPLASHSCREEN_LOADING":{
+"en-GL":"Loading",
+"da-DK":"Indlæser",
+"sv-SE":"Laddar",
+"no-NO":"Laster",
+"fi-FI":"Ladataan"
+},
+"SYNCVIEW_BUTTON_SETPIN":{
+"en-GL":"Set PIN code",
+"da-DK":"Indstil PIN-kode",
+"sv-SE":"Ange PIN-kod",
+"no-NO":"Sett inn PIN kode",
+"fi-FI":"Anna PIN-koodi"
+},
+"SYNCVIEW_POPUP_SYNCFAILED_TITLE":{
+"en-GL":"Initial synchronization failed",
+"da-DK":"Første synkronisering mislykkedes",
+"sv-SE":"Den inledande synkroniseringen misslyckades",
+"no-NO":"Første synkronisering mislykkes",
+"fi-FI":"Ensimmäinen synkronisointi epäonnistui"
+},
+"SYNCVIEW_POPUP_SYNCFAILED_MESSAGE":{
+"en-GL":"Please try again",
+"da-DK":"Prøv venligst igen",
+"sv-SE":"Försök igen",
+"no-NO":"Vennligst prøv igjen",
+"fi-FI":"Yritä uudestaan"
+},
+"SYNCVIEW_TITLE":{
+"en-GL":"Synchronizing",
+"da-DK":"Synkroniserer",
+"sv-SE":"Synkronisera",
+"no-NO":"Synkroniser",
+"fi-FI":"Synkronisoidaan"
+},
+"SYNCVIEW_SETPINSECTION_FOOTER":{
+"en-GL":"While you're waiting for the initial synchronization to finish, why not set a security PIN",
+"da-DK":"Mens du venter på den første synkronisering til slut, hvorfor ikke sætte en sikkerhed PIN-kode",
+"sv-SE":"Medan du väntar på den inledande synkroniseringen, ställa in en säkerhetskod",
+"no-NO":"Mens du venter på den første synkroniseringen, hvorfor ikke inn Pin-kode",
+"fi-FI":"Kun odotat ensimmäistä synkronisointia, niin mikset antaisi turva-PIN:iä?"
+},
+"SYNCVIEW_PROGRESS_DEBTORS":{
+"en-GL":"Syncing customers",
+"da-DK":"Henter kunder",
+"sv-SE":"Hämtar kunder",
+"no-NO":"Henter kunder",
+"fi-FI":"Synkronisoidaan asiakkaita"
+},
+"SYNCVIEW_PROGRESS_PRODUCTS":{
+"en-GL":"Syncing products",
+"da-DK":"Henter produkter",
+"sv-SE":"Hämtar produkter",
+"no-NO":"Henter varer",
+"fi-FI":"Synkronisoidaan artikkeleita"
+},
+"SYNCVIEW_PROGRESS_INVOICES":{
+"en-GL":"Syncing invoices",
+"da-DK":"Henter fakturaer",
+"sv-SE":"Hämtar fakturor",
+"no-NO":"Henter fakturaer",
+"fi-FI":"Synkronisoidaan laskuja"
+},
+"SYNCVIEW_PROGRESS_ARCHIVE":{
+"en-GL":"Syncing archive",
+"da-DK":"Henter arkiv",
+"sv-SE":"Hämtar arkiv",
+"no-NO":"Henter arkiv",
+"fi-FI":"Synkronisoidaan arkistoa"
+},
+"SYNCVIEW_PROGRESS_OTHER":{
+"en-GL":"Syncing other data",
+"da-DK":"Henter andre data",
+"sv-SE":"Hämtar andra data",
+"no-NO":"Henter andre data",
+"fi-FI":"Synkronisoidaan muita tietoja"
+},
+"SYNCVIEW_PROGRESS_ACCOUNTS":{
+"en-GL":"Syncing chart of accounts",
+"da-DK":"Henter kontoplan",
+"sv-SE":"Hämtar kontoplan",
+"no-NO":"Henter kontoplan",
+"fi-FI":"Synkronisoidaan tilikarttaa"
+},
+"SYNCVIEW_PROGRSS_ORDERS":{
+"en-GL":"Syncing orders",
+"da-DK":"Henter ordrer",
+"sv-SE":"Hämtar orders",
+"no-NO":"Henter ordre",
+"fi-FI":"Synkronisoidaan tilauksia"
+},
+"SYNCVIEW_PROGRESS_SUPPLIERS":{
+"en-GL":"Syncing suppliers",
+"da-DK":"Henter leverandører",
+"sv-SE":"Hämtar leverantörer",
+"no-NO":"Henter leverandør",
+"fi-FI":"Synkronisoidaan toimittajia"
+},
+"SYNCVIEW_NAVIGATIONTITLE":{
+"en-GL":"Synchronizing",
+"da-DK":"Synkroniserer",
+"sv-SE":"Synkronisera",
+"no-NO":"Synkroniser",
+"fi-FI":"Synkronisoidaan"
+},
+"ABOUT_TITLE":{
+"en-GL":"About the App",
+"da-DK":"Om App'en",
+"sv-SE":"Om App",
+"no-NO":"Om App`en",
+"fi-FI":"Sovelluksesta"
+},
+"ABOUT_PUBLISHERSECTION_TITLE":{
+"en-GL":"About the publisher",
+"da-DK":"Om udgiveren",
+"sv-SE":"Om förlaget",
+"no-NO":"Om utvikleren",
+"fi-FI":"Julkaisijasta"
+},
+"ABOUT_MCA_NAME":{
+"en-GL":"MCA dooel",
+"fi-FI":"MCA dooel"
+},
+"ABOUT_MCA_STREET":{
+"en-GL":"M. T. Gologanov 40",
+"fi-FI":"M. T. Gologanov 40"
+},
+"ABOUT_MCA_ZIP":{
+"en-GL":"1000 Skopje",
+"fi-FI":"1000 Skopje"
+},
+"ABOUT_MCA_COUNTRY":{
+"en-GL":"Macedonia",
+"da-DK":"Makedonien",
+"sv-SE":"Makedonien",
+"no-NO":"Makedonia",
+"fi-FI":"Makedonia"
+},
+"ABOUT_VERSION":{
+"en-GL":"Version",
+"fi-FI":"Versio"
+},
+"ABOUT_LIKEFACEBOOK":{
+"en-GL":"Like us on Facebook",
+"da-DK":"Ligesom os på Facebook",
+"sv-SE":"Gilla oss på Facebook",
+"no-NO":"Lik oss på Facebook",
+"fi-FI":"Tykkää meistä Facebookissa"
+},
+"ABOUT_RATEAPP":{
+"en-GL":"Rate this application",
+"da-DK":"Bedøm denne ansøgning",
+"sv-SE":"Betygsätt denna ansökan",
+"no-NO":"Bedøm denne Appen",
+"fi-FI":"Arvostele sovellus"
+},
+"ABOUT_WRITETOUS":{
+"en-GL":"Write to us",
+"da-DK":"Skriv til os",
+"sv-SE":"Skriv till oss",
+"no-NO":"Skriv til oss",
+"fi-FI":"Kirjoita meille"
+},
+"ABOUT_POPUP_EMAILNOTSET":{
+"en-GL":"Please set up a mail account in the Phone settings",
+"da-DK":"Venligst oprette en mail-konto i Telefonindstillinger",
+"sv-SE":"Vänligen skapa ett e-postkonto under Telefoninställningar",
+"no-NO":"Vennligst opprett en E-post konto i telefoninnstillinger",
+"fi-FI":"Aseta sähköpostitili puhelinasetuksiin"
+},
+"CLEARDATAVIEW_TITLE":{
+"en-GL":"Clear private data",
+"da-DK":"Fjern private data",
+"sv-SE":"Rensa personuppgifter",
+"no-NO":"Fjern private data",
+"fi-FI":"Poista yksityinen data"
+},
+"CLEARDATAVIEW_CLEARSECTION_FOOTER_1":{
+"en-GL":"This option will clear all private data that is stored on this device.",
+"da-DK":"Denne mulighed sletter alle private data, der er gemt på denne enhed.",
+"sv-SE":"Detta alternativ kommer att radera de personuppgifter som lagras på den här enheten.",
+"no-NO":"Dette valget sletter alle dine private data som er lagret på denne enheten",
+"fi-FI":"Tämä asetus poistaa kaiken yksityisen datan tästä laitteesta."
+},
+"CLEARDATAVIEW_CLEARSECTION_FOOTER_2":{
+"en-GL":"Your online e-conomic account will not be modified in any way.",
+"da-DK":"Din online e-conomic konto vil ikke blive ændret på nogen måde.",
+"sv-SE":"Din online-e-conomic konto kommer inte att ändras.",
+"no-NO":"Din online e-conomic konto vilm ikke bli endret på noen måte.",
+"fi-FI":"e-conomic-sopimuksesi ei muutu tästä millään tavalla"
+},
+"CLEARDATAVIEW_BUTTON_CLEAR":{
+"en-GL":"Clear private data",
+"da-DK":"Fjern private data",
+"sv-SE":"Rensa personuppgifter",
+"no-NO":"Fjern private data",
+"fi-FI":"Poista yksityinen data"
+},
+"CLEARDATAVIEW_POPUP_CLEAR_TITLE":{
+"en-GL":"Are you sure you want to delete all of your private data?",
+"da-DK":"Er du sikker på, at du vil slette alle dine private data?",
+"sv-SE":"Är du säker på att du vill ta bort alla personuppgifter?",
+"no-NO":"Er du sikker på at du vil slette alle dine private data?",
+"fi-FI":"Oletko varma, että haluat poistaa kaiken yksityisen datan?"
+},
+"CLEARDATAVIEW_POPUP_CLEAR_MESSAGE":{
+"en-GL":"Your e-conomic account will not be cleaned or modified.",
+"da-DK":"Din e-conomic konto vil ikke blive renset eller ændres.",
+"sv-SE":"Din e-conomic-konto kommer inte rensas eller ändras.",
+"no-NO":"Din e-conomic konto vil ikke bli fjernet for info og heller ikke endres",
+"fi-FI":"e-conomic-sopimuksesi tiedot eivät muutu tai poistu"
+},
+"CLEARDATAVIEW_POPUP_CLEAR_BUTTON_CANCEL":{
+"en-GL":"Cancel",
+"da-DK":"Annullér",
+"sv-SE":"Avbryt",
+"no-NO":"Avbryt",
+"fi-FI":"Peruuta"
+},
+"CLEARDATAVIEW_POPUP_CLEAR_BUTTON_DELETE":{
+"en-GL":"Delete",
+"da-DK":"Slet",
+"sv-SE":"Ta bort",
+"no-NO":"Slett",
+"fi-FI":"Poista"
+},
+"CLEARDATAVIEW_POPUP_SUCCESS_TITLE":{
+"en-GL":"Private data cleared sucessfully",
+"da-DK":"Private data ryddet held",
+"sv-SE":"Personuppgifter har rensas ",
+"no-NO":"Private data er fjernet",
+"fi-FI":"Yksityisen datan poisto onnistui"
+},
+"OFFLINE_TITLE":{
+"en-GL":"Offline",
+"fi-FI":"Offline"
+},
+"OFFLINE_TEXT":{
+"en-GL":"You currently don't have any internet connection. Please make sure you have stable internet connection in order to best experience MobileOffice for e-conomic",
+"da-DK":"Du har i øjeblikket ikke har nogen internetforbindelse. Sørg for at du har en stabil internetforbindelse for at bedste oplevelse MobileOffice til e-conomic",
+"sv-SE":"Du har för närvarande ingen internetuppkoppling. Kontrollera att du har en stabil internetuppkoppling för att kunna upplevelsen MobileOffice för e-conomic på bästa sätt",
+"no-NO":"Du har for øyeblikket ingen internettforbindelse. Sørg for at du har en stabil internettforbindelse for en opptimert opplevelse av og med MobileOffice til e-conomic",
+"fi-FI":"Sinulla ei ole tällä hetkellä Internet-yhteyttä. Varmistathan hyvän Internet-yhteyden saadaksesi parhaan kokemuksen MobileOffice for e-conomicista.
+
+"
+},
+"SLIDEOUT_DEBTORS":{
+"en-GL":"Customers",
+"da-DK":"Kunder",
+"sv-SE":"Kunder",
+"no-NO":"Kunder",
+"fi-FI":"Asiakkaat"
+},
+"SLIDEOUT_PRODUCTS":{
+"en-GL":"Products",
+"da-DK":"Varer",
+"sv-SE":"Artiklar",
+"no-NO":"Varer",
+"fi-FI":"Artikkelit"
+},
+"SLIDEOUT_INVOICES":{
+"en-GL":"Invoices",
+"da-DK":"Fakturaer",
+"sv-SE":"Fakturor",
+"no-NO":"Fakturaer",
+"fi-FI":"Laskut"
+},
+"SLIDEOUT_ARCHIVE":{
+"en-GL":"Archive",
+"da-DK":"Arkiv",
+"sv-SE":"Arkiv",
+"no-NO":"Arkiv",
+"fi-FI":"Arkisto"
+},
+"SLIDEOUT_SCANNING":{
+"en-GL":"Scanning",
+"da-DK":"Indscanning",
+"sv-SE":"Skanning",
+"no-NO":"Innscanning",
+"fi-FI":"Skannaus"
+},
+"SLIDEOUT_SETTINGS":{
+"en-GL":"Settings",
+"da-DK":"Indstillinger",
+"sv-SE":"Inställningar",
+"no-NO":"Innstillinger",
+"fi-FI":"Asetukset"
+},
+"SLIDEOUT_SENDFEEDBACK":{
+"en-GL":"Feedback",
+"no-NO":"Tilbakemelding",
+"fi-FI":"Palaute"
+},
+"SLIDEOUT_ABOUT":{
+"en-GL":"About",
+"da-DK":"Om",
+"sv-SE":"Om",
+"no-NO":"Om",
+"fi-FI":"Aiheesta"
+},
+"SLIDEOUT_EXITDEMO":{
+"en-GL":"Exit Demo",
+"da-DK":"Afslut Demo",
+"sv-SE":"Avsluta Demo",
+"no-NO":"Avslutt demo",
+"fi-FI":"Poistu testiversiosta"
+},
+"SLIDEOUT_HOME":{
+"en-GL":"Dashboard",
+"da-DK":"Hjem",
+"sv-SE":"Start",
+"no-NO":"Skrivebord",
+"fi-FI":"Yleisnäkymä"
+},
+"SLIDEOUT_CONTACTS":{
+"en-GL":"Contacts",
+"da-DK":"Kontaktpersoner",
+"sv-SE":"Kontaktpersoner",
+"no-NO":"Kontaktpersoner",
+"fi-FI":"Yhteyshenkilöt"
+},
+"APPDELEGATE_POPUP_NEWVERSION_TITLE":{
+"en-GL":"A newer version of MobileOffice for e-conomic exists. Do you want to upgrade?",
+"da-DK":"En nyere version af MobileOffice for e-conomic eksisterer. Ønsker du at opgradere?",
+"sv-SE":"En nyare version av MobileOffice för e-conomic finnstillgängligt. Vill du uppgradera?",
+"no-NO":"Det finnes en nyere version av MobileOffice for e-conomic. Vil du oppgradere til den?",
+"fi-FI":"MobileOffice for e-conomicista on uudempi versio. Haluatko ladata sen?"
+},
+"APPDELEGATE_POPUP_NEWVERSION_BUTTON_UPGRADE":{
+"en-GL":"Upgrade",
+"da-DK":"Opgrader",
+"sv-SE":"Uppgraderar",
+"no-NO":"Oppgrader",
+"fi-FI":"Päivitä"
+},
+"APPDELEGATE_POPUP_NEWVERSION_BUTTON_CANCEL":{
+"en-GL":"Cancel",
+"da-DK":"Annullér",
+"sv-SE":"Avbryt",
+"no-NO":"Avbryt",
+"fi-FI":"Peruuta"
+},
+"LOGIN_SLIDEOUT_CHANGELANGUAGE":{
+"en-GL":"Change Language",
+"da-DK":"Skift sprog",
+"sv-SE":"Ändra språk",
+"no-NO":"Skift språk",
+"fi-FI":"Muuta kieltä"
+},
+"SETTINGS_CHANGELANGUAGESECTION_TITLE":{
+"en-GL":"Change Language",
+"da-DK":"Skift sprog",
+"sv-SE":"Ändra språk",
+"no-NO":"Skift språk",
+"fi-FI":"Muuta kieltä"
+},
+"SETTINGS_CHANGELANGUAGESECTION_FOOTER":{
+"en-GL":"Select the language in which you want to use this application",
+"da-DK":"Vælg det sprog, som du ønsker at bruge dette program",
+"sv-SE":"Välj vilket språk du vill använda för detta program",
+"no-NO":"Velg språket du ønsker å bruke i dette programmet",
+"fi-FI":"Valitse kieli, jolla haluat käyttää sovellusta"
+},
+"SETTINGS_CHANGELANGUAGEGROUP_TITLE":{
+"en-GL":"Change Language",
+"da-DK":"Skift sprog",
+"sv-SE":"Ändra språk",
+"no-NO":"Skift språk",
+"fi-FI":"Muuta kieltä"
+},
+"CHANGELANGUAGE_TITLE":{
+"en-GL":"Select language",
+"da-DK":"Vælg sprog",
+"sv-SE":"Välj språk",
+"no-NO":"Velg språk",
+"fi-FI":"Valitse kieli"
+},
+"POPUP_DEMO_EXPIRED_TITLE":{
+"en-GL":"Demo expired",
+"da-DK":"Demo udløbet",
+"sv-SE":"Demon har löpte ut",
+"no-NO":"Demo utløpt",
+"fi-FI":"Testiversion aika loppui"
+},
+"POPUP_DEMO_EXPIRED_MESSAGE":{
+"en-GL":"Please create new account on e-conomics",
+"da-DK":"Venligst opret ny konto på e-conomics",
+"sv-SE":"Vänligen skapa nytt konto på e-conomics",
+"no-NO":"Vennligst oppret ny konto på e-conomic",
+"fi-FI":"Luo uusi sopimus e-conomiciin"
+},
+"BARBUTTON_SAVE":{
+"en-GL":"Save",
+"da-DK":"Gem",
+"sv-SE":"Spara",
+"no-NO":"Lagre",
+"fi-FI":"Tallenna"
+},
+"BARBUTTON_CANCEL":{
+"en-GL":"Cancel",
+"da-DK":"Annullér",
+"sv-SE":"Avbryt",
+"no-NO":"Avbryt",
+"fi-FI":"Peruuta"
+},
+"POPUP_NOTINDEMO_TITLE":{
+"en-GL":"Demo",
+"fi-FI":"Testiversio"
+},
+"POPUP_NOTINDEMO_MESSAGE":{
+"en-GL":"The Demo allows only editing of Invoices and Scanning",
+"da-DK":"Demo kun tillader redigering af Fakturaer og Indscanning",
+"sv-SE":"Demo tillåter endast redigering av fakturor och skanning",
+"no-NO":"Demo tillater kun redigering av faktura og innscanning",
+"fi-FI":"Testiversio pitää sisällään vain laskujen muokkauksen ja skannauksen"
+},
+"CUSTOMERDETAILS_DELETEBUTTON":{
+"en-GL":"Delete Customer",
+"da-DK":"Slet kunden",
+"sv-SE":"Radera kund",
+"no-NO":"Slett kunden",
+"fi-FI":"Poista asiakas"
+},
+"PRODUCTDETAILS_DELETEBUTTON":{
+"en-GL":"Delete Product",
+"da-DK":"Slet produkt",
+"sv-SE":"Radera produkt",
+"no-NO":"Slett vare",
+"fi-FI":"Poista artikkeli"
+},
+"INVOICELINEDETAILS_DELETEBUTTON":{
+"en-GL":"Delete Invoice Line",
+"da-DK":"Slet Linje",
+"sv-SE":"Radera Fakturarad",
+"no-NO":"Slett linje",
+"fi-FI":"Poista laskurivi"
+},
+"CONFIRMDELETE_TITLE":{
+"en-GL":"Confirm",
+"da-DK":"Bekræft",
+"sv-SE":"Bekräfta",
+"no-NO":"Bekreft",
+"fi-FI":"Vahvista"
+},
+"CONFIRMDELETE_MESSAGE":{
+"en-GL":"Are you sure you want to delete [ITEM]?",
+"da-DK":"Er du sikker på du vil slette [ITEM]?",
+"sv-SE":"Är du säker på att du vill ta bort [ITEM]?",
+"no-NO":"Er du sikker på at du vil slette [ITEM]?",
+"fi-FI":"Haluatko varmasti poistaa [ITEM]?"
+},
+"ERRORDELETE_PRODUCTNOTEXIST":{
+"en-GL":"The product does not exist",
+"da-DK":"Produktet findes ikke",
+"sv-SE":"Produkten finns inte",
+"no-NO":"Varen finnes ikke",
+"fi-FI":"Artikkelia ei ole olemassa"
+},
+"ERRORDELETE_LINENOTEXIST":{
+"en-GL":"The line does not exist",
+"da-DK":"Linjen eksisterer ikke",
+"sv-SE":"Finns inte Linjen",
+"no-NO":"Linjen eksisterer ikke",
+"fi-FI":"Riviä ei ole olemassa"
+},
+"COMMUNICATION_TITLE":{
+"en-GL":"Contact Us",
+"da-DK":"Kontakt os",
+"sv-SE":"Kontakta oss",
+"no-NO":"Kontakt oss",
+"fi-FI":"Ota yhteyttä meihin"
+},
+"HOMEDASHBOARD_TITLE":{
+"en-GL":"Dashboard",
+"da-DK":"Hjem",
+"sv-SE":"Start",
+"no-NO":"Skrivebord",
+"fi-FI":"Yleisnäkymä"
+},
+"HOMEDASHBOARD_SALESTHISMONTH":{
+"en-GL":"Sales This Month",
+"da-DK":"Salg denne md.",
+"sv-SE":"Sales denna md.",
+"no-NO":"Salg denne måned",
+"fi-FI":"Myynnit tässä kuussa"
+},
+"HOMEDASHBOARD_SALESLASTMONTH":{
+"en-GL":"Sales Last Month",
+"da-DK":"Salg sidste md.",
+"sv-SE":"Sales senaste md.",
+"no-NO":"Salg siste måned",
+"fi-FI":"Myynnit viime kuussa"
+},
+"HOMEDASHBOARD_UNPAID":{
+"en-GL":"Unpaid Overall",
+"da-DK":"Samlede ubetalte",
+"sv-SE":"Obetalda fakturor",
+"no-NO":"Samlede ubetalte",
+"fi-FI":"Maksamatta yhteens"
+},
+"HOMEDASHBOARD_DUE":{
+"en-GL":"Due Overall",
+"da-DK":"Samlede forfaldne",
+"sv-SE":"Förfallna fakturor",
+"no-NO":"Samlede forfalte",
+"fi-FI":"Erääntynyt yhteensä"
+},
+"HOMEDASHBOARD_SALESPERFORMANCECHART":{
+"en-GL":"Sales Performance",
+"da-DK":"Salgsresultater",
+"sv-SE":"Försäljningsresultat",
+"no-NO":"Salgsresultater",
+"fi-FI":"Myynnin suoriutuminen"
+},
+"HOMEDASHBOARD_NEWINVOICE":{
+"en-GL":"New Invoice",
+"da-DK":"Ny faktura",
+"sv-SE":"Ny faktura",
+"no-NO":"Ny faktura",
+"fi-FI":"Uusi lasku"
+},
+"HOMEDASHBOARD_NEWSCAN":{
+"en-GL":"New Scan",
+"da-DK":"Ny scanning",
+"sv-SE":"Ny skanning",
+"no-NO":"Ny scanning",
+"fi-FI":"Uusi skannaus"
+},
+"HOMEDASHBOARD_SALESCHART_TITLE":{
+"en-GL":"Sales Performance",
+"da-DK":"Salgsresultater",
+"sv-SE":"Försäljningsresultat",
+"no-NO":"Salgsresultater",
+"fi-FI":"Myynnin suoriutuminen"
+},
+"HOMEDASHBOARD_SALESCHART_LEGEND_THISPERIOD":{
+"en-GL":"This Year",
+"no-NO":"Dette året",
+"fi-FI":"Tämä vuosi"
+},
+"HOMEDASHBOARD_SALESCHART_LEGENT_LASTPERIOD":{
+"en-GL":"Last Year",
+"no-NO":"Forrige år",
+"fi-FI":"Viime vuosi"
+},
+"HOMEDASHBOARD_THISMONTHLIST_TITLE":{
+"en-GL":"Invoices This Month",
+"da-DK":"Fakturaer i denne måned",
+"sv-SE":"Fakturor denna månad",
+"no-NO":"Fakturaer denne måneden",
+"fi-FI":"Laskut tässä kuussa"
+},
+"HOMEDASHBOARD_LASTMONTHLIST_TITLE":{
+"en-GL":"Invoices Last Month",
+"da-DK":"Fakturaer sidste måned",
+"sv-SE":"Fakturor förra månaden",
+"no-NO":"Fakturaer fra siste måned",
+"fi-FI":"Laskut viime kuussa"
+},
+"HOMEDASHBOARD_DUE_TITLE":{
+"en-GL":"Due Invoices",
+"da-DK":"Forfaldne fakturaer",
+"sv-SE":"Förfallna fakturor",
+"no-NO":"Forfalte faktura",
+"fi-FI":"Erääntyneet laskut"
+},
+"HOMEDASHBOARD_UNPAID_TITLE":{
+"en-GL":"Unpaid Invoices",
+"da-DK":"Ubetalte fakturaer",
+"sv-SE":"Obetalda fakturor",
+"no-NO":"Ubetalte faktura",
+"fi-FI":"Maksamattomat laskut"
+},
+"HOMEDASHBOARD_SALESPERFORMANCE_CHART":{
+"en-GL":"Chart",
+"da-DK":"Graf",
+"sv-SE":"Diagram",
+"no-NO":"Graf",
+"fi-FI":"Kaavio"
+},
+"HOMEDASHBOARD_SALESPERFORMANCE_TABLE":{
+"en-GL":"Table",
+"da-DK":"Tabel",
+"sv-SE":"Tabell",
+"no-NO":"Tabel",
+"fi-FI":"Taulukko"
+},
+"HOMEDASHBOARD_NAVBAR_CHANGEYEARS":{
+"en-GL":"Change Period",
+"da-DK":"Skift periode",
+"sv-SE":"Ändra Period",
+"no-NO":"Endre periode",
+"fi-FI":"Muuta jaksoa"
+},
+"HOMEDASHBOARD_YEARSACTIONSHEET_TITLE":{
+"en-GL":"Choose Periods",
+"da-DK":"Vælg perioder",
+"sv-SE":"Välj perioder",
+"no-NO":"Velg vare",
+"fi-FI":"Valitse jaksot"
+},
+"PUSHNOTIFICATION_REOPENAPP_TITLE":{
+"en-GL":"Open MobileOffice",
+"da-DK":"Åbn MobileOffice",
+"sv-SE":"Öppna Mobileoffice",
+"no-NO":"Åpne MobileOffice",
+"fi-FI":"Avaa MobileOffice"
+},
+"PUSHNOTIFICATION_REOPENAPP_MESSAGE":{
+"en-GL":"The sending of scans will be stopped. Open MobileOffice to finish the sending.",
+"da-DK":"Afsendelse af billeder vil blive stoppet. Åben MobileOffice at afslutte afsendelse.",
+"sv-SE":"Sändningen av bilder kommer att stoppas. Öppna Mobileoffice att avsluta sändningen.",
+"no-NO":"Sendingen av scanning vil bli stoppet. Åpne MobileOffice for å avslutte avsendelsen",
+"fi-FI":"Skannausten lähetys lopetetaan. Avaa MobileOffice lähetyksen loppuun saattamiseksi."
+},
+"EXTENDEDVATZONE_1":{
+"en-GL":"Domestic",
+"da-DK":"Indland",
+"sv-SE":"Inhemsk med moms",
+"no-NO":"Innland",
+"fi-FI":"Kotimainen"
+},
+"EXTENDEDVATZONE_2":{
+"en-GL":"EU",
+"da-DK":"EU (rubrik B)",
+"sv-SE":"EU",
+"no-NO":"EU (rubrik B)",
+"fi-FI":"EU"
+},
+"EXTENDEDVATZONE_3":{
+"en-GL":"Abroad",
+"da-DK":"Udland (rubrik C)",
+"sv-SE":"Utlandet",
+"no-NO":"Utland (rubrik C)",
+"fi-FI":"Ulkomainen"
+},
+"EXTENDEDVATZONE_4":{
+"en-GL":"Domestic without VAT",
+"da-DK":"Indland uden moms",
+"sv-SE":"Inhemsk utan moms",
+"no-NO":"Innland uten Mva",
+"fi-FI":"Kotimainen, ei ALV:ia"
+},
+"SUBSCRIBE_TITLE":{
+"en-GL":"Sign up to MobileOffice",
+"da-DK":"Tilmeld til MobileOffice",
+"sv-SE":"Anmäl dig till MobileOffice",
+"no-NO":"Meld deg på MobileOffice",
+"fi-FI":"Kirjaudu MobileOfficeen"
+},
+"SUBSCRIBE_EMAIL":{
+"en-GL":"E-mail",
+"da-DK":"E-mail",
+"sv-SE":"E-post",
+"no-NO":"E-post",
+"fi-FI":"Sähköposti"
+},
+"SUBSCRIBE_EMAIL_PLACEHOLDER":{
+"en-GL":"Required",
+"da-DK":"Nødvendig",
+"sv-SE":"Krävs",
+"no-NO":"Nødvendig",
+"fi-FI":"Pakollinen"
+},
+"SUBSCRIBE_NAME":{
+"en-GL":"Name",
+"da-DK":"Navn",
+"sv-SE":"Namn",
+"no-NO":"Navn",
+"fi-FI":"Nimi"
+},
+"SUBSCRIBE_NAME_PLACEHOLDER":{
+"en-GL":"Name",
+"da-DK":"Navn",
+"sv-SE":"Namn",
+"no-NO":"Navn",
+"fi-FI":"Nimi"
+},
+"SUBSCRIBE_NOEMAIL_TITLE":{
+"en-GL":"E-mail is required",
+"da-DK":"E-mail er påkrævet",
+"sv-SE":"E-post behövs",
+"no-NO":"E-post er påkrevd",
+"fi-FI":"Sähköposti on pakollinen"
+},
+"SUBSCRIBE_NOEMAIL_MESSAGE":{
+"en-GL":"Please enter a valid e-mail address",
+"da-DK":"Angiv en gyldig e-mail-adresse",
+"sv-SE":"Vänligen ange giltig e-post",
+"no-NO":"Oppgi en gyldig E-post adresse",
+"fi-FI":"Anna toimiva sähköpostiosoite"
+},
+"SUBSCRIBE_DESCRIPTION":{
+"en-GL":"New features are continuously added to MobileOffice and we want you to know about them.\nIn order to keep better dialog with you - our customer, we would need your contact details. Please use the form below to sign up.",
+"da-DK":"Nye funktioner er løbende tilsat MobileOffice og vi ønsker dig at vide om dem. For at holde bedre dialog med dig, ville vi brug for dine kontaktoplysninger. Brug venligst nedenstående formular for at tilmelde dig.",
+"sv-SE":"Nya funktioner läggs kontinuerligt till MobileOffice och vi vill att du ska veta om dem.\nFör att hålla en bättre dialog med er - våra kunder, skulle vi behöver dina kontaktuppgifter. Använd formuläret nedan för att registrera dig.",
+"no-NO":"MobileOffice ønsker å tilby deg flere moduler, Diagram og data, slik at du kan styre din konto fra denne mobile enheten. Vennligst meld deg på MobileOffice for å tillate oss å gjøre dette",
+"fi-FI":"Uusia toimintoja lisätään jatkuvasti MobileOfficeen ja me haluamme sinun tietävän niistä. Paremman vuoropuhelun mahdollistamiseksi tarvitsisimme sinun yhteystietojasi. Toivomme, että käytät alla olevaa lomaketta ilmoittautumiseen."
+},
+"SUBSCRIBE_UNSUCCESSFULL_TITLE":{
+"en-GL":"Something went wrong",
+"da-DK":"Noget gik galt",
+"sv-SE":"Något gick fel",
+"no-NO":"Noe gikk galt",
+"fi-FI":"Jotain meni pieleen"
+},
+"SUBSCRIBE_UNSUCCESSFULL_MESSAGE":{
+"en-GL":"You will be asked to subscribe again next time",
+"da-DK":"Du vil blive bedt om at tegne igen næste gang",
+"sv-SE":"Du kommer att bli ombedd att teckna igen nästa gång",
+"no-NO":"Du vil bli spørt om å abonnere neste gang",
+"fi-FI":"Sinua pyydetään seuraamaan uudestaan ensi kerralla"
+},
+"SLIDEOUT_SUPPLIERS":{
+"en-GL":"Suppliers",
+"da-DK":"Leverandører",
+"sv-SE":"Leverantörer",
+"no-NO":"Leverandører lastet inn",
+"fi-FI":"Toimittajat"
+},
+"CREDITORTABLE_SEARCH_PLACEHOLDER":{
+"en-GL":"Search Suppliers",
+"da-DK":"Søg leverandører",
+"sv-SE":"Sök leverantörer",
+"no-NO":"Søk leverandør",
+"fi-FI":"Etsi toimittajia"
+},
+"CREDITORTABLE_TOOLBAR_HIDEBARRED":{
+"en-GL":"Hide Barred",
+"da-DK":"Skjul spærret",
+"sv-SE":"Göm spärrade",
+"no-NO":"Skjul sperrede",
+"fi-FI":"Piilota estetyt"
+},
+"CREDITORTABLE_TOOLBAR_SHOWBARRED":{
+"en-GL":"Show barred",
+"da-DK":"Vis spærret",
+"sv-SE":"Visa spärrade",
+"no-NO":"Vis sperrede",
+"fi-FI":"Näytä estetyt"
+},
+"CREDITORTABLE_TITLE":{
+"en-GL":"Suppliers",
+"da-DK":"Leverandører",
+"sv-SE":"Leverantörer",
+"no-NO":"Levrandører",
+"fi-FI":"Toimittajat"
+},
+"CREDITORTABLE_STATUSBAR_LOADING":{
+"en-GL":"Loading Suppliers",
+"da-DK":"Indlæser leverandører",
+"sv-SE":"Läser in leverantörer",
+"no-NO":"Laster inn leverandører",
+"fi-FI":"Ladataan toimittajia"
+},
+"CREDITORTABLE_STATUSBAR_LOADED":{
+"en-GL":"Suppliers Loaded",
+"da-DK":"Leverandører indlæst",
+"sv-SE":"Leverantörer nerladdade",
+"no-NO":"Leverandører lastet inn",
+"fi-FI":"Toimittajat ladattu"
+},
+"CREDITORTABLE_BUTTON_DELETE":{
+"en-GL":"Delete",
+"da-DK":"Slet",
+"sv-SE":"Ta bort",
+"no-NO":"Slett",
+"fi-FI":"Poista"
+},
+"CREDITORTABLE_POPUP_DELETING_TITLE":{
+"en-GL":"Deleting",
+"da-DK":"Sletning",
+"sv-SE":"Tar bort",
+"no-NO":"Sletting",
+"fi-FI":"Poistetaan"
+},
+"CREDITORTABLE_ERROR_DELETING_TITLE":{
+"en-GL":"Supplier cannot be deleted",
+"da-DK":"Leverandør kan ikke slettes",
+"sv-SE":"Leverantör kan inte tas bort",
+"no-NO":"Leverandør kan ikke slettes",
+"fi-FI":"Toimittajaa ei voida poistaa"
+},
+"CREDITORDETAILS_TITLE":{
+"en-GL":"Supplier",
+"da-DK":"Leverandør",
+"sv-SE":"Leverantör",
+"no-NO":"Leverandør",
+"fi-FI":"Toimittaja"
+},
+"CREDITORDETAILS_NUMBER":{
+"en-GL":"Number",
+"da-DK":"Nr.",
+"sv-SE":"Nr",
+"no-NO":"Nr.",
+"fi-FI":"Numero"
+},
+"CREDITORDETAILS_CVR":{
+"en-GL":"Co. reg. no.",
+"da-DK":"CVR-nr.",
+"sv-SE":"Org.nr",
+"no-NO":"Org-nr.",
+"fi-FI":"Y-tunnus"
+},
+"CREDITORDETAILS_NAME":{
+"en-GL":"Name",
+"da-DK":"Navn",
+"sv-SE":"Namn",
+"no-NO":"Navn",
+"fi-FI":"Nimi"
+},
+"CREDITORDETAILS_ACCESS":{
+"en-GL":"Access",
+"da-DK":"Adgang",
+"sv-SE":"Åtkomst",
+"no-NO":"Adgang",
+"fi-FI":"Pääsy"
+},
+"CREDITORDETAILS_POSTCODE":{
+"en-GL":"Postcode",
+"da-DK":"Postnr.",
+"sv-SE":"Postnr",
+"no-NO":"Postnr.",
+"fi-FI":"Postinumero"
+},
+"CREDITORDETAILS_CITY":{
+"en-GL":"City",
+"da-DK":"By",
+"sv-SE":"Ort",
+"no-NO":"By",
+"fi-FI":"Maa"
+},
+"CREDITORDETAILS_COUNTRY":{
+"en-GL":"Country",
+"da-DK":"Land",
+"sv-SE":"Land",
+"no-NO":"Land",
+"fi-FI":"Alue"
+},
+"CREDITORDETAILS_EMAIL":{
+"en-GL":"Email",
+"sv-SE":"E-post",
+"fi-FI":"Sähköposti"
+},
+"CREDITORDETAILS_PHONE":{
+"en-GL":"Telephone",
+"da-DK":"Telefon",
+"sv-SE":"Telefon",
+"no-NO":"Telefon",
+"fi-FI":"Puhelin"
+},
+"CREDITORDETAILS_CONTRAACCOUNT":{
+"en-GL":"Cost Account",
+"da-DK":"Udgiftskonto",
+"sv-SE":"Kostnadskonto",
+"no-NO":"Utgiftskonto",
+"fi-FI":"Kulutili"
+},
+"CREDITORDETAILS_RADIO_VATZONE":{
+"en-GL":"VAT zone",
+"da-DK":"Momszone",
+"sv-SE":"Momsområde",
+"no-NO":"Mva sone",
+"fi-FI":"Alv-alue"
+},
+"CREDITORDETAILS_RADIO_CURRENCY":{
+"en-GL":"Currency",
+"da-DK":"Valuta",
+"sv-SE":"Valuta",
+"no-NO":"Valuta",
+"fi-FI":"Valuutta"
+},
+"CREDITORDETAILS_RADIO_PAYMENTTERMS":{
+"en-GL":"Terms of payment",
+"da-DK":"Betalingsbetingelser",
+"sv-SE":"Betalningsvillkor",
+"no-NO":"Betalingsbetingelser",
+"fi-FI":"Maksuehdot"
+},
+"CREDITORDETAILS_BANKACCOUNT":{
+"en-GL":"Bank Account",
+"da-DK":"Bankkonto",
+"sv-SE":"Bankkonto",
+"no-NO":"Bankkonto",
+"fi-FI":"Pankkitili"
+},
+"CREDITORDETAILS_POPUP_SAVING":{
+"en-GL":"Saving",
+"da-DK":"Gemmer",
+"sv-SE":"Sparar",
+"no-NO":"Lagrer",
+"fi-FI":"Talllennetaan"
+},
+"CREDITORDETAILS_POPUP_SAVED":{
+"en-GL":"Saved",
+"da-DK":"Gemt",
+"sv-SE":"Sparad",
+"no-NO":"Lagret",
+"fi-FI":"Tallennettu"
+},
+"CREDITORDETAILS_NOTSAVED_TITLE":{
+"en-GL":"Supplier not saved",
+"da-DK":"Leverandør blev ikke gemt",
+"sv-SE":"Leverantör har inte sparats",
+"no-NO":"Leverandør ble ikke lagret",
+"fi-FI":"Toimittajaa ei tallennettu"
+},
+"CREDITORDETAILS_NOTSAVED_SIDEITEMNOTEXIST":{
+"en-GL":"The Supplier Group/Term of payment/VAT group does not exist. Please try again",
+"da-DK":"Leverandør Group / Betalingsbetingelser / VAT gruppe findes ikke. Prøv igen",
+"sv-SE":"Leverantör Grupp / Betalningsvillkor / Momsgrupp existerar inte. Vänligen försök igen",
+"no-NO":"Leverandørgruppe / Betalingsbetingelser / Mva gruppe finnes ikke. Prøv igjen",
+"fi-FI":"Toimittajaryhmä/Maksuehdot/Alv-ryhmä ei ole olemassa. Yritä uudelleen"
+},
+"CREDITORDETAILS_NUMBEREXIST":{
+"en-GL":"The number already exists",
+"da-DK":"Kundenummeret findes allerede",
+"sv-SE":"Kundnumret finns redan",
+"no-NO":"Kundenummeret finnes allerede",
+"fi-FI":"Numero on jo olemassa"
+},
+"CREDITORDETAILS_ADDRESS_PLACEHOLDER":{
+"en-GL":"Address",
+"da-DK":"Adresse",
+"sv-SE":"Adress",
+"no-NO":"Adresse",
+"fi-FI":"Osoite"
+},
+"CONTACTSTABLE_SEARCH_PLACEHOLDER":{
+"en-GL":"Search Contacts",
+"da-DK":"Søg kontaktpersoner",
+"sv-SE":"Sök kontaktpersoner",
+"no-NO":"Søk kontaktpersoner",
+"fi-FI":"Etsi yhteyshenkilöitä"
+},
+"CONTACTSTABLE_TITLE":{
+"en-GL":"Contacts",
+"da-DK":"Kontaktpersoner",
+"sv-SE":"Kontaktpersoner",
+"no-NO":"Kontaktpersoner",
+"fi-FI":"Yhteyshenkilöt"
+},
+"CONTACTSTABLE_NEWCONTACT_TITLE":{
+"en-GL":"New contact for",
+"da-DK":"Ny kontaktperson for",
+"sv-SE":"Ny kontakt för",
+"no-NO":"Ny kontaktperson for",
+"fi-FI":"Uusi yhteyshenkilö"
+},
+"CONTACTSTABLE_NEWCONTACT_FROMDEBTOR":{
+"en-GL":"Customer",
+"da-DK":"Kunde",
+"sv-SE":"Kund",
+"no-NO":"Kunder",
+"fi-FI":"Asiakas"
+},
+"CONTACTSTABLE_NEWCONTACT_FROMCREDITOR":{
+"en-GL":"Supplier",
+"da-DK":"Leverandør",
+"sv-SE":"Leverantör",
+"no-NO":"Leverandør",
+"fi-FI":"Toimittaja"
+},
+"CONTACTSTABLE_DELETE_TITLE":{
+"en-GL":"Delete",
+"da-DK":"Slet",
+"sv-SE":"Ta bort",
+"no-NO":"Slett",
+"fi-FI":"Poista"
+},
+"CONTACTSTABLE_DELETING":{
+"en-GL":"Deleting contact",
+"da-DK":"Sletning kontaktperson",
+"sv-SE":"Kontakt tas bort",
+"no-NO":"Sletting av kontaktperson",
+"fi-FI":"Poistetaan yhteyshenkilöitä"
+},
+"CONTACTSTABLE_SCOPE_ALL":{
+"en-GL":"All",
+"da-DK":"Alle",
+"sv-SE":"Alla",
+"no-NO":"Alle",
+"fi-FI":"Kaikki"
+},
+"CONTACTSTABLE_SCOPE_CUSTOMERS":{
+"en-GL":"Customers",
+"da-DK":"Kunder",
+"sv-SE":"Kunder",
+"no-NO":"Kunder",
+"fi-FI":"Asiakkaat"
+},
+"CONTACTSTABLE_SCOPE_SUPPLIERS":{
+"en-GL":"Suppliers",
+"da-DK":"Leverandører",
+"sv-SE":"Leverantörer",
+"no-NO":"Leverandører",
+"fi-FI":"Toimittajat"
+},
+"CONTACTDETAILS_SELECTDEBTOR":{
+"en-GL":"Select Customer",
+"da-DK":"Vælg kunde",
+"sv-SE":"Välj kund",
+"no-NO":"Velg kunde",
+"fi-FI":"Valitse asiakas"
+},
+"CONTACTDETAILS_SELECTCREDITOR":{
+"en-GL":"Select Supplier",
+"da-DK":"Vælge leverandør",
+"sv-SE":"Välj Leverantör",
+"no-NO":"Velge leverandør",
+"fi-FI":"Valitse toimittaja"
+},
+"CONTACTDETAILS_TITLE":{
+"en-GL":"Edit",
+"da-DK":"Redigere",
+"sv-SE":"Redigera",
+"no-NO":"Redigere",
+"fi-FI":"Muokkaa"
+},
+"CONTACTDETAILS_NAME":{
+"en-GL":"Name",
+"da-DK":"Navn",
+"sv-SE":"Namn",
+"no-NO":"Navn",
+"fi-FI":"Nimi"
+},
+"CONTACTDETAILS_TELEPHONE":{
+"en-GL":"Telephone",
+"da-DK":"Telefon",
+"sv-SE":"Telefon",
+"no-NO":"Telefon",
+"fi-FI":"Puhelin"
+},
+"CONTACTDETAILS_EMAIL":{
+"en-GL":"E-mail",
+"sv-SE":"E-post",
+"fi-FI":"Sähköposti"
+},
+"CONTACTDETAILS_COMMENTS_PLACEHOLDER":{
+"en-GL":"Insert Comments",
+"da-DK":"Indlæse bemærkninger",
+"sv-SE":"Sätt kommentarer",
+"no-NO":"Laster komentarer",
+"fi-FI":"Lisää kommentit"
+},
+"CONTACTDETAILS_EMAIL_PLACEHOLDER":{
+"en-GL":"E-mail Address",
+"da-DK":"E-mail-adresse",
+"sv-SE":"E-postadress",
+"no-NO":"E-post",
+"fi-FI":"Sähköpostiosoite"
+},
+"CONTACTDETAILS_TELEPHONE_PLACEHOLDER":{
+"en-GL":"Telephone Number",
+"da-DK":"Telefonnummer",
+"sv-SE":"Telefonnummer",
+"no-NO":"Telefonnummer",
+"fi-FI":"Puhelinnumero"
+},
+"CONTACTDETAILS_DEBTORNAME":{
+"en-GL":"Customer",
+"da-DK":"Kunde",
+"sv-SE":"Kund",
+"no-NO":"Kunde",
+"fi-FI":"Asiakas"
+},
+"CONTACTDETAILS_CREDITORNAME":{
+"en-GL":"Supplier",
+"da-DK":"Leverandør",
+"sv-SE":"Leverantör",
+"no-NO":"Leverandør",
+"fi-FI":"Toimittaja"
+},
+"CONTACTDETAILS_NAME_PLACEHOLDER":{
+"en-GL":"Contact Name",
+"da-DK":"Kontaktperson navn",
+"sv-SE":"Kontaktnamn",
+"no-NO":"Kontaktperson navn",
+"fi-FI":"Yhteyshenkilön nimi"
+},
+"CONTACTDETAILS_BARBUTTON_SAVE":{
+"en-GL":"Save",
+"da-DK":"Gem",
+"sv-SE":"Spara",
+"no-NO":"Lagre",
+"fi-FI":"Tallenna"
+},
+"CONTACTDETAILS_POPUP_SAVING":{
+"en-GL":"Saving",
+"da-DK":"Gemmer",
+"sv-SE":"Sparar",
+"no-NO":"Lagrer",
+"fi-FI":"Tallennetaan"
+},
+"CONTACTDETAILS_POPUP_SAVED":{
+"en-GL":"Saved",
+"da-DK":"Gemt",
+"sv-SE":"Sparad",
+"no-NO":"Lagret",
+"fi-FI":"Tallennettu"
+},
+"COTNACTDETAILS_POPUP_NOTSAVED_TITLE":{
+"en-GL":"Not Saved",
+"da-DK":"Kontaktperson blev ikke gemt",
+"sv-SE":"Kontakt har inte sparats",
+"no-NO":"Kontaktpersonen ble ikke lagret",
+"fi-FI":"Ei tallennettu"
+},
+"CONTACTDETAILS_POPUP_NOTSAVED_MESSAGE":{
+"en-GL":"An error occurred",
+"da-DK":"Der opstod en fejl",
+"sv-SE":"Ett fel uppstod",
+"no-NO":"Det oppstod en feil",
+"fi-FI":"Virhe tapahtui"
+},
+"CONTACTDETAILS_COMMENTSSECTION_TITLE":{
+"en-GL":"Comments",
+"da-DK":"Bemærkninger",
+"sv-SE":"Kommentarer",
+"no-NO":"Bemerkninger",
+"fi-FI":"Kommentit"
+},
+"CONTACTDELETE_ERROR_TITLE":{
+"en-GL":"Cannot be deleted",
+"da-DK":"Kan ikke slettes",
+"sv-SE":"Kan inte tas bort",
+"no-NO":"Kan ikke slettes",
+"fi-FI":"Ei voida poistaa"
+},
+"CONTACTDELETE_ERROR_EXISTS_MESSAGE":{
+"en-GL":"The contact is set up as 'Attention' on the customer.",
+"da-DK":"Kontaktpersonen er angivet som 'Attention' på kunden.",
+"sv-SE":"Kontaktpersonen har angetts som ”Attention” för kunden.",
+"no-NO":"Kontaktpersonen er angitt som `vær oppmerksom`på kunden",
+"fi-FI":"Yhteyshenkilö on luotu "Huomautuksena" asiakkaalle."
+},
+"CONTACTDASHBOARD_BARBUTTON_EDIT":{
+"en-GL":"Edit",
+"da-DK":"Redigere",
+"sv-SE":"Redigera",
+"no-NO":"Redigere",
+"fi-FI":"Muokkaa"
+},
+"NEWCONTACTTABLE_SEARCH_PLACEHOLDER":{
+"en-GL":"Search",
+"da-DK":"Søg",
+"sv-SE":"Sök",
+"no-NO":"Søk",
+"fi-FI":"Etsi"
+},
+"NEWCONTACTTABLE_SEGMENT_CUSTOMERS":{
+"en-GL":"Customers",
+"da-DK":"Kunder",
+"sv-SE":"Kunder",
+"no-NO":"Kunder",
+"fi-FI":"Asiakkaat"
+},
+"NEWCONTACTTABLE_SEGMENT_SUPPLIERS":{
+"en-GL":"Suppliers",
+"da-DK":"Leverandører",
+"sv-SE":"Leverantörer",
+"no-NO":"Leverandører",
+"fi-FI":"Toimittajat"
+},
+"EMAILDIALOG_TITLE":{
+"en-GL":"Compose",
+"da-DK":"Skriv mail",
+"sv-SE":"Skriv mail",
+"no-NO":"Skriv mail",
+"fi-FI":"Kirjoita sähköposti"
+},
+"EMAILDIALOG_TO":{
+"en-GL":"To:",
+"da-DK":"Til:",
+"sv-SE":"Till:",
+"no-NO":"Til:",
+"fi-FI":"Vastaanottaja:"
+},
+"EMAILDIALOG_SUBJECT":{
+"en-GL":"Subject:",
+"da-DK":"Emne:",
+"sv-SE":"Ämne:",
+"no-NO":"Emne:",
+"fi-FI":"Aihe:"
+},
+"EMAILDIALOG_MESSAGESECTION_TITLE":{
+"en-GL":"Message",
+"da-DK":"Besked",
+"sv-SE":"Meddelande",
+"no-NO":"Beskjed",
+"fi-FI":"Viesti"
+},
+"EMAILDIALOG_MESSAGE_PLACEHOLDER":{
+"en-GL":"Enter your message for the customer",
+"da-DK":"Indtast din besked til kunden",
+"sv-SE":"Skriv ditt meddelande till kunden",
+"no-NO":"Skriv inn din melding til kunden",
+"fi-FI":"Anna viestisi asiakkaalle"
+}
+}
+}
