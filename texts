@@ -17,9 +17,8 @@
 "es-AR": "es-ES",
 "es-VE": "es-ES",
 "es-CL": "es-ES",
-"es-IC": "es-ES"
-},
-"texts": {
+"es-IC": "es-ES"},
+"texts":{ 
 "MCA_SUPPORT_EMAIL":{
 "en-GL":"mobileoffice.ios.support@mca.mk"
 },
@@ -93,8 +92,7 @@
 "en-GL":"1",
 "da-DK":"1",
 "sv-SE":"0",
-"no-NO":"0",
-"fi-FI":"0"
+"no-NO":"0"
 },
 "POPUP_NOINTERNET_TITLE":{
 "en-GL":"No internet connection",
@@ -111,10 +109,12 @@
 "fi-FI":"Et voi käyttää tätä sovellusta, jos puhelin ei ole yhteydessä nettiin."
 },
 "POPUP_NOINTERNET_OK":{
-"en-GL":"OK"
+"en-GL":"OK",
+"fi-FI":"OK"
 },
 "POPUP_OK":{
-"en-GL":"OK"
+"en-GL":"OK",
+"fi-FI":"OK"
 },
 "POPUP_CANCEL":{
 "en-GL":"Cancel",
@@ -410,7 +410,7 @@
 "CURRENTINVOICES_DETAILS_ERROR_NOLINES":{
 "en-GL":"The invoice cannot be booked because it does not contain any invoice lines",
 "da-DK":"Fakturaen kan ikke bogføres, da den ikke indeholder nogen fakturalinjer",
-"sv-SE":"Fakturan kan inte bokföras eftersom det inte finns några faturabokningsrader",
+"sv-SE":"Fakturan kan inte bokföras eftersom det inte finns några faturabokningsrader ",
 "no-NO":"På grunn av manglende fakturalinjer kan fakturaen ikke bokføres",
 "fi-FI":"Laskua ei voida kirjata, koska se ei sisällä laskurivejä."
 },
@@ -601,7 +601,7 @@
 "da-DK":"Enheden / Betaling sigt findes ikke. Prøv igen",
 "sv-SE":"Enheten/Betalningsvillkoret finns inte. Vänligen försök igen",
 "no-NO":"Enhet/Betalings vilkår eksisterer ikke. Prøv igjen",
-"fi-FI":"Yksikköä/Maksuehtoa ei ole luotu. Yritä uudelleen."
+"fi-FI":"Yksikköä/Maksuehtoa ei ole luotu. Yritä uudelleen. "
 },
 "CURRENTINVOICES_DETAILS_ERROR_DEBTORNOTEXIST":{
 "en-GL":"The customer does not exist",
@@ -661,8 +661,8 @@
 },
 "CURRENTINVOICES_DETAILS_CONFIRMBOOK_YES":{
 "en-GL":"Book invoice",
-"da-DK":"Bogfør",
-"sv-SE":"Bokför",
+"da-DK":"Bogfør ",
+"sv-SE":"Bokför ",
 "no-NO":"Bokfør",
 "fi-FI":"Kirjaa lasku"
 },
@@ -2155,7 +2155,7 @@
 "da-DK":"Vent venligst",
 "sv-SE":"Vänta",
 "no-NO":"Vennligst vent",
-"fi-FI":"Odota"
+"fi-FI":"Odota "
 },
 "INVOICETABLE_ERROR_DOWNLOADINGPDF":{
 "en-GL":"Error downloading PDF",
@@ -2176,7 +2176,7 @@
 "da-DK":"Forfaldne & Ubetalte",
 "sv-SE":"Förfallna & Obetalda",
 "no-NO":"Forfalte og ubetalte",
-"fi-FI":"Myöhässä & Maksamatta"
+"fi-FI":"Erääntyneet"
 },
 "INVOICETABLE_POPUP_LOADINGTOOLONG_TITLE":{
 "en-GL":"This is taking too long",
@@ -2900,7 +2900,7 @@
 "da-DK":"Synkronisere data",
 "sv-SE":"Synkronisera data som",
 "no-NO":"Synkronisere data",
-"fi-FI":"Dataa synkronisoidaan"
+"fi-FI":"Synkronoi dataa"
 },
 "SETTINGS_BUTTON_LOGOFF":{
 "en-GL":"Log Off",
@@ -2912,7 +2912,7 @@
 "SETTINGS_SHOWBADGE":{
 "en-GL":"Show Badge",
 "da-DK":"Vis Badge",
-"sv-SE":"Visa avisering",
+"sv-SE":"Visa avisering ",
 "no-NO":"Vis Badge",
 "fi-FI":"Näytä merkki"
 },
@@ -2996,7 +2996,7 @@
 "SETTINGS_SCANSECTION_FOOTER":{
 "en-GL":"Scanning Day Books settings",
 "da-DK":"Indscanningsindstillinger",
-"sv-SE":"Skanningsinställningar",
+"sv-SE":"Skanningsinställningar ",
 "no-NO":"Innskannings innstillinger",
 "fi-FI":"Skannauksen päiväkirja-asetukset"
 },
@@ -3018,7 +3018,7 @@
 "en-GL":"Check for PIN",
 "da-DK":"Kontroller for PIN",
 "sv-SE":"Kontrollera om PIN",
-"no-NO":"Kontroler",
+"no-NO":"Kontroler ",
 "fi-FI":"Tarkistetaan PIN"
 },
 "SETTINGS_CHANGEPIN":{
@@ -3038,14 +3038,14 @@
 "SETTINGS_BADGESECTION_FOOTER":{
 "en-GL":"Indicates whether the red badge telling the number of due invoices will be shown after you close the application",
 "sv-SE":"Indikerar om det röda avisering som visar antalet förfallna fakturor kommer visas när du stänger programmet",
-"fi-FI":"Osoittaa näytetäänkö punaista merkkiä ohjelman sulkemisen jälkeen, mikä kertoo erääntyneiden laskujen määrän."
+"fi-FI":"Osoittaa näytetäänkö punaista merkkiä ohjelman sulkemisen jälkeen, mikä kertoo erääntyneiden laskujen määrän. "
 },
 "SETTINGS_FULLRESYNC_TITLE":{
 "en-GL":"Full Sync from e-conomic",
 "da-DK":"Fuld synkronisering fra e-conomic",
 "sv-SE":"Full synkronisering av e-conomic",
 "no-NO":"Full synkronisering fra e-conomic",
-"fi-FI":"Täysin synkronisoitu e-conomicista"
+"fi-FI":"Täysi synkronointi"
 },
 "SETTINGS_FULLRESYNC_ERROR_SENDINGSCANS_TITLE":{
 "en-GL":"Please wait",
@@ -3178,7 +3178,7 @@
 "da-DK":"PIN succes oprettet",
 "sv-SE":"PIN-koden är inställd",
 "no-NO":"Opprettelse av PIN vellykket",
-"fi-FI":"PIN on asetettu"
+"fi-FI":"PIN on asetettu "
 },
 "SETTINGS_PINDIALOG_POPUP_SUCCESS_MESSAGE_CHANGED":{
 "en-GL":"PIN successfully changed",
@@ -3316,7 +3316,7 @@
 "SETTINGS_INVENTORY_CANNOTENABLE_POPUP_TITLE":{
 "en-GL":"Cannot Enable Inventory",
 "da-DK":"Kan ikke aktiver Lagerstyring",
-"sv-SE":"Kan inte aktivera Lager",
+"sv-SE":"Kan inte aktivera Lager ",
 "no-NO":"Kan ikke aktiver Lager",
 "fi-FI":"Ei voida aktivoida Varastoa"
 },
@@ -3374,7 +3374,7 @@
 "da-DK":"Om",
 "sv-SE":"Om",
 "no-NO":"Om",
-"fi-FI":"Aiheesta"
+"fi-FI":"Sovelluksesta"
 },
 "LOGIN_BUTTON_LOGIN":{
 "en-GL":"Log In",
@@ -3433,7 +3433,11 @@
 "fi-FI":"Kirjautuminen epäonnistui. Tarkista, että API-pääsy on aktivoitu e-conomicissa."
 },
 "LOGIN_POPUP_NOAPIACCESS_BUTTON_OK":{
-"en-GL":"OK"
+"en-GL":"OK",
+"da-DK":"OK",
+"sv-SE":"OK",
+"no-NO":"OK",
+"fi-FI":"OK"
 },
 "LOGIN_POPUP_NOAPIACCESS_BUTTON_HELP":{
 "en-GL":"Help",
@@ -3634,7 +3638,7 @@
 "da-DK":"Om udgiveren",
 "sv-SE":"Om förlaget",
 "no-NO":"Om utvikleren",
-"fi-FI":"Julkaisijasta"
+"fi-FI":"Julkaisija"
 },
 "ABOUT_MCA_NAME":{
 "en-GL":"MCA dooel",
@@ -3746,7 +3750,7 @@
 "CLEARDATAVIEW_POPUP_SUCCESS_TITLE":{
 "en-GL":"Private data cleared sucessfully",
 "da-DK":"Private data ryddet held",
-"sv-SE":"Personuppgifter har rensas",
+"sv-SE":"Personuppgifter har rensas ",
 "no-NO":"Private data er fjernet",
 "fi-FI":"Yksityisen datan poisto onnistui"
 },
@@ -3759,7 +3763,7 @@
 "da-DK":"Du har i øjeblikket ikke har nogen internetforbindelse. Sørg for at du har en stabil internetforbindelse for at bedste oplevelse MobileOffice til e-conomic",
 "sv-SE":"Du har för närvarande ingen internetuppkoppling. Kontrollera att du har en stabil internetuppkoppling för att kunna upplevelsen MobileOffice för e-conomic på bästa sätt",
 "no-NO":"Du har for øyeblikket ingen internettforbindelse. Sørg for at du har en stabil internettforbindelse for en opptimert opplevelse av og med MobileOffice til e-conomic",
-"fi-FI":"Sinulla ei ole tällä hetkellä Internet-yhteyttä. Varmistathan hyvän Internet-yhteyden saadaksesi parhaan kokemuksen MobileOffice for e-conomicista."
+"fi-FI":"Sinulla ei ole tällä hetkellä Internet-yhteyttä. Varmistathan hyvän Internet-yhteyden saadaksesi parhaan kokemuksen MobileOffice for e-conomicista.  "
 },
 "SLIDEOUT_DEBTORS":{
 "en-GL":"Customers",
@@ -4013,21 +4017,21 @@
 "da-DK":"Samlede ubetalte",
 "sv-SE":"Obetalda fakturor",
 "no-NO":"Samlede ubetalte",
-"fi-FI":"Maksamatta yhteens"
+"fi-FI":"Maksamatta yht."
 },
 "HOMEDASHBOARD_DUE":{
 "en-GL":"Due Overall",
 "da-DK":"Samlede forfaldne",
 "sv-SE":"Förfallna fakturor",
 "no-NO":"Samlede forfalte",
-"fi-FI":"Erääntynyt yhteensä"
+"fi-FI":"Erääntyneet yht."
 },
 "HOMEDASHBOARD_SALESPERFORMANCECHART":{
 "en-GL":"Sales Performance",
 "da-DK":"Salgsresultater",
 "sv-SE":"Försäljningsresultat",
 "no-NO":"Salgsresultater",
-"fi-FI":"Myynnin suoriutuminen"
+"fi-FI":"Myynnin tilastot"
 },
 "HOMEDASHBOARD_NEWINVOICE":{
 "en-GL":"New Invoice",
@@ -4649,7 +4653,7 @@
 "da-DK":"Kontaktpersonen er angivet som 'Attention' på kunden.",
 "sv-SE":"Kontaktpersonen har angetts som ”Attention” för kunden.",
 "no-NO":"Kontaktpersonen er angitt som `vær oppmerksom`på kunden",
-"fi-FI":"Yhteyshenkilö on luotu \"Huomautuksena\" asiakkaalle."
+"fi-FI":"Yhteyshenkilö on luotu 'Huomautuksena' asiakkaalle."
 },
 "CONTACTDASHBOARD_BARBUTTON_EDIT":{
 "en-GL":"Edit",
@@ -4713,6 +4717,33 @@
 "sv-SE":"Skriv ditt meddelande till kunden",
 "no-NO":"Skriv inn din melding til kunden",
 "fi-FI":"Anna viestisi asiakkaalle"
+},
+"SETTINGS_MODULES_IZETTLE":{
+"en-GL":"iZettle Payment"
+},
+"SETTINGS_IZETTLE_LOGIN":{
+"en-GL":"Login"
+},
+"SETTINGS_IZETTLE_SIGNUP":{
+"en-GL":"Get iZettle"
+},
+"SETTINGS_IZETTLE_SIGNUP_URL":{
+"en-GL":"https://secure.izettle.com/register?countryId=GB&languageId=en&code=Q9Q7F9",
+"da-DK":"https://secure.izettle.com/register?countryId=DK&languageId=da&code=Q9Q7F9",
+"sv-SE":"https://secure.izettle.com/register?countryId=SE&languageId=sv&code=Q9Q7F9",
+"no-NO":"https://secure.izettle.com/register?countryId=NO&languageId=nb&code=Q9Q7F9"
+},
+"SETTINGS_IZETTLE_SIGNUP_FOOTER":{
+"en-GL":"Recieve payment for an Invoice with Dankort, VISA, or Mastercard with iZettle when delivering your order"
+},
+"SETTINGS_IZETTLE_NAME":{
+"en-GL":"Name"
+},
+"SETTINGS_IZETTLE_EMAIL":{
+"en-GL":"Email"
+},
+"SETTINGS_IZETTLE_LOGOUT":{
+"en-GL":"Logout"
 }
 }
 }
