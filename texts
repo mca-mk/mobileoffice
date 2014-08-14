@@ -85,6 +85,9 @@
 "MOBILEOFFICE_SIGNUP_ENDPOINT_SIGNUP":{
 "en-GL":"SignUp"
 },
+"MOBILEOFFICE_IZETTLE_API_KEY":{
+"en-GL":"D35FC34572D750A72892E6AFBC7A3C95"
+},
 "MOBILEOFFICE_CVR_API":{
 "en-GL":"http://cvr.mca.mk/api/"
 },
@@ -3716,7 +3719,7 @@
 "en-GL":"Clear private data",
 "da-DK":"Fjern private data",
 "sv-SE":"Rensa personuppgifter",
-"no-NO":"Fjern private data",
+"no-NO":"Fjern private data",
 "fi-FI":"Poista yksityinen data"
 },
 "CLEARDATAVIEW_POPUP_CLEAR_TITLE":{
@@ -4744,6 +4747,71 @@
 },
 "SETTINGS_IZETTLE_LOGOUT":{
 "en-GL":"Logout"
+},
+"SETTINGS_IZETTLE_BALANCEINVOICE_SECTIONTITLE":{
+"en-GL":"Journal entry"
+},
+"SETTINGS_IZETTLE_BALANCEINVOICE":{
+"en-GL":"Balance Customer Invoice"
+},
+"SETTINGS_IZETTLE_ENABLEDBALANCEINVOICE_FOOTER":{
+"en-GL":"Balance invoice is enabled."
+},
+"SETTINGS_IZETTLE_DISABLEDBAlANCEINVOICE_FOOTER":{
+"en-GL":"Balance invoice is disabled."
+},
+"SETTINGS_IZETTLE_ALLOWPARTIALPAYMENTS":{
+"en-GL":"Allow partial payments"
+},
+"PDFPREVIEW_PAYWITHIZETTLE":{
+"en-GL":"Pay with iZettle"
+},
+"IZETTLE_PAYMENT_REFERENCE_FORMAT":{
+"en-GL":"Invoice {0} - {1}",
+"da-DK":"Bilag {0} - {1}"
+},
+"IZETTLE_PAYMENT_REFERENCE_FORMAT_TRUNCATESTRING":{
+"en-GL":"50"
+},
+"IZETTLE_POPUP_TITLE":{
+"en-GL":"Pay with iZettle"
+},
+"IZETTLE_POPUP_MESSAGE":{
+"en-GL":"Enter the amount to be paid"
+},
+"IZETTLE_POPUP_PAY":{
+"en-GL":"Pay"
+},
+"IZETTLE_PAYMENT_BALANCE_DESCRIPTION":{
+"en-GL":"From {0} Inv. {1}"
+},
+"SETTINGS_IZETTLE_BALANCESECTION_TITLE":{
+"en-GL":"Balance Options"
+},
+"IZETTLE_DEFAULT_CONTRAACCOUNT":{
+"en-GL":"5820",
+"da-DK":"5820"
+},
+"IZETTLE_POPUP_ERROR_TITLE":{
+"en-GL":"Invoice was not paid"
+},
+"IZETTLE_POPUP_ERROR_MESSAGE":{
+"en-GL":"An error occured"
+},
+"IZETTLE_PAYINGALERT_TITLE":{
+"en-GL":"Balancing invoice"
+},
+"IZETTLE_POPUP_ERROR_INVOICEPAID_TITLE":{
+"en-GL":"Cannot pay invoice"
+},
+"IZETTLE_POPUP_ERROR_INVOICEPAID_MESSAGE":{
+"en-GL":"Invoice is already fully paid"
+},
+"IZETTLE_POPUP_ERROR_IVNALIDAPI_TITLE":{
+"en-GL":"Cannot contact API"
+},
+"IZETTLE_POPUP_ERROR_INVALIDAPI_MESSAGE":{
+"en-GL":"Check your internet connection and restart application"
 }
 }
 }
