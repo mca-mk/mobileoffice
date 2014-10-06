@@ -5094,7 +5094,8 @@
 "en-GL":"Register as sent"
 },
 "ORDER_DETAILS_ACTIONS_MARKASNOTSENT":{
-"en-GL":"Cancel sent status"
+"en-GL":"Cancel sent status",
+"da-DK":"Annuler"
 },
 "ORDER_DETAILS_STATUSINFO_ORDERISSENT":{
 "en-GL":"Order is registered as sent"
@@ -5103,7 +5104,8 @@
 "en-GL":"Cannot register as sent"
 },
 "ORDERTABLEVIEW_SENTSTATUS_SENT":{
-"en-GL":"Sent"
+"en-GL":"Sent",
+"da-DK":"Udfør"
 },
 "ORDER_MAIL_ATTACHMENTNAME":{
 "en-GL":"[COMPANY] - Order [NUMBER].pdf"
