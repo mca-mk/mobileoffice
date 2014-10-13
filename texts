@@ -5146,6 +5146,9 @@
 },
 "FORCEUPDATE_BUTTON_TOAPPSTORE":{
 "en-GL":"Go to AppStore"
+},
+"HOMEDASHBOARD_NEWORDER":{
+"en-GL":"New Order"
 }
 }
 }
