@@ -97,6 +97,9 @@
 "da-DK":"1",
 "sv-SE":"0",
 "no-NO":"0"
+},
+"MOBILEOFFICE_FORCEUPDATE":{
+"en-GL":"0"
 }
 ,"POPUP_NOINTERNET_TITLE":{
 "en-GL":"No internet connection",
@@ -5134,6 +5137,12 @@
 "sv-SE":"Detta kan aktiveras endast om Lager tilläggsmodul i e-conomic konto är aktiverat.\n\nInaktivera detta kommer inte att tillåta dig att se lagerstatistiken i en produkt. Du kan aktivera den när som helst.",
 "no-NO":"Dette kan aktiveres bare hvis Lagerstyring Tilleggsmodulen i din e-conomic kontoen er aktivert.\n\nDeaktivering av denne vil ikke tillate deg å se aksjestatistikk av et produkt. Du kan aktivere den når som helst.",
 "fi-FI":"Tämä voidaan sallia ainoastaan jos sinulla on Varasto-moduuli käytössäsi e-conomicissa.\n\nEstämällä tämä et pysty enää näkemään varastotietoja artikkelilta. Voit ottaa sen käyttöön milloin vain."
+},
+"FORCEUPDATE_SECTION_HEADER":{
+"en-GL":"Please update MobileOffice"
+},
+"FORCEUPDATE_BUTTON_TOAPPSTORE":{
+"en-GL":"Go to AppStore"
 }
 }
 }
