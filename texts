@@ -5101,7 +5101,7 @@
 },
 "ORDER_DETAILS_ACTIONS_MARKASNOTSENT":{
 "en-GL":"Cancel sent status",
-"da-DK":"Annuler"
+"da-DK":"Annuler ordre"
 },
 "ORDER_DETAILS_STATUSINFO_ORDERISSENT":{
 "en-GL":"Order is registered as sent"
