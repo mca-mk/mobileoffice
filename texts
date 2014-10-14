@@ -5149,6 +5149,9 @@
 },
 "HOMEDASHBOARD_NEWORDER":{
 "en-GL":"New Order"
+},
+"ORDERDETAILS_PDFPREVIEW_CONVERTTOINVOICE_ERROR_MESSAGE":{
+"en-GL":"Cannot convert to invoice"
 }
 }
 }
