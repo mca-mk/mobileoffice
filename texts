@@ -2794,7 +2794,7 @@
 "fi-FI":"Tämä kuva lisätään tapahtumana valittuun päiväkirjakategoriaan"
 },
 "SCAN_TITLE":{
-"en-GL":"Scan",
+"en-GL":"Expense",
 "da-DK":"Indscanning",
 "sv-SE":"Skanna",
 "no-NO":"Innskanning",
@@ -2903,14 +2903,14 @@
 "fi-FI":"Lähetetään"
 },
 "SCAN_ALL_ENTRIES_SENT":{
-"en-GL":"All scans sent to e-conomic",
+"en-GL":"All expenses sent to e-conomic",
 "da-DK":"Alle indscanninger sendt til e-conomic",
 "sv-SE":"Alla bilder skickas till e-conomic",
 "no-NO":"Alle bilder sendt til e-conomic",
 "fi-FI":"Kaikki skannaukset lähetetään e-conomiciin"
 },
 "SCAN_AT_LEAST_ONE_ENTRY_FAILED":{
-"en-GL":"One or more scans were not sent",
+"en-GL":"One or more expenses were not sent",
 "da-DK":"Et eller flere indscanninger blev ikke sendt",
 "sv-SE":"En eller flera bilder har inte skickats",
 "no-NO":"Et eller flere bilder ble ikke sendt",
@@ -2945,7 +2945,7 @@
 "fi-FI":"Tyhjä"
 },
 "MAINSCAN_QUICKSCAN":{
-"en-GL":"Quick Scan",
+"en-GL":"Quick Expense",
 "da-DK":"Hurtig Indscanning",
 "sv-SE":"Quick Skanning",
 "no-NO":"Quick scan",
@@ -3197,14 +3197,14 @@
 "fi-FI":"Anna oletusasiakasasetukset"
 },
 "SETTINGS_SCANSECTION_TITLE":{
-"en-GL":"Scanning",
+"en-GL":"Expenses",
 "da-DK":"Indscanning",
 "sv-SE":"Skanning",
 "no-NO":"Innskanning",
 "fi-FI":"Skannaus"
 },
 "SETTINGS_SCANSECTION_FOOTER":{
-"en-GL":"Scanning Day Books settings",
+"en-GL":"Expenses Day Books settings",
 "da-DK":"Indscanning kassekladde indstillinger",
 "sv-SE":"Skanningsinställningar",
 "no-NO":"Innskannings innstillinger",
@@ -4001,7 +4001,7 @@
 "fi-FI":"Arkisto"
 },
 "SLIDEOUT_SCANNING":{
-"en-GL":"Scanning",
+"en-GL":"Expenses",
 "da-DK":"Indscanning",
 "sv-SE":"Skanning",
 "no-NO":"Innscanning",
@@ -4248,7 +4248,7 @@
 "fi-FI":"Uusi lasku"
 },
 "HOMEDASHBOARD_NEWSCAN":{
-"en-GL":"New Scan",
+"en-GL":"New Expense",
 "da-DK":"Ny indscanning",
 "sv-SE":"Ny skanning",
 "no-NO":"Ny scanning",
