@@ -5668,6 +5668,9 @@
 },
 "PINVIEW_TITLE":{
 "en-GL":"Enter PIN"
+},
+"SPLITCONTROLLER_MENU_TITLE":{
+"en-GL":"Menu"
 }
 }
 }
