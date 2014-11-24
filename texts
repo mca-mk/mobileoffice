@@ -5671,6 +5671,9 @@
 },
 "SPLITCONTROLLER_MENU_TITLE":{
 "en-GL":"MobileOffice"
+},
+"PDFVIEW_ACTIONS_PRINT":{
+"en-GL":"Print"
 }
 }
 }
