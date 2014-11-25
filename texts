@@ -5674,6 +5674,42 @@
 },
 "PDFVIEW_ACTIONS_PRINT":{
 "en-GL":"Print"
+},
+"SLIDEOUT_QUOTES":{
+"en-GL":"Quotes"
+},
+"QUOTES_SEARCH_PLACEHOLDER":{
+"en-GL":"Search quotes"
+},
+"QUOTESTABLE_TITLE":{
+"en-GL":"Quotes"
+},
+"QUOTES_EMPTYSTATE_BUTTONTEXT":{
+"en-GL":"Add new quote"
+},
+"QUOTETABLE_LOADINGQUOTE":{
+"en-GL":"Loading"
+},
+"QUOTETABLE_POPUP_QUOTENOTEXITST_TITLE":{
+"en-GL":"Quote does not exist"
+},
+"QUOTETABLE_POPUP_QUOTENOTEXITST_MESSAGE":{
+"en-GL":"Please refresh the list"
+},
+"QUOTETABLE_ERROR_CANNOTOPENQUOTE":{
+"en-GL":"Cannot open quote"
+},
+"QUOTETABLE_DELETE":{
+"en-GL":"Delete"
+},
+"QUOTETABLE_POPUP_DELETE":{
+"en-GL":"Deleting"
+},
+"QUOTETABLE_POPUP_DELETEERROR_TITLE":{
+"en-GL":"Cannot delete quote"
+},
+"QUOTES_DETAILS_PDFVIEW_TITLE":{
+"en-GL":"Quote [NUMBER]"
 }
 }
 }
