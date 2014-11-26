@@ -5676,40 +5676,276 @@
 "en-GL":"Print"
 },
 "SLIDEOUT_QUOTES":{
-"en-GL":"Quotes"
+"en-GL":"Quotations"
 },
 "QUOTES_SEARCH_PLACEHOLDER":{
-"en-GL":"Search quotes"
+"en-GL":"Search quotations"
 },
 "QUOTESTABLE_TITLE":{
-"en-GL":"Quotes"
+"en-GL":"Quotations"
 },
 "QUOTES_EMPTYSTATE_BUTTONTEXT":{
-"en-GL":"Add new quote"
+"en-GL":"Add new quotation"
 },
 "QUOTETABLE_LOADINGQUOTE":{
-"en-GL":"Loading"
+"en-GL":"Loading",
+"da-DK":"Henter",
+"sv-SE":"Laddar",
+"no-NO":"Laster ordre",
+"fi-FI":"Ladataan",
+"es-ES":"Cargando"
 },
 "QUOTETABLE_POPUP_QUOTENOTEXITST_TITLE":{
-"en-GL":"Quote does not exist"
+"en-GL":"Quotation does not exist"
 },
 "QUOTETABLE_POPUP_QUOTENOTEXITST_MESSAGE":{
-"en-GL":"Please refresh the list"
+"en-GL":"Please refresh the list",
+"da-DK":"Opdater venligst listen",
+"sv-SE":"Vänligen uppdatera listan",
+"no-NO":"Vennligst oppdater listen",
+"fi-FI":"Päivitä lista",
+"es-ES":"Por favor, actualiza la lista"
 },
 "QUOTETABLE_ERROR_CANNOTOPENQUOTE":{
-"en-GL":"Cannot open quote"
+"en-GL":"Cannot open quotation"
 },
 "QUOTETABLE_DELETE":{
-"en-GL":"Delete"
+"en-GL":"Delete",
+"da-DK":"Slet",
+"sv-SE":"Ta bort",
+"no-NO":"Slett",
+"fi-FI":"Poista",
+"es-ES":"Eliminar"
 },
 "QUOTETABLE_POPUP_DELETE":{
-"en-GL":"Deleting"
+"en-GL":"Deleting quotation"
 },
 "QUOTETABLE_POPUP_DELETEERROR_TITLE":{
-"en-GL":"Cannot delete quote"
+"en-GL":"Cannot delete quotation"
 },
 "QUOTES_DETAILS_PDFVIEW_TITLE":{
-"en-GL":"Quote [NUMBER]"
+"en-GL":"Quotation [NUMBER]"
+},
+"QUOTES_DETAILS_SELECTCUSTOMER_PLACEHOLDER":{
+"en-GL":"Select customer",
+"da-DK":"Vælg kunde",
+"sv-SE":"Välj kund",
+"no-NO":"Velg kunde",
+"fi-FI":"Valitse asiakas",
+"es-ES":"Selecciona cliente"
+},
+"QUOTE_DETAILS_ACTIONS_REGISTERASSENT":{
+"en-GL":"Register as sent"
+},
+"QUOTES_DETAILS_QUOTE_LOADING":{
+"en-GL":"Loading",
+"da-DK":"Henter",
+"sv-SE":"Laddar",
+"no-NO":"Laster",
+"fi-FI":"Ladataan",
+"es-ES":"Cargando"
+},
+"QUOTES_DETAILS_DATE":{
+"en-GL":"Quotation date"
+},
+"QUOTES_DETAILS_NEWQUOTE_TITLE":{
+"en-GL":"New quotation"
+},
+"QUOTES_DETAILS_CUSTOMER_TITLE":{
+"en-GL":"Customer",
+"da-DK":"Kunde",
+"sv-SE":"Kunden",
+"no-NO":"Kunden",
+"fi-FI":"Asiakas",
+"es-ES":"Cliente"
+},
+"QUOTES_DETAILS_TITLE":{
+"en-GL":"Quotation"
+},
+"QUOTES_DETAILS_SELECTCUSTOMERSECTION_TITLE":{
+"en-GL":"Customer",
+"da-DK":"Kunde",
+"sv-SE":"Kunden",
+"no-NO":"Kunden",
+"fi-FI":"Asiakas",
+"es-ES":"Cliente"
+},
+"QUOTES_DETAILS_DETAILSSECTION_TITLE":{
+"en-GL":"Quotation details"
+},
+"QUOTES_DETAILS_ADDITIONAL":{
+"en-GL":"Additional",
+"da-DK":"Yderligere",
+"sv-SE":"Övrigt",
+"no-NO":"Ytterligere",
+"fi-FI":"Ylimääräinen",
+"es-ES":"Adicional"
+},
+"QUOTES_DETAILS_HEADING_TITLE":{
+"en-GL":"Heading"
+},
+"QUOTES_DETAILS_HEADING_PLACEHOLDER":{
+"en-GL":"Heading"
+},
+"QUOTES_DETAILS_TEXT1_PLACEHOLDER":{
+"en-GL":"Description",
+"da-DK":"Beskrivelse",
+"sv-SE":"Beskrivning",
+"no-NO":"Beskrivelse",
+"fi-FI":"Kuvaus",
+"es-ES":"Descripción"
+},
+"QUOTES_DETAILS_VIEWDRAFT":{
+"en-GL":"View Draft"
+},
+"QUOTES_DETAILS_BARBUTTON_CONVERT_TOINVOICE":{
+"en-GL":"Convert to invoice",
+"da-DK":"Konverter til faktura",
+"sv-SE":"Konvertera till faktura",
+"no-NO":"Konverter til faktura",
+"fi-FI":"Muunna laskuksi",
+"es-ES":"Convertir a factura"
+},
+"QUOTES_DETAILS_BARBUTTON_CONVERT_TOORDER":{
+"en-GL":"Convert to order"
+},
+"QUOTES_DETAILS_POPUP_SAVING":{
+"en-GL":"Saving quotation"
+},
+"QUOTE_DETAILS_ERROR_SENDQUOTE_TITLE":{
+"en-GL":"Cannot register as sent"
+},
+"QUOTES_DETAILS_ERROR_PREVIEW_SAVEMESSAGE":{
+"en-GL":"A problem occured while saving quotation"
+},
+"QUOTES_DETAILS_CONFIRMCONVERT_YES":{
+"en-GL":"Convert",
+"da-DK":"Konverter",
+"sv-SE":"Konvertera",
+"no-NO":"Konverter",
+"fi-FI":"Muunna",
+"es-ES":"Convertir"
+},
+"QUOTES_DETAILS_CONFIRMCONVERT_TITLE":{
+"en-GL":"Convert to invoice",
+"da-DK":"Konverter til faktura",
+"sv-SE":"Konvertera till faktura",
+"no-NO":"Konverter til faktura",
+"fi-FI":"Muunna laskuksi",
+"es-ES":"Convertir a factura"
+},
+"QUOTES_DETAILS_CONFIRMCONVERT_MESSAGE":{
+"en-GL":"Are you sure you want to convert to invoice? This action cannot be undone.",
+"da-DK":"Er du sikker på at du vil konvertere til faktura? Denne handling kan ikke fortrydes.",
+"sv-SE":"Är du säker på att du vill konvertera till faktura? Denna åtgärd kan inte ångras.",
+"no-NO":"Er du sikker på at du vil konvertere til faktura? Denne handlingen kan ikke angres",
+"fi-FI":"Haluatko varmasti muuntaa laskuksi? Tätä toimintoa ei voi perua.",
+"es-ES":"¿Estás seguro que quieres convertir a factura? Esta acción no puede deshacerse"
+},
+"QUOTES_DETAILS_CONFIRMCONVERT_NO":{
+"en-GL":"Cancel",
+"da-DK":"Fortryd",
+"sv-SE":"Avbryt",
+"no-NO":"Avbryt",
+"fi-FI":"Peruuta",
+"es-ES":"Cancelar"
+},
+"QUOTES_DETAILS_CONVERT_INCOMPLETE":{
+"en-GL":"Quotation is not complete. Please create new quotation"
+},
+"QUOTES_DETAILS_CONVERT_POPUP":{
+"en-GL":"Converting quotation"
+},
+"QUOTES_DETAILS_ERROR_SAVING":{
+"en-GL":"Error saving quotation"
+},
+"QUOTE_DETAILS_CANNOTCONVERT":{
+"en-GL":"Cannot convert quotation"
+},
+"QUOTE_DETAILS_CONVERT_SUCCESS":{
+"en-GL":"Success",
+"da-DK":"Succes",
+"sv-SE":"Succé",
+"no-NO":"Vellykket",
+"fi-FI":"Onnistui",
+"es-ES":"Éxito"
+},
+"QUOTE_DETAILS_POPUP_LOADING_TITLE":{
+"en-GL":"Loading PDF",
+"da-DK":"Henter PDF",
+"sv-SE":"Laddar PDF",
+"no-NO":"Laster PDF",
+"fi-FI":"PDF latautuu",
+"es-ES":"Cargando PDF"
+},
+"QUOTE_DETAILS_POPUP_LOADING_MESSAGE":{
+"en-GL":"Please wait",
+"da-DK":"Vent venligst",
+"sv-SE":"Vänta",
+"no-NO":"Vennligst vent",
+"fi-FI":"Odota",
+"es-ES":"Por favor, espera"
+},
+"QUOTES_DETAILS_ERROR_PREVIEW_TITLE":{
+"en-GL":"Cannot preview quotation"
+},
+"QUOTES_DETAILS_ERROR_PREVIEW_DOWNLOADMESSAGE":{
+"en-GL":"A problem occured while downloading quotation"
+},
+"QUOTES_DETAILS_ERROR_PREVIEW_NOTSAVED":{
+"en-GL":"Please save your quotation first"
+},
+"QUOTES_DETAILS_LINESECTION_TITLE":{
+"en-GL":"Quotation lines"
+},
+"QUOTES_DETAILS_ADDNEWLINE":{
+"en-GL":"Add new line",
+"da-DK":"Tilføj ny linje",
+"sv-SE":"Lägg till rad",
+"no-NO":"Legg til Linje",
+"fi-FI":"Lisaa uusi rivi",
+"es-ES":"Añadir nueva línea"
+},
+"QUOTE_DETAILS_TOTALSECTION_TITLE":{
+"en-GL":"Totals",
+"da-DK":"Totaler",
+"sv-SE":"Summor",
+"no-NO":"Totalt",
+"fi-FI":"Yhteensä",
+"es-ES":"Total"
+},
+"QUOTEDETAILS_SAVE_ERROR_QUOTEISSENT_TITLE":{
+"en-GL":"Cannot modify quotation"
+},
+"QUOTEDETAILS_SAVE_ERROR_QUOTEISSENT_MESSAGE":{
+"en-GL":"Quotation is registered as sent"
+},
+"QUOTES_DETAILS_POPUP_BARRED_PRODUCT_TITLE":{
+"en-GL":"Cannot save quotation"
+},
+"QUOTE_DETAILS_POPUP_BARRED_PRODUCT_TITLE":{
+"en-GL":"One of the products in the quotation lines is barred"
+},
+"QUOTE_DETAILS_POPUP_BARRED_PRODUCT_MESSAGE":{
+"en-GL":"Please allow access to this product before trying to save/convert the quotation"
+},
+"QUOTE_DETAILS_SAVE_SUCCESS":{
+"en-GL":"Saved quotation"
+},
+"QUOTE_DETAILS_SAVE_FAILED":{
+"en-GL":"Quotation was not saved"
+},
+"QUOTES_ADDITIONAL_ROOTTITLE":{
+"en-GL":"Additional quote settings"
+},
+"QUOTES_ADDITIONAL_TEXT2_PLACEHOLDER":{
+"en-GL":"Quotation note"
+},
+"QUOTELINE_TITLE":{
+"en-GL":"Quote line"
+},
+"QUOTELINE_DELETEBUTTON":{
+"en-GL":"Delete quotation line"
 }
 }
 }
