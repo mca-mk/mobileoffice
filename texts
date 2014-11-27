@@ -5955,6 +5955,15 @@
 },
 "QUOTE_MAIL_ATTACHMENTNAME":{
 "en-GL":"[COMPANY] - Quotation [NUMBER].pdf"
+},
+"QUOTES_DETAILS_CONFIRMCONVERTTOORDER_TITLE":{
+"en-GL":"Convert to order"
+},
+"QUOTES_DETAILS_CONFIRMCONVERTTOORDER_MESSAGE":{
+"en-GL":"Are you sure you want to convert to order? This action cannot be undone."
+},
+"QUOTEDETAILS_PDFPREVIEW_CONVERTTOORDER_ERROR_MESSAGE":{
+"en-GL":"Cannot convert to order"
 }
 }
 }
