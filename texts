@@ -5964,6 +5964,9 @@
 },
 "QUOTEDETAILS_PDFPREVIEW_CONVERTTOORDER_ERROR_MESSAGE":{
 "en-GL":"Cannot convert to order"
+},
+"SYNCVIEW_PROGRESS_QUOTES":{
+"en-GL":"Syncing quotes"
 }
 }
 }
