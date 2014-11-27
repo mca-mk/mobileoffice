@@ -5946,6 +5946,15 @@
 },
 "QUOTELINE_DELETEBUTTON":{
 "en-GL":"Delete quotation line"
+},
+"QUOTES_DETAILS_BARBUTTON_CONVERTTOORDER":{
+"en-GL":"Convert to order"
+},
+"QUOTES_DETAILS_EMAILSUBJECT":{
+"en-GL":"Quotation [NUMBER] from [COMPANY_NAME]"
+},
+"QUOTE_MAIL_ATTACHMENTNAME":{
+"en-GL":"[COMPANY] - Quotation [NUMBER].pdf"
 }
 }
 }
