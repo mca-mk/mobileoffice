@@ -5982,6 +5982,9 @@
 "no-NO":"--- Tom ---",
 "fi-FI":"--- Tyhjä ---",
 "es-ES":"--- Ninguno ---"
+},
+"INVOICEDETAILS_ADDITIONAL_REFERENCESSECTION_TITLE":{
+"en-GL":"References"
 }
 }
 }
