@@ -229,12 +229,7 @@
 "es-ES":"Configuraciones avanzadas de factura"
 },
 "CURRENTINVOICES_ADDITIONAL_CUSTOMERSECTION_HEADER":{
-"en-GL":"Customer",
-"da-DK":"Kunde",
-"sv-SE":"Kund",
-"no-NO":"Kunde",
-"fi-FI":"Asiakas",
-"es-ES":"Cliente"
+"en-GL":"Recipient"
 },
 "CURRENTINVOICES_ADDITIONAL_CUSTOMERSECTION_FOOTER":{
 "en-GL":"Additional settings for customer",
@@ -5976,6 +5971,17 @@
 },
 "INVOICEDETAILS_ADDITIONAL_OUR2REFERENCE_TITLE":{
 "en-GL":"Our reference 2"
+},
+"EMPLOYEETABLE_TITLE":{
+"en-GL":"Employees"
+},
+"REFERENCES_LIST_NONE":{
+"en-GL":"--- None ---",
+"da-DK":"--- Tom ---",
+"sv-SE":"--- Tom ---",
+"no-NO":"--- Tom ---",
+"fi-FI":"--- Tyhjä ---",
+"es-ES":"--- Ninguno ---"
 }
 }
 }
