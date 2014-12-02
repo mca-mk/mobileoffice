@@ -5985,6 +5985,18 @@
 },
 "INVOICEDETAILS_ADDITIONAL_REFERENCESSECTION_TITLE":{
 "en-GL":"References"
+},
+"LINES_BARCODESCAN_UNSUCCESSFULLSCAN_TITLE":{
+"en-GL":"Scan not successfull"
+},
+"LINES_BARCODESCAN_UNSUCCESSFULLSCAN_MESSAGE":{
+"en-GL":"Barcode cannot be read. Please try again."
+},
+"LINES_BARCODESCAN_PRODUCTNOTFOUND_TITLE":{
+"en-GL":"Cannot find product"
+},
+"LINES_BARCODESCAN_PRODUCTNOTFOUND_MESSAGE":{
+"en-GL":"A product with this barcode does not exists. Please try again."
 }
 }
 }
