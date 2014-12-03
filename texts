@@ -6012,6 +6012,18 @@
 },
 "PDF_PREVIEW_ERROR_PRINT_MESSAGE":{
 "en-GL":"An error occured"
+},
+"SETTINGS_PRODUCTS_ROOTTITLE":{
+"en-GL":"Products"
+},
+"SETTINGS_PRODUCTS_SORTBY":{
+"en-GL":"Sort by"
+},
+"SETTINGS_SORTOPTION_ID":{
+"en-GL":"ID"
+},
+"SETTINGS_SORTOPTION_NAME":{
+"en-GL":"Name"
 }
 }
 }
