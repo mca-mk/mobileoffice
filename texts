@@ -6006,6 +6006,12 @@
 },
 "PRODUCTDETAILS_BARCODE_UNSUCCESSFULLSCAN_MESSAGE":{
 "en-GL":"Please try again"
+},
+"PDF_PREVIEW_ERROR_PRINT_TITLE":{
+"en-GL":"Cannot print document"
+},
+"PDF_PREVIEW_ERROR_PRINT_MESSAGE":{
+"en-GL":"An error occured"
 }
 }
 }
