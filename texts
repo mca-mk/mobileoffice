@@ -6024,6 +6024,9 @@
 },
 "SETTINGS_SORTOPTION_NAME":{
 "en-GL":"Name"
+},
+"SALESPERFORMANCE_TABLE_TOTAL":{
+"en-GL":"Total"
 }
 }
 }
