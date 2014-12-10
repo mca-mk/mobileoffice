@@ -5587,7 +5587,7 @@
 "es-ES":"Pedido registrado como enviado"
 },
 "ORDER_DETAILS_ACTIONS_SENDORDER":{
-"en-GL":"Register as sent",
+"en-GL":"Send",
 "es-ES":"Registrar como enviado"
 },
 "ORDER_DETAILS_ACTIONS_MARKASNOTSENT":{
@@ -5733,7 +5733,7 @@
 "es-ES":"Selecciona cliente"
 },
 "QUOTE_DETAILS_ACTIONS_REGISTERASSENT":{
-"en-GL":"Register as sent"
+"en-GL":"Send"
 },
 "QUOTES_DETAILS_QUOTE_LOADING":{
 "en-GL":"Loading",
