@@ -6030,6 +6030,12 @@
 },
 "DETAILS_ADDLINE_SCAN":{
 "en-GL":"Scan barcode"
+},
+"SETTINGS_PRODUCTS_ADDBARCODESCAN_SECTION_TITLE":{
+"en-GL":"Add line from barcode"
+},
+"SETTINGS_PRODUCTS_ADDBARCODESCAN_CAPTION":{
+"en-GL":"Enabled"
 }
 }
 }
