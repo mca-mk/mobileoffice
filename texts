@@ -3415,14 +3415,6 @@
 "fi-FI":"Skannaus",
 "es-ES":"Gastos"
 },
-"SETTINGS_SCANSECTION_FOOTER":{
-"en-GL":"Expenses Day Books settings",
-"da-DK":"Indscanning kassekladde indstillinger",
-"sv-SE":"Skanningsinställningar",
-"no-NO":"Innskannings innstillinger",
-"fi-FI":"Skannauksen päiväkirja-asetukset",
-"es-ES":"Configuraciones del libro diario de gastos"
-},
 "SETTINGS_PINSECTION_TITLE":{
 "en-GL":"Security",
 "da-DK":"Sikkerhed",
@@ -6036,6 +6028,12 @@
 },
 "SETTINGS_PRODUCTS_ADDBARCODESCAN_CAPTION":{
 "en-GL":"Enabled"
+},
+"SETTINGS_CUSTOMERS_TITLE_SECTION":{
+"en-GL":"New customer settings"
+},
+"SETTINGS_SCANSECTION_HEADER":{
+"en-GL":"Quick scan settings"
 }
 }
 }
