@@ -6049,6 +6049,9 @@
 },
 "SETTINGS_TROUBLESHOOT_SECTION_TRYTHIS_FULL":{
 "en-GL":"Full re-sync"
+},
+"PRODUCTDETAILS_PRODUCTWITHBARCODEEXISTS":{
+"en-GL":"Product with this barcode already exists"
 }
 }
 }
