@@ -6052,6 +6052,12 @@
 },
 "PRODUCTDETAILS_PRODUCTWITHBARCODEEXISTS":{
 "en-GL":"Product with this barcode already exists"
+},
+"TOUCHIDVIEW_LABEL_CAPTION":{
+"en-GL":"MobileOffice"
+},
+"TOUCHIDVIEW_TO_PIN_VIEW":{
+"en-GL":"Pin"
 }
 }
 }
