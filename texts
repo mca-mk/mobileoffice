@@ -6061,6 +6061,12 @@
 },
 "TOUCHIDVIEW_TO_PIN_VIEW":{
 "en-GL":"Pin"
+},
+"SECURITY_TOUCHID_FAILED_ALERT_TITLE":{
+"en-GL":"Failed"
+},
+"SECURITY_TOUCHID_FAILED_ALERT_MESSAGE":{
+"en-GL":"Please try again, or use PIN entry"
 }
 }
 }
