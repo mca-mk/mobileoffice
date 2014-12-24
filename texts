@@ -6054,6 +6054,9 @@
 "en-GL":"Product with this barcode already exists"
 },
 "TOUCHIDVIEW_LABEL_CAPTION":{
+"en-GL":"You can use your finger to verify"
+},
+"TOUCHIDVIEW_LABEL_TITLE":{
 "en-GL":"MobileOffice"
 },
 "TOUCHIDVIEW_TO_PIN_VIEW":{
