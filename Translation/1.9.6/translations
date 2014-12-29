@@ -145,7 +145,8 @@
 "es-ES":"Configuraciones avanzadas de factura"
 },
 "CURRENTINVOICES_ADDITIONAL_CUSTOMERSECTION_HEADER":{
-"en-GL":"Recipient"
+"en-GL":"Recipient",
+"da-DK":"Modtager"
 },
 "CURRENTINVOICES_ADDITIONAL_CUSTOMERSECTION_FOOTER":{
 "en-GL":"Additional settings for customer",
@@ -3034,7 +3035,7 @@
 },
 "MAINSCAN_QUICKSCAN":{
 "en-GL":"Quick Expense",
-"da-DK":"Hurtig Indscanning",
+"da-DK":"Kvik indscanning",
 "sv-SE":"Quick Skanning",
 "no-NO":"Quick scan",
 "fi-FI":"Pikaskannaus",
@@ -5479,71 +5480,83 @@
 "es-ES":"iZettle y el logo de iZettle son marcas registradas de iZettle AB, Suecia."
 },
 "SALESOVERVIEW_TABLE_TITLE_PERCENT":{
-"en-GL":"Profit",
-"da-DK":"Profit",
+"en-GL":"Difference",
+"da-DK":"Forskel",
 "es-ES":"Beneficio"
 },
 "ORDERDETAILS_SAVE_ERROR_ORDERISSENT_TITLE":{
 "en-GL":"Cannot modify order",
+"da-DK":"Kan ikke ændre ordre",
 "es-ES":"No se puede modificar el pedido"
 },
 "ORDERDETAILS_SAVE_ERROR_ORDERISSENT_MESSAGE":{
-"en-GL":"Order is registered as sent.",
+"en-GL":"Order is registered as sent",
+"da-DK":"Order er registreret som sendt",
 "es-ES":"Pedido registrado como enviado"
 },
 "ORDER_DETAILS_ACTIONS_SENDORDER":{
 "en-GL":"Send",
+"da-DK":"Send",
 "es-ES":"Registrar como enviado"
 },
 "ORDER_DETAILS_ACTIONS_MARKASNOTSENT":{
-"en-GL":"Cancel sent status",
-"da-DK":"Annuler ordre",
+"en-GL":"Remove sent status",
+"da-DK":"Ophæv sendt-status",
 "es-ES":"Cancelar estado de enviado"
 },
 "ORDER_DETAILS_STATUSINFO_ORDERISSENT":{
 "en-GL":"Order is registered as sent",
+"da-DK":"Order er registreret som sendt",
 "es-ES":"Pedido registrado como enviado"
 },
 "ORDER_DETAILS_ERROR_SENDORDER_TITLE":{
-"en-GL":"Cannot register as sent",
+"en-GL":"Error sending order",
+"da-DK":"Fejl ved afsendelse af ordre",
 "es-ES":"No se puede registrar como enviado"
 },
 "ORDERTABLEVIEW_SENTSTATUS_SENT":{
 "en-GL":"Sent",
-"da-DK":"Udfør",
+"da-DK":"Sendt",
 "es-ES":"Enviado"
 },
 "ORDER_MAIL_ATTACHMENTNAME":{
 "en-GL":"[COMPANY] - Order [NUMBER].pdf",
+"da-DK":"[COMPANY] - Ordre [NUMBER].pdf",
 "es-ES":"[COMPANY] - Pedido [NUMBER].pdf"
 },
 "INVOICE_MAIL_ATTACHMENTNAME":{
 "en-GL":"[COMPANY] - Invoice [NUMBER].pdf",
+"da-DK":"[COMPANY] - Faktura [NUMBER].pdf",
 "es-ES":"[COMPANY] - Factura [NUMBER].pdf"
 },
 "ORDERS_DETAILS_VIEWDRAFT":{
 "en-GL":"View Draft",
+"da-DK":"Se udkast",
 "es-ES":"Ver borrador"
 },
 "ORDERS_DETAILS_HEADING_TITLE":{
 "en-GL":"Heading",
+"da-DK":"Overskrift",
 "es-ES":"Encabezamiento"
 },
 "ORDERS_DETAILS_HEADING_PLACEHOLDER":{
 "en-GL":"Heading",
+"da-DK":"Overskrift",
 "es-ES":"Encabezamiento"
 },
 "CURRENTINVOICES_DETAILS_HEADING":{
 "en-GL":"Heading",
+"da-DK":"Overskrift",
 "es-ES":"Encabezamiento"
 },
 "CURRENTINVOICES_DETAILS_HEADING_PLACEHOLDER":{
 "en-GL":"Heading",
+"da-DK":"Overskrift",
 "es-ES":"Encabezamiento"
 },
 "SETTINGS_INVENTORY_ENABLEDELEMENT_DESCRIPTION_FOOTER":{
 "en-GL":"This can be enabled only if the Inventory module in your e-conomic account is accessible.\n\nDisabling this will not allow you to see the stock statistics of a product. You can enable it at any time.",
-"da-DK":"Dette kan kun aktiveres, hvis Lagermodulet i din e-conomic konto er aktiveret.\n\nDeaktivering af denne vil ikke tillade dig at se bestanden statistik for et produkt. Du kan aktivere det på noget tidspunkt.",
+"da-DK":"Denne funktion er kun aktiveret, hvis du har Lager-modulet aktiveret i e-conomic.\n\nHvis det er aktiveret den viser den aktuelle beholdning af produktet i de relevante sider.",
 "sv-SE":"Detta kan aktiveras endast om Lager tilläggsmodul i e-conomic konto är aktiverat.\n\nInaktivera detta kommer inte att tillåta dig att se lagerstatistiken i en produkt. Du kan aktivera den när som helst.",
 "no-NO":"Dette kan aktiveres bare hvis Lagerstyring Tilleggsmodulen i din e-conomic kontoen er aktivert.\n\nDeaktivering av denne vil ikke tillate deg å se aksjestatistikk av et produkt. Du kan aktivere den når som helst.",
 "fi-FI":"Tämä voidaan sallia ainoastaan jos sinulla on Varasto-moduuli käytössäsi e-conomicissa.\n\nEstämällä tämä et pysty enää näkemään varastotietoja artikkelilta. Voit ottaa sen käyttöön milloin vain.",
@@ -5551,32 +5564,48 @@
 },
 "FORCEUPDATE_SECTION_HEADER":{
 "en-GL":"Please update MobileOffice",
+"da-DK":"Skal du opdatere MobileOffice",
 "es-ES":"Por favor, actualiza la aplicación móvil"
 },
 "FORCEUPDATE_BUTTON_TOAPPSTORE":{
 "en-GL":"Go to AppStore",
+"da-DK":"Gå til AppStore",
 "es-ES":"Ir a AppStore"
 },
 "HOMEDASHBOARD_NEWORDER":{
 "en-GL":"New Order",
+"da-DK":"Ny ordre",
 "es-ES":"Nuevo pedido"
 },
 "ORDERDETAILS_PDFPREVIEW_CONVERTTOINVOICE_ERROR_MESSAGE":{
 "en-GL":"Cannot convert to invoice",
+"da-DK":"Kan ikke konvertere til faktura",
 "es-ES":"No se puede convertir en factura"
 },
 "CURRENTINVOICEDETAILS_PDFVIEW_ACTIONSHEET_BOOK":{
 "en-GL":"Book",
-"es-ES":"Contabilizar"
+"da-DK":"Bogfør",
+"sv-SE":"Bokför",
+"no-NO":"Bokfør",
+"fi-FI":"Kirjaa",
+"es-ES":"Libro"
 },
 "PINVIEW_TITLE":{
-"en-GL":"Enter PIN"
+"en-GL":"Enter PIN",
+"da-DK":"Indtast PIN-kode",
+"sv-SE":"Ange PIN",
+"no-NO":"Skriv inn PIN"
 },
 "SPLITCONTROLLER_MENU_TITLE":{
 "en-GL":"MobileOffice"
 },
 "PDFVIEW_ACTIONS_PRINT":{
-"en-GL":"Print"
+"en-GL":"Print",
+"da-DK":"Udskriv",
+"sv-SE":"Skriv",
+"no-NO":"Skriv ut",
+"fi-FI":"Painatus",
+"es-ES":"Imprimir"
 },
 "SLIDEOUT_QUOTES":{
 "en-GL":"Quotations"
