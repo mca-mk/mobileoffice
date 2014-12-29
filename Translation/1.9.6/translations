@@ -4250,7 +4250,9 @@
 "es-ES":"Configuraciones"
 },
 "SLIDEOUT_SENDFEEDBACK":{
-"en-GL":"Feedback",
+"en-GL":"Help & Feedback",
+"da-DK":"Hjælp & Feedback",
+"sv-SE":"Hjälp & Feedback",
 "no-NO":"Tilbakemelding",
 "fi-FI":"Palaute",
 "es-ES":"Opiniones"
@@ -6048,7 +6050,7 @@
 "da-DK":"Standardindstillinger for Kvik indscanning"
 },
 "SETTINGS_TROUBLESHOOT_ROOT_TITLE":{
-"en-GL":"Troubleshooting",
+"en-GL":"Help & Feedback",
 "da-DK":"Fejlfinding"
 },
 "SETTINGS_TROUBLESHOOT_SECTION_HELP_TITLE":{
@@ -6092,7 +6094,7 @@
 "en-GL":"Feedback & Ideas"
 },
 "FEEDBACK_FEEDBACKANDSUPPORT_SECTION_TITLE":{
-"en-GL":"Join the public forum"
+"en-GL":"Forum"
 }
 }
 }
