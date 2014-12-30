@@ -701,12 +701,7 @@
 "es-ES":"Enviar por e-mail"
 },
 "CURRENTINVOICES_DETAILS_PDFVIEW_TITLE":{
-"en-GL":"Invoice [NUMBER]",
-"da-DK":"Faktura [NUMBER]",
-"sv-SE":"Faktura [NUMBER]",
-"no-NO":"Faktura [NUMBER]",
-"fi-FI":"Lasku [NUMBER]",
-"es-ES":"Factura [NUMBER]"
+"en-GL":"Invoice preview"
 },
 "CURRENTINVOICE_DETAILS_DOWNLOADINGPDF":{
 "en-GL":"Downloading PDF",
