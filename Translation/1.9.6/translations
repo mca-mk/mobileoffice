@@ -6144,12 +6144,10 @@
 "es-ES":"TouchID (login con su huella digital)"
 },
 "TOUCHIDVIEW_LABEL_TITLE":{
-"en-GL":"MobileOffice",
-"es-ES":"MobileOffice"
+"en-GL":"MobileOffice"
 },
 "TOUCHIDVIEW_TO_PIN_VIEW":{
-"en-GL":"Pin",
-"es-ES":"Pin"
+"en-GL":"Pin"
 },
 "SECURITY_TOUCHID_FAILED_ALERT_TITLE":{
 "en-GL":"Failed",
@@ -6189,6 +6187,9 @@
 },
 "QUOTETABLE_SENTORDERDELETE_CONFIRM_POPUP_CONFIRM":{
 "en-GL":"Delete"
+},
+"LOGIN_RECENTLOGINS_SECTION_TITLE":{
+"en-GL":"Recent logins"
 }
 }
 }
