@@ -117,8 +117,7 @@
 "da-DK":"Fejl",
 "sv-SE":"Fel",
 "no-NO":"Feil",
-"fi-FI":"Virhe",
-"es-ES":"Error"
+"fi-FI":"Virhe"
 },
 "CURRENTINVOICES_ADDITIONAL_CURRENCIES":{
 "en-GL":"Currency",
@@ -1601,7 +1600,7 @@
 "sv-SE":"Betygsätt MobileOffice for e-conomic",
 "no-NO":"Bedøm MobileOffice for e-conomic",
 "fi-FI":"Arvostele MobileOffice for e-conomic",
-"es-ES":"Valoración app e-conomic"
+"es-ES":"Valoración MobileOffice para e-conomic"
 },
 "RATE_MESSAGE":{
 "en-GL":"Do you enjoy using MobileOffice for e-conomic? If so, please rate it",
@@ -1609,7 +1608,7 @@
 "sv-SE":"Är du nöjd med MobileOffice for e-conomic? Vänligen betygsätt",
 "no-NO":"Nyter du å bruke MobileOffice for e-conomic? Hvis ja, Vennligst bedøm appen",
 "fi-FI":"Nautitko MobileOffice for e-conomicin käyttämisestä?",
-"es-ES":"¿Te ha gustado el app de e-conomic? Si la respuesta es sí, por favor puntúala"
+"es-ES":"¿Te ha gustado MobileOffice para e-conomic? Si la respuesta es sí, por favor puntúala"
 },
 "RATE_BUTTON_NO":{
 "en-GL":"No thanks",
@@ -2144,7 +2143,7 @@
 "sv-SE":"### Skickat av Mobile för e-conomic (mobileoffice.mca.mk) ###",
 "no-NO":"### Sendt av MobileOffice for e-conomic (mobileoffice.mca.mk) ###",
 "fi-FI":"### Lähetetty MobileOffice for e-conomicin toimesta (mobileoffice.mca.mk) ###",
-"es-ES":"Enviado por el app de e-conomic"
+"es-ES":"Enviado por MobileOffice"
 },
 "DEBTOR_DASHBOARD_CONTACTSLIST_TITLE":{
 "en-GL":"Contacts",
@@ -3393,7 +3392,7 @@
 "sv-SE":"MobileOffice fortfarande skicka skanningar",
 "no-NO":"MobileOffice sender fortsatt skannede",
 "fi-FI":"MobileOffice lähettää vielä skannauksia",
-"es-ES":"La aplicación está aun enviando doc escaneados"
+"es-ES":"MobileOffice está aun enviando doc escaneados"
 },
 "SETTINGS_FULLRESYNC_SECTIONFOOTER_DESCRIPTION":{
 "en-GL":"Use this feature to resolve missing data issues",
@@ -3601,7 +3600,7 @@
 "sv-SE":"MobileOffice fortfarande skicka skanningar",
 "no-NO":"MobileOffice sender fortsatt skannede",
 "fi-FI":"MobileOffice lähettää vielä skannauksia",
-"es-ES":"La aplicación aun está enviando doc escaneados"
+"es-ES":"MobileOffice aun está enviando doc escaneados"
 },
 "SETTINGS_SCAN_ACCOUNT":{
 "en-GL":"Account",
@@ -4055,16 +4054,13 @@
 "es-ES":"Acerca del editor"
 },
 "ABOUT_MCA_NAME":{
-"en-GL":"MCA dooel",
-"fi-FI":"MCA dooel"
+"en-GL":"MCA dooel"
 },
 "ABOUT_MCA_STREET":{
-"en-GL":"M. T. Gologanov 40",
-"fi-FI":"M. T. Gologanov 40"
+"en-GL":"M. T. Gologanov 40"
 },
 "ABOUT_MCA_ZIP":{
-"en-GL":"1000 Skopje",
-"fi-FI":"1000 Skopje"
+"en-GL":"1000 Skopje"
 },
 "ABOUT_MCA_COUNTRY":{
 "en-GL":"Macedonia",
@@ -4194,7 +4190,7 @@
 "sv-SE":"Du har för närvarande ingen internetuppkoppling. Kontrollera att du har en stabil internetuppkoppling för att kunna upplevelsen MobileOffice för e-conomic på bästa sätt",
 "no-NO":"Du har for øyeblikket ingen internettforbindelse. Sørg for at du har en stabil internettforbindelse for en opptimert opplevelse av og med MobileOffice til e-conomic",
 "fi-FI":"Sinulla ei ole tällä hetkellä Internet-yhteyttä. Varmistathan hyvän Internet-yhteyden saadaksesi parhaan kokemuksen MobileOffice for e-conomicista.",
-"es-ES":"Ahora mismo no tienes acceso a internet. Por favor, asegúrate de tener una buena conexión a internet para poder utilizar de manera eficiente la aplicación de e-conomic "
+"es-ES":"Ahora mismo no tienes acceso a internet. Por favor, asegúrate de tener una buena conexión a internet para poder utilizar de manera eficiente MobileOffice para e-conomic"
 },
 "SLIDEOUT_DEBTORS":{
 "en-GL":"Customers",
@@ -4290,7 +4286,7 @@
 "sv-SE":"En nyare version av MobileOffice för e-conomic finnstillgängligt. Vill du uppgradera?",
 "no-NO":"Det finnes en nyere version av MobileOffice for e-conomic. Vil du oppgradere til den?",
 "fi-FI":"MobileOffice for e-conomicista on uudempi versio. Haluatko ladata sen?",
-"es-ES":"Existe una nueva versión de la aplicación para móviles de e-conomic. ¿Quieres actualizarla?"
+"es-ES":"Existe una nueva versión de MobileOffice para e-conomic. ¿Quieres actualizarla?"
 },
 "APPDELEGATE_POPUP_NEWVERSION_BUTTON_UPGRADE":{
 "en-GL":"Upgrade",
@@ -4613,7 +4609,7 @@
 "sv-SE":"Öppna Mobileoffice",
 "no-NO":"Åpne MobileOffice",
 "fi-FI":"Avaa MobileOffice",
-"es-ES":"Abrir aplicación móvil"
+"es-ES":"Abrir MobileOffice"
 },
 "PUSHNOTIFICATION_REOPENAPP_MESSAGE":{
 "en-GL":"The sending of scans will be stopped. Open MobileOffice to finish the sending.",
@@ -4621,7 +4617,7 @@
 "sv-SE":"Sändningen av bilder kommer att stoppas. Öppna Mobileoffice att avsluta sändningen.",
 "no-NO":"Sendingen av scanning vil bli stoppet. Åpne MobileOffice for å avslutte avsendelsen",
 "fi-FI":"Skannausten lähetys lopetetaan. Avaa MobileOffice lähetyksen loppuun saattamiseksi.",
-"es-ES":"El envío de documentos se detendrá. Abre la aplicación móvil para finalizar el proceso"
+"es-ES":"El envío de documentos se detendrá. Abre MobileOffice para finalizar el proceso"
 },
 "EXTENDEDVATZONE_1":{
 "en-GL":"Domestic",
@@ -4717,7 +4713,7 @@
 "sv-SE":"Nya funktioner läggs kontinuerligt till MobileOffice och vi vill att du ska veta om dem.\nFör att hålla en bättre dialog med er - våra kunder, skulle vi behöver dina kontaktuppgifter. Använd formuläret nedan för att registrera dig.",
 "no-NO":"MobileOffice ønsker å tilby deg flere moduler, Diagram og data, slik at du kan styre din konto fra denne mobile enheten. Vennligst meld deg på MobileOffice for å tillate oss å gjøre dette",
 "fi-FI":"Uusia toimintoja lisätään jatkuvasti MobileOfficeen ja me haluamme sinun tietävän niistä. Paremman vuoropuhelun mahdollistamiseksi tarvitsisimme sinun yhteystietojasi. Toivomme, että käytät alla olevaa lomaketta ilmoittautumiseen.",
-"es-ES":"Nuevas funciones son añadidas continuamente a la aplicación móvil y queremos mantenerte informado. Para poder hacerte llegar esta información, necesitaríamos que rellenes los datos de contacto. Por favor, sigue el formulario de abajo para registrarte."
+"es-ES":"Nuevas funciones son añadidas continuamente a MobileOffice y queremos mantenerte informado. Para poder hacerte llegar esta información, necesitaríamos que rellenes los datos de contacto. Por favor, sigue el formulario de abajo para registrarte."
 },
 "SUBSCRIBE_UNSUCCESSFULL_TITLE":{
 "en-GL":"Something went wrong",
@@ -5320,7 +5316,8 @@
 "da-DK":"https://secure.izettle.com/register?countryId=DK&languageId=da&code=Q9Q7F9",
 "sv-SE":"https://secure.izettle.com/register?countryId=SE&languageId=sv&code=Q9Q7F9",
 "no-NO":"https://secure.izettle.com/register?countryId=NO&languageId=nb&code=Q9Q7F9",
-"es-ES":"https://secure.izettle.com/register?countryId=GB&languageId=en&code=Q9Q7F9"
+"fi-FI":"https://secure.izettle.com/register?countryId=FI&languageId=fi&code=Q9Q7F9",
+"es-ES":"https://secure.izettle.com/register?countryId=ES&languageId=es&code=Q9Q7F9"
 },
 "SETTINGS_IZETTLE_SIGNUP_FOOTER":{
 "en-GL":"Recieve payment for an Invoice with Dankort, VISA, or Mastercard with iZettle when delivering your order",
@@ -5562,7 +5559,7 @@
 "FORCEUPDATE_SECTION_HEADER":{
 "en-GL":"Please update MobileOffice",
 "da-DK":"Skal du opdatere MobileOffice",
-"es-ES":"Por favor, actualiza la aplicación móvil"
+"es-ES":"Por favor, actualiza MobileOffice"
 },
 "FORCEUPDATE_BUTTON_TOAPPSTORE":{
 "en-GL":"Go to AppStore",
@@ -5585,13 +5582,14 @@
 "sv-SE":"Bokför",
 "no-NO":"Bokfør",
 "fi-FI":"Kirjaa",
-"es-ES":"Libro"
+"es-ES":"Contabilizar"
 },
 "PINVIEW_TITLE":{
 "en-GL":"Enter PIN",
 "da-DK":"Indtast PIN-kode",
 "sv-SE":"Ange PIN",
-"no-NO":"Skriv inn PIN"
+"no-NO":"Skriv inn PIN",
+"es-ES":"Introducir PIN"
 },
 "SPLITCONTROLLER_MENU_TITLE":{
 "en-GL":"MobileOffice"
@@ -5606,7 +5604,8 @@
 },
 "SLIDEOUT_QUOTES":{
 "en-GL":"Quotations",
-"da-DK":"Tilbud"
+"da-DK":"Tilbud",
+"es-ES":"Presupuestos"
 },
 "QUOTES_SEARCH_PLACEHOLDER":{
 "en-GL":"Search",
@@ -5618,11 +5617,13 @@
 },
 "QUOTESTABLE_TITLE":{
 "en-GL":"Quotations",
-"da-DK":"Tilbud"
+"da-DK":"Tilbud",
+"es-ES":"Presupuestos"
 },
 "QUOTES_EMPTYSTATE_BUTTONTEXT":{
 "en-GL":"Create Quote",
-"da-DK":"Opret et tilbud"
+"da-DK":"Opret et tilbud",
+"es-ES":"Crear presupuesto"
 },
 "QUOTETABLE_LOADINGQUOTE":{
 "en-GL":"Loading",
@@ -5634,7 +5635,8 @@
 },
 "QUOTETABLE_POPUP_QUOTENOTEXITST_TITLE":{
 "en-GL":"Quotation does not exist",
-"da-DK":"Tilbyd findes ikke"
+"da-DK":"Tilbyd findes ikke",
+"es-ES":"Presupuesto no existe"
 },
 "QUOTETABLE_POPUP_QUOTENOTEXITST_MESSAGE":{
 "en-GL":"Please refresh the list",
@@ -5646,7 +5648,8 @@
 },
 "QUOTETABLE_ERROR_CANNOTOPENQUOTE":{
 "en-GL":"Cannot open quotation",
-"da-DK":"Tilbyd findes ikke"
+"da-DK":"Tilbyd findes ikke",
+"es-ES":"No se puede abrir el presupuesto"
 },
 "QUOTETABLE_DELETE":{
 "en-GL":"Delete",
@@ -5658,15 +5661,18 @@
 },
 "QUOTETABLE_POPUP_DELETE":{
 "en-GL":"Deleting quotation",
-"da-DK":"Sletning tilbud"
+"da-DK":"Sletning tilbud",
+"es-ES":"Eliminar presupuesto"
 },
 "QUOTETABLE_POPUP_DELETEERROR_TITLE":{
 "en-GL":"Cannot delete quotation",
-"da-DK":"Kan ikke slette tilbud"
+"da-DK":"Kan ikke slette tilbud",
+"es-ES":"No se puede eliminar el presupuesto"
 },
 "QUOTES_DETAILS_PDFVIEW_TITLE":{
 "en-GL":"Quotation [NUMBER]",
-"da-DK":"Tilbud [NUMBER]"
+"da-DK":"Tilbud [NUMBER]",
+"es-ES":"Presupuesto [NUMBER]"
 },
 "QUOTES_DETAILS_SELECTCUSTOMER_PLACEHOLDER":{
 "en-GL":"Select customer",
@@ -5678,7 +5684,8 @@
 },
 "QUOTE_DETAILS_ACTIONS_REGISTERASSENT":{
 "en-GL":"Send",
-"da-DK":"Send"
+"da-DK":"Send",
+"es-ES":"Enviar"
 },
 "QUOTES_DETAILS_QUOTE_LOADING":{
 "en-GL":"Loading",
@@ -5690,11 +5697,13 @@
 },
 "QUOTES_DETAILS_DATE":{
 "en-GL":"Quotation date",
-"da-DK":"Tilbyd dato"
+"da-DK":"Tilbyd dato",
+"es-ES":"Fecha presupuesto"
 },
 "QUOTES_DETAILS_NEWQUOTE_TITLE":{
 "en-GL":"New quotation",
-"da-DK":"Nye tilbud"
+"da-DK":"Nye tilbud",
+"es-ES":"Nuevo presupuesto"
 },
 "QUOTES_DETAILS_CUSTOMER_TITLE":{
 "en-GL":"Customer",
@@ -5706,7 +5715,8 @@
 },
 "QUOTES_DETAILS_TITLE":{
 "en-GL":"Quotation",
-"da-DK":"Tilbud"
+"da-DK":"Tilbud",
+"es-ES":"Presupuesto"
 },
 "QUOTES_DETAILS_SELECTCUSTOMERSECTION_TITLE":{
 "en-GL":"Customer",
@@ -5718,7 +5728,8 @@
 },
 "QUOTES_DETAILS_DETAILSSECTION_TITLE":{
 "en-GL":"Quotation details",
-"da-DK":"Tilbudsdetaljer"
+"da-DK":"Tilbudsdetaljer",
+"es-ES":"Detalles presupuesto"
 },
 "QUOTES_DETAILS_ADDITIONAL":{
 "en-GL":"Additional",
@@ -5730,11 +5741,13 @@
 },
 "QUOTES_DETAILS_HEADING_TITLE":{
 "en-GL":"Heading",
-"da-DK":"Overskrift"
+"da-DK":"Overskrift",
+"es-ES":"Encabezado"
 },
 "QUOTES_DETAILS_HEADING_PLACEHOLDER":{
 "en-GL":"Heading",
-"da-DK":"Overskrift"
+"da-DK":"Overskrift",
+"es-ES":"Encabezado"
 },
 "QUOTES_DETAILS_TEXT1_PLACEHOLDER":{
 "en-GL":"Description",
@@ -5746,7 +5759,8 @@
 },
 "QUOTES_DETAILS_VIEWDRAFT":{
 "en-GL":"View Draft",
-"da-DK":"Se udkast"
+"da-DK":"Se udkast",
+"es-ES":"Ver borrador"
 },
 "QUOTES_DETAILS_BARBUTTON_CONVERT_TOINVOICE":{
 "en-GL":"Convert to invoice",
@@ -5758,15 +5772,18 @@
 },
 "QUOTES_DETAILS_BARBUTTON_CONVERT_TOORDER":{
 "en-GL":"Convert to order",
-"da-DK":"Konvertér til ordre"
+"da-DK":"Konvertér til ordre",
+"es-ES":"Convertir a pedido"
 },
 "QUOTES_DETAILS_POPUP_SAVING":{
 "en-GL":"Saving quotation",
-"da-DK":"Gemmer"
+"da-DK":"Gemmer",
+"es-ES":"Guardando presupuesto"
 },
 "QUOTE_DETAILS_ERROR_SENDQUOTE_TITLE":{
 "en-GL":"Error sending quote",
-"da-DK":"Fejl ved afsendelse af tilbud"
+"da-DK":"Fejl ved afsendelse af tilbud",
+"es-ES":"Error enviando presupuesto"
 },
 "QUOTES_DETAILS_CONFIRMCONVERT_YES":{
 "en-GL":"Convert",
@@ -5802,19 +5819,23 @@
 },
 "QUOTES_DETAILS_CONVERT_INCOMPLETE":{
 "en-GL":"Quotation is not complete. Please create new quotation",
-"da-DK":"Fejl. Prøv igen senere"
+"da-DK":"Fejl. Prøv igen senere",
+"es-ES":"Presupuesto incompleto. Por favor, crea un nuevo presupuesto"
 },
 "QUOTES_DETAILS_CONVERT_POPUP":{
 "en-GL":"Converting quotation",
-"da-DK":"Konvertering tilbud"
+"da-DK":"Konvertering tilbud",
+"es-ES":"Convirtiendo presupuesto"
 },
 "QUOTES_DETAILS_ERROR_SAVING":{
 "en-GL":"Error saving quotation",
-"da-DK":"Fejl ved at gemmer"
+"da-DK":"Fejl ved at gemmer",
+"es-ES":"Error al guardar el presupuesto"
 },
 "QUOTE_DETAILS_CANNOTCONVERT":{
 "en-GL":"Cannot convert quotation",
-"da-DK":"Kan ikke konvertere tilbud"
+"da-DK":"Kan ikke konvertere tilbud",
+"es-ES":"No se puede convertir el presupuesto"
 },
 "QUOTE_DETAILS_CONVERT_SUCCESS":{
 "en-GL":"Success",
@@ -5842,19 +5863,23 @@
 },
 "QUOTES_DETAILS_ERROR_PREVIEW_TITLE":{
 "en-GL":"Cannot preview quotation",
-"da-DK":"Kan ikke hente forhåndsvisning"
+"da-DK":"Kan ikke hente forhåndsvisning",
+"es-ES":"No se puede visualizar el presupuesto"
 },
 "QUOTES_DETAILS_ERROR_PREVIEW_DOWNLOADMESSAGE":{
 "en-GL":"Cannot download the quotation",
-"da-DK":"Kan ikke hente tilbuddet"
+"da-DK":"Kan ikke hente tilbuddet",
+"es-ES":"No se puede descargar el presupuesto"
 },
 "QUOTES_DETAILS_ERROR_PREVIEW_NOTSAVED":{
 "en-GL":"Please save your quotation first",
-"da-DK":"Gem dit tilbud først"
+"da-DK":"Gem dit tilbud først",
+"es-ES":"Por favor, guarda tu presupuesto primero"
 },
 "QUOTES_DETAILS_LINESECTION_TITLE":{
 "en-GL":"Quotation lines",
-"da-DK":"Tilbyd linjer"
+"da-DK":"Tilbyd linjer",
+"es-ES":"Líneas de presupuesto"
 },
 "QUOTES_DETAILS_ADDNEWLINE":{
 "en-GL":"Add new line",
@@ -5870,95 +5895,117 @@
 "sv-SE":"Summor",
 "no-NO":"Totalt",
 "fi-FI":"Yhteensä",
-"es-ES":"Total"
+"es-ES":"Totales"
 },
 "QUOTEDETAILS_SAVE_ERROR_QUOTEISSENT_TITLE":{
 "en-GL":"Cannot modify quotation",
-"da-DK":"Kan ikke ændre tilbud"
+"da-DK":"Kan ikke ændre tilbud",
+"es-ES":"No se puede modificar el presupuesto"
 },
 "QUOTEDETAILS_SAVE_ERROR_QUOTEISSENT_MESSAGE":{
 "en-GL":"Quotation is registered as sent",
-"da-DK":"Tilbud er registreret som sendt"
+"da-DK":"Tilbud er registreret som sendt",
+"es-ES":"El presupuesto está registrado como enviado"
 },
 "QUOTES_DETAILS_POPUP_BARRED_PRODUCT_TITLE":{
 "en-GL":"Cannot save quotation",
-"da-DK":"Kan ikke gemme tilbud"
+"da-DK":"Kan ikke gemme tilbud",
+"es-ES":"No se puede guardar el presupuesto"
 },
 "QUOTE_DETAILS_POPUP_BARRED_PRODUCT_TITLE":{
 "en-GL":"One of the products in the quotation lines is barred",
-"da-DK":"Et af produkterne i tilbuddet linier er spærret"
+"da-DK":"Et af produkterne i tilbuddet linier er spærret",
+"es-ES":"Uno de los productos del presupuesto está bloqueado"
 },
 "QUOTE_DETAILS_POPUP_BARRED_PRODUCT_MESSAGE":{
 "en-GL":"Please allow access to this product before trying to save/convert the quotation",
-"da-DK":"Markér produkterne som aktiveres, før du forsøger at sende tilbuddet"
+"da-DK":"Markér produkterne som aktiveres, før du forsøger at sende tilbuddet",
+"es-ES":"Por favor, permite el acceso a este producto antes de guardar/convertir el presupuesto"
 },
 "QUOTE_DETAILS_SAVE_SUCCESS":{
 "en-GL":"Saved quotation",
-"da-DK":"Gemt tilbud"
+"da-DK":"Gemt tilbud",
+"es-ES":"Presupuesto guardado"
 },
 "QUOTE_DETAILS_SAVE_FAILED":{
 "en-GL":"Quotation was not saved",
-"da-DK":"Tilbud blev ikke gemt"
+"da-DK":"Tilbud blev ikke gemt",
+"es-ES":"El presupuesto no se guardó"
 },
 "QUOTES_ADDITIONAL_ROOTTITLE":{
 "en-GL":"Additional quote settings",
-"da-DK":"Andre tilbud detaljer"
+"da-DK":"Andre tilbud detaljer",
+"es-ES":"Ajustes adicionales de presupuesto"
 },
 "QUOTES_ADDITIONAL_TEXT2_PLACEHOLDER":{
 "en-GL":"Quotation note",
-"da-DK":"Tilbyd note"
+"da-DK":"Tilbyd note",
+"es-ES":"Nota del presupuesto"
 },
 "QUOTELINE_TITLE":{
 "en-GL":"Quote line",
-"da-DK":"Tilbyd line"
+"da-DK":"Tilbyd line",
+"es-ES":"Línea del presupuesto"
 },
 "QUOTELINE_DELETEBUTTON":{
 "en-GL":"Delete quotation line",
-"da-DK":"slet tilbud line"
+"da-DK":"slet tilbud line",
+"es-ES":"Eliminar línea del presupuesto"
 },
 "QUOTES_DETAILS_BARBUTTON_CONVERTTOORDER":{
 "en-GL":"Convert to order",
-"da-DK":"Konvertér til ordre"
+"da-DK":"Konvertér til ordre",
+"es-ES":"Convertir a pedido"
 },
 "QUOTES_DETAILS_EMAILSUBJECT":{
 "en-GL":"Quotation [NUMBER] from [COMPANY_NAME]",
-"da-DK":"Tilbud [NUMBER] fra [COMPANY_NAME]"
+"da-DK":"Tilbud [NUMBER] fra [COMPANY_NAME]",
+"es-ES":"Presupuesto [NUMBER] de [COMPANY_NAME]"
 },
 "QUOTE_MAIL_ATTACHMENTNAME":{
 "en-GL":"[COMPANY] - Quotation [NUMBER].pdf",
-"da-DK":"[COMPANY] - Tilbud [NUMBER].pdf"
+"da-DK":"[COMPANY] - Tilbud [NUMBER].pdf",
+"es-ES":"[COMPANY] - Presupuesto [NUMBER].pdf"
 },
 "QUOTES_DETAILS_CONFIRMCONVERTTOORDER_TITLE":{
 "en-GL":"Convert to order",
-"da-DK":"Konvertér til ordre"
+"da-DK":"Konvertér til ordre",
+"es-ES":"Convertir a pedido"
 },
 "QUOTES_DETAILS_CONFIRMCONVERTTOORDER_MESSAGE":{
 "en-GL":"Are you sure you want to convert to order? This action cannot be undone.",
-"da-DK":"Er du sikker på, du vil konvertere til ordre? Dette kan ikke fortrydes."
+"da-DK":"Er du sikker på, du vil konvertere til ordre? Dette kan ikke fortrydes.",
+"es-ES":"¿Estás seguro que quieres convertir a pedido? Esta acción no puede deshacerse"
 },
 "QUOTEDETAILS_PDFPREVIEW_CONVERTTOORDER_ERROR_MESSAGE":{
 "en-GL":"Cannot convert to order",
-"da-DK":"Kan ikke konvertere til ordre"
+"da-DK":"Kan ikke konvertere til ordre",
+"es-ES":"No se puede convertir a pedido"
 },
 "SYNCVIEW_PROGRESS_QUOTES":{
 "en-GL":"Syncing quotations",
-"da-DK":"Hentning tilbud"
+"da-DK":"Hentning tilbud",
+"es-ES":"Sincronizando presupuestos"
 },
 "INVOICEDETAILS_ADDITIONAL_YOURREFERENCE_TITLE":{
 "en-GL":"Your reference",
-"da-DK":"Deres reference"
+"da-DK":"Deres reference",
+"es-ES":"Su referencia"
 },
 "INVOICEDETAILS_ADDITIONAL_OURREFERENCE_TITLE":{
 "en-GL":"Our reference",
-"da-DK":"Vores reference"
+"da-DK":"Vores reference",
+"es-ES":"Nuestra referencia"
 },
 "INVOICEDETAILS_ADDITIONAL_OUR2REFERENCE_TITLE":{
 "en-GL":"Our reference 2",
-"da-DK":"Vores reference 2"
+"da-DK":"Vores reference 2",
+"es-ES":"Nuestra referencia 2"
 },
 "EMPLOYEETABLE_TITLE":{
 "en-GL":"Employees",
-"da-DK":"Medarbejdere"
+"da-DK":"Medarbejdere",
+"es-ES":"Empleados"
 },
 "REFERENCES_LIST_NONE":{
 "en-GL":"--- None ---",
@@ -5970,47 +6017,58 @@
 },
 "INVOICEDETAILS_ADDITIONAL_REFERENCESSECTION_TITLE":{
 "en-GL":"References",
-"da-DK":"Referencer"
+"da-DK":"Referencer",
+"es-ES":"Referencias"
 },
 "LINES_BARCODESCAN_PRODUCTNOTFOUND_TITLE":{
 "en-GL":"Cannot find product",
-"da-DK":"Kan ikke finde produkt"
+"da-DK":"Kan ikke finde produkt",
+"es-ES":"No se puede encontrar el producto"
 },
 "LINES_BARCODESCAN_PRODUCTNOTFOUND_MESSAGE":{
 "en-GL":"A product with this barcode does not exists. Please try again.",
-"da-DK":"Et produkt med dette stregkode ikke eksisterer. Prøv venligst igen."
+"da-DK":"Et produkt med dette stregkode ikke eksisterer. Prøv venligst igen.",
+"es-ES":"No existe ningún producto con este código de barras. Por favor, inténtalo de nuevo"
 },
 "PRODUCTDETAILS_BARCODESECTION_TITLE":{
 "en-GL":"Barcode",
-"da-DK":"Stregkode"
+"da-DK":"Stregkode",
+"es-ES":"Código de barras"
 },
 "PRODUCTDETAILS_BARCODE_SCAN":{
 "en-GL":"Scan barcode",
-"da-DK":"Scan stregkode"
+"da-DK":"Scan stregkode",
+"es-ES":"Escanear código de barras"
 },
 "PRODUCTDETAILS_BARCODE_UNSUCCESSFULLSCAN_TITLE":{
 "en-GL":"Barcode scanning failed",
-"da-DK":"Stregkode scanning mislykkedes"
+"da-DK":"Stregkode scanning mislykkedes",
+"es-ES":"El escaneo del código de barras falló"
 },
 "PRODUCTDETAILS_BARCODE_UNSUCCESSFULLSCAN_MESSAGE":{
 "en-GL":"Please try again",
-"da-DK":"Prøv igen"
+"da-DK":"Prøv igen",
+"es-ES":"Por favor, inténtalo de nuevo"
 },
 "PDF_PREVIEW_ERROR_PRINT_TITLE":{
 "en-GL":"Cannot print document",
-"da-DK":"Kan ikke udskrive dokumentet"
+"da-DK":"Kan ikke udskrive dokumentet",
+"es-ES":"No se puede imprimir el documento"
 },
 "PDF_PREVIEW_ERROR_PRINT_MESSAGE":{
 "en-GL":"An error occured",
-"da-DK":"Der opstod en fejl"
+"da-DK":"Der opstod en fejl",
+"es-ES":"Se ha producido un error"
 },
 "SETTINGS_PRODUCTS_ROOTTITLE":{
 "en-GL":"Products",
-"da-DK":"Varer"
+"da-DK":"Varer",
+"es-ES":"Productos"
 },
 "SETTINGS_PRODUCTS_SORTBY":{
 "en-GL":"Sort by",
-"da-DK":"Sortering efter"
+"da-DK":"Sortering efter",
+"es-ES":"Ordenar por"
 },
 "SETTINGS_SORTOPTION_ID":{
 "en-GL":"ID",
@@ -6018,78 +6076,98 @@
 },
 "SETTINGS_SORTOPTION_NAME":{
 "en-GL":"Name",
-"da-DK":"Navn"
+"da-DK":"Navn",
+"es-ES":"Nombre"
 },
 "SALESPERFORMANCE_TABLE_TOTAL":{
 "en-GL":"Total",
-"da-DK":"Samlede"
+"da-DK":"Samlede",
+"es-ES":"Total"
 },
 "DETAILS_ADDLINE_SCAN":{
 "en-GL":"Scan barcode",
-"da-DK":"Scan stregkode"
+"da-DK":"Scan stregkode",
+"es-ES":"Escaner código de barras"
 },
 "SETTINGS_PRODUCTS_ADDBARCODESCAN_SECTION_TITLE":{
 "en-GL":"Barcode scanning",
-"da-DK":"Stregkode scanning"
+"da-DK":"Stregkode scanning",
+"es-ES":"Escaneando código de barras"
 },
 "SETTINGS_PRODUCTS_ADDBARCODESCAN_CAPTION":{
 "en-GL":"Allow barcode scanning",
-"da-DK":"Tillad stregkode scanning"
+"da-DK":"Tillad stregkode scanning",
+"es-ES":"Permitir escanear código de barras"
 },
 "SETTINGS_CUSTOMERS_TITLE_SECTION":{
 "en-GL":"Default settings for new customer",
-"da-DK":"Standardindstillinger for nye kunder"
+"da-DK":"Standardindstillinger for nye kunder",
+"es-ES":"Ajustes por defecto para nuevo cliente"
 },
 "SETTINGS_SCANSECTION_HEADER":{
 "en-GL":"Defaults for QuickScan",
-"da-DK":"Standardindstillinger for Kvik indscanning"
+"da-DK":"Standardindstillinger for Kvik indscanning",
+"es-ES":"Ajustes predeterminados para QuickScan"
 },
 "SETTINGS_TROUBLESHOOT_ROOT_TITLE":{
 "en-GL":"Help & Feedback",
-"da-DK":"Fejlfinding"
+"da-DK":"Fejlfinding",
+"es-ES":"Ayuda y comentarios"
 },
 "SETTINGS_TROUBLESHOOT_SECTION_HELP_TITLE":{
 "en-GL":"Help",
-"da-DK":"Hjælp"
+"da-DK":"Hjælp",
+"es-ES":"Ayuda"
 },
 "SETTINGS_TROUBLESHOOT_SECTION_TRYTHIS_TITLE":{
 "en-GL":"Try this first",
-"da-DK":"Prøv dette først"
+"da-DK":"Prøv dette først",
+"es-ES":"Intentar este primero"
 },
 "SETTINGS_TROUBLESHOOT_SECTION_TRYTHIS_QUICK":{
-"en-GL":"Quick fix"
+"en-GL":"Quick fix",
+"es-ES":"Solución rápida"
 },
 "SETTINGS_TROUBLESHOOT_SECTION_TRYTHIS_FULL":{
 "en-GL":"Full re-sync",
-"da-DK":"Fuld fix"
+"da-DK":"Fuld fix",
+"es-ES":"Completa re-sincronización"
 },
 "PRODUCTDETAILS_PRODUCTWITHBARCODEEXISTS":{
 "en-GL":"Product with this barcode already exists",
-"da-DK":"Der er allerede et vare med denne stregkode"
+"da-DK":"Der er allerede et vare med denne stregkode",
+"es-ES":"Ya existe un producto con este código de barras"
 },
 "TOUCHIDVIEW_LABEL_CAPTION":{
 "en-GL":"TouchID ( login with your fingerprint )",
-"da-DK":"TouchID ( log ind med dit fingeraftryk )"
+"da-DK":"TouchID ( log ind med dit fingeraftryk )",
+"es-ES":"TouchID (login con su huella digital)"
 },
 "TOUCHIDVIEW_LABEL_TITLE":{
-"en-GL":"MobileOffice"
+"en-GL":"MobileOffice",
+"es-ES":"MobileOffice"
 },
 "TOUCHIDVIEW_TO_PIN_VIEW":{
-"en-GL":"Pin"
+"en-GL":"Pin",
+"es-ES":"Pin"
 },
 "SECURITY_TOUCHID_FAILED_ALERT_TITLE":{
 "en-GL":"Failed",
-"da-DK":"Fejl"
+"da-DK":"Fejl",
+"es-ES":"Fallido"
 },
 "SECURITY_TOUCHID_FAILED_ALERT_MESSAGE":{
 "en-GL":"Please try again, or use PIN entry",
-"da-DK":"Prøv igen, eller brug PIN-indtastning"
+"da-DK":"Prøv igen, eller brug PIN-indtastning",
+"es-ES":"Por favor, prueba de nuevo o usa tu PIN"
 },
 "FEEDBACK_FEEDBACKANDSUPPORT_CAPTION":{
-"en-GL":"Feedback & Ideas"
+"en-GL":"Feedback & Ideas",
+"es-ES":"Ideas & Comentarios"
 },
 "FEEDBACK_FEEDBACKANDSUPPORT_SECTION_TITLE":{
-"en-GL":"Forum"
+"en-GL":"Forum",
+"es-ES":"Foro"
 }
 }
 }
