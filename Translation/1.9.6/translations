@@ -6190,6 +6190,15 @@
 },
 "LOGIN_RECENTLOGINS_SECTION_TITLE":{
 "en-GL":"Recent logins"
+},
+"LOGIN_RECENTLOGINS_DELETE":{
+"en-GL":"Delete"
+},
+"PRODUCTSTABLE_BARREDPRODUCT_DELETE_POPUP_TITLE":{
+"en-GL":"Product exists in invoice lines and cannot be deleted"
+},
+"PRODUCTSTABLE_BARREDPRODUCT_DELETE_POPUP_MESSAGE":{
+"en-GL":"Product is already barred"
 }
 }
 }
