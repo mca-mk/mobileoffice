@@ -481,7 +481,7 @@
 "sv-SE":"Lägg till rad",
 "no-NO":"Legg til linje",
 "fi-FI":"Lisää uusi rivi",
-"es-ES":"Añadir nueva línea"
+"es-ES":"Nueva línea"
 },
 "CURRENTINVOICES_DETAILS_TOTALSSECTION_TITLE":{
 "en-GL":"Totals",
@@ -1815,7 +1815,7 @@
 "sv-SE":"Faktura e-post",
 "no-NO":"Faktura E-post",
 "fi-FI":"Laskun sähköposti",
-"es-ES":"Correo electrónico para factura"
+"es-ES":"E-mail facturas"
 },
 "DEBTOR_DETAILS_EMAIL_PLACEHOLDER":{
 "en-GL":"E-Mail",
@@ -1823,7 +1823,7 @@
 "sv-SE":"E-post",
 "no-NO":"E-post",
 "fi-FI":"Sähköposti",
-"es-ES":"Correo electrónico"
+"es-ES":"E-mail"
 },
 "DEBTOR_DETAILS_PHONE":{
 "en-GL":"Telephone/Fax",
@@ -2389,7 +2389,7 @@
 "sv-SE":"Förfallna & Obetalda",
 "no-NO":"Forfalte og ubetalte",
 "fi-FI":"Erääntyneet",
-"es-ES":"Pendiente y no pagado"
+"es-ES":"Impagos y ptes."
 },
 "INVOICETABLE_POPUP_LOADINGTOOLONG_TITLE":{
 "en-GL":"This is taking too long",
@@ -4475,7 +4475,7 @@
 "sv-SE":"Sales senaste md.",
 "no-NO":"Salg siste måned",
 "fi-FI":"Myynnit viime kuussa",
-"es-ES":"Ventas del mes anterior"
+"es-ES":"Ventas mes anter."
 },
 "HOMEDASHBOARD_UNPAID":{
 "en-GL":"Unpaid Overall",
@@ -4483,7 +4483,7 @@
 "sv-SE":"Obetalda fakturor",
 "no-NO":"Samlede ubetalte",
 "fi-FI":"Maksamatta yht.",
-"es-ES":"Resumen general de impagos"
+"es-ES":"Resumen impagos"
 },
 "HOMEDASHBOARD_DUE":{
 "en-GL":"Due Overall",
@@ -4491,7 +4491,7 @@
 "sv-SE":"Förfallna fakturor",
 "no-NO":"Samlede forfalte",
 "fi-FI":"Erääntyneet yht.",
-"es-ES":"Resumen general pendientes"
+"es-ES":"Pagos pendientes"
 },
 "HOMEDASHBOARD_SALESPERFORMANCECHART":{
 "en-GL":"Sales Performance",
@@ -4577,7 +4577,7 @@
 "sv-SE":"Diagram",
 "no-NO":"Graf",
 "fi-FI":"Kaavio",
-"es-ES":"Tabla"
+"es-ES":"Gráfico"
 },
 "HOMEDASHBOARD_SALESPERFORMANCE_TABLE":{
 "en-GL":"Table",
@@ -5356,7 +5356,7 @@
 "da-DK":"Opret fakturabetaling",
 "sv-SE":"Opprett betalingsbilagsregistrering",
 "no-NO":"Opprette kunden innskudd poster",
-"es-ES":"Crear entrada de pago de factura"
+"es-ES":"Crear pago de factura"
 },
 "SETTINGS_IZETTLE_ALLOWPARTIALPAYMENTS":{
 "en-GL":"Allow partial payments",
@@ -5887,7 +5887,7 @@
 "sv-SE":"Lägg till rad",
 "no-NO":"Legg til Linje",
 "fi-FI":"Lisaa uusi rivi",
-"es-ES":"Añadir nueva línea"
+"es-ES":"Nueva línea"
 },
 "QUOTE_DETAILS_TOTALSECTION_TITLE":{
 "en-GL":"Totals",
@@ -6087,7 +6087,7 @@
 "DETAILS_ADDLINE_SCAN":{
 "en-GL":"Scan barcode",
 "da-DK":"Scan stregkode",
-"es-ES":"Escaner código de barras"
+"es-ES":"Escaner código"
 },
 "SETTINGS_PRODUCTS_ADDBARCODESCAN_SECTION_TITLE":{
 "en-GL":"Barcode scanning",
