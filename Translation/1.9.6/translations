@@ -6202,6 +6202,9 @@
 },
 "CREDITORDETAILS_CREDITORGROUP_TITLE":{
 "en-GL":"Supplier group"
+},
+"ABOUT_RSSFEED_SECTIONTITLE":{
+"en-GL":"News"
 }
 }
 }
