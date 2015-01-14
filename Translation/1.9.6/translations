@@ -6205,6 +6205,12 @@
 },
 "ABOUT_RSSFEED_SECTIONTITLE":{
 "en-GL":"News"
+},
+"POPUP_ADDFROMCONTACTS_DENIED_TITLE":{
+"en-GL":"Please enable MobileOffice to access contacts"
+},
+"POPUP_ADDFROMCONTACTS_DENIED_MESSAGE":{
+"en-GL":"Go to Settings->Privacy->Contacts"
 }
 }
 }
