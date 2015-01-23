@@ -6211,6 +6211,18 @@
 },
 "POPUP_ADDFROMCONTACTS_DENIED_MESSAGE":{
 "en-GL":"Go to Settings->Privacy->Contacts"
+},
+"INVOICESTATUS_SENT":{
+"en-GL":"Sent"
+},
+"INVOICESTATUS_OPENEDMAIL":{
+"en-GL":"Opened e-mail"
+},
+"INVOICESTATUS_SEEN":{
+"en-GL":"Seen"
+},
+"INVOICESTATUS_REJECTED":{
+"en-GL":"Rejected"
 }
 }
 }
