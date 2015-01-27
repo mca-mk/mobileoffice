@@ -6223,6 +6223,12 @@
 },
 "INVOICESTATUS_REJECTED":{
 "en-GL":"Rejected"
+},
+"INVOICESTATUS_PARTIALLYPAID":{
+"en-GL":"Partially paid"
+},
+"INVOICESTATUS_PAID":{
+"en-GL":"Paid"
 }
 }
 }
