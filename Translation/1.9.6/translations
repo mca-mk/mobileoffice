@@ -6229,6 +6229,9 @@
 },
 "INVOICESTATUS_PAID":{
 "en-GL":"Paid"
+},
+"SYNCVIEW_PROGRSS_DEBTORINVOICESTATUS":{
+"en-GL":"Syncing invoice status"
 }
 }
 }
