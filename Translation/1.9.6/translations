@@ -6232,6 +6232,30 @@
 },
 "SYNCVIEW_PROGRSS_DEBTORINVOICESTATUS":{
 "en-GL":"Syncing invoice status"
+},
+"HISTORYVIEW_EMPTYSTATE_HEADER":{
+"en-GL":"You currently don't have any history for this item"
+},
+"HISTORYVIEW_EMPTYSTATE_SUBTEXT":{
+"en-GL":"Send the invoice via e-mail, make a partial or full payment, wait for the user to see the invoice etc. in order for history data to show up here"
+},
+"HISTORYVIEW_CELLITEM_SENTSTATUS":{
+"en-GL":"Sent"
+},
+"HISTORYVIEW_CELLITEM_REJECTEDSTATUS":{
+"en-GL":"Rejected"
+},
+"HISTORYVIEW_CELLITEM_DELIVEREDSTATUS":{
+"en-GL":"Delivered"
+},
+"HISTORYVIEW_CELLITEM_SEENSTATUS":{
+"en-GL":"Seen"
+},
+"HISTORYVIEW_CELLITEM_PARTIALLYPAIDSTATUS":{
+"en-GL":"Partially paid"
+},
+"HISTORYVIEW_CELLITEM_PAIDSTATUS":{
+"en-GL":"Paid"
 }
 }
 }
