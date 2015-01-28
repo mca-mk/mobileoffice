@@ -6256,6 +6256,9 @@
 },
 "HISTORYVIEW_CELLITEM_PAIDSTATUS":{
 "en-GL":"Paid"
+},
+"HISTORYVIEW_TITLE":{
+"en-GL":"Invoice history"
 }
 }
 }
