@@ -6265,6 +6265,9 @@
 },
 "SETTINGS_BOOL_TRACKINVOICEHISTORY_CAPTION":{
 "en-GL":"Track invoice history"
+},
+"SETTINGS_BOOL_TRACKINVOICEHISTORY_FOOTER":{
+"en-GL":"Enabling this will let you use the MobileOffice email sending mode. This mode will enable you to track the invoice history, and the email status (delivered, invoice seen, rejected etc.)"
 }
 }
 }
