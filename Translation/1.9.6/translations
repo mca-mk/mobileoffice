@@ -6259,6 +6259,12 @@
 },
 "HISTORYVIEW_TITLE":{
 "en-GL":"Invoice history"
+},
+"SETTINGS_MODULES_EMAILMODE_TITLE":{
+"en-GL":"Email mode"
+},
+"SETTINGS_BOOL_TRACKINVOICEHISTORY_CAPTION":{
+"en-GL":"Track invoice history"
 }
 }
 }
