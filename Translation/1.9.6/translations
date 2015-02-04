@@ -6271,6 +6271,24 @@
 },
 "MO_SENDMAIL_MESSAGE_PLACEHOLDER":{
 "en-GL":"Enter a message for your customer"
+},
+"MO_SENDMAIL_BARBUTTON_SEND":{
+"en-GL":"Send"
+},
+"MO_SENDEMAIL_TO":{
+"en-GL":"To:"
+},
+"MO_SENDEMAIL_SUBJECT":{
+"en-GL":"Subject"
+},
+"MO_SENDEMAIL_NOTIFY":{
+"en-GL":"Notify me on email received"
+},
+"MO_SENDEMAIL_INVALID_POPUP_TITLE":{
+"en-GL":"Invalid email"
+},
+"MO_SENDEMAIL_INVALID_POPUP_MESSAGE":{
+"en-GL":"Please correct your email"
 }
 }
 }
