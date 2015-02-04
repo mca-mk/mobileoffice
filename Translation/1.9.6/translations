@@ -6289,6 +6289,9 @@
 },
 "MO_SENDEMAIL_INVALID_POPUP_MESSAGE":{
 "en-GL":"Please correct your email"
+},
+"MO_SENDMAIL_DEFAULTMESSAGE":{
+"en-GL":"Dear [CUSTOMER_NAME], \n here is your invoice [INVOICE_NO] with net amount of [CURRENCY] [NET_AMOUNT]. \n\n Best regards, [COMPANY_NAME]"
 }
 }
 }
