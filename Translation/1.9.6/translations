@@ -6295,6 +6295,9 @@
 },
 "MO_SENDMAIL_TOAST_SENT":{
 "en-GL":"Email sent"
+},
+"PDFPREVIEW_INVOICE_SEND":{
+"en-GL":"Send"
 }
 }
 }
