@@ -6292,6 +6292,9 @@
 },
 "MO_SENDMAIL_DEFAULTMESSAGE":{
 "en-GL":"Dear [CUSTOMER_NAME], \nhere is your invoice [INVOICE_NO] with net amount of [CURRENCY] [NET_AMOUNT]. \n\nBest regards, [COMPANY_NAME]"
+},
+"MO_SENDMAIL_TOAST_SENT":{
+"en-GL":"Email sent"
 }
 }
 }
