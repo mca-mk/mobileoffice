@@ -6282,7 +6282,7 @@
 "en-GL":"Subject"
 },
 "MO_SENDEMAIL_NOTIFY":{
-"en-GL":"Notify me on email received"
+"en-GL":"Notify on delivery"
 },
 "MO_SENDEMAIL_INVALID_POPUP_TITLE":{
 "en-GL":"Invalid email"
@@ -6291,7 +6291,7 @@
 "en-GL":"Please correct your email"
 },
 "MO_SENDMAIL_DEFAULTMESSAGE":{
-"en-GL":"Dear [CUSTOMER_NAME], \n here is your invoice [INVOICE_NO] with net amount of [CURRENCY] [NET_AMOUNT]. \n\n Best regards, [COMPANY_NAME]"
+"en-GL":"Dear [CUSTOMER_NAME], \nhere is your invoice [INVOICE_NO] with net amount of [CURRENCY] [NET_AMOUNT]. \n\nBest regards, [COMPANY_NAME]"
 }
 }
 }
