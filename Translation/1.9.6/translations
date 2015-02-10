@@ -6239,6 +6239,9 @@
 "HISTORYVIEW_EMPTYSTATE_SUBTEXT":{
 "en-GL":"Send the invoice via e-mail, make a partial or full payment, wait for the user to see the invoice etc. in order for history data to show up here"
 },
+"HISTORYVIEW_CELLITEM_INVOICEBOOKEDSTATUS":{
+"en-GL":"Invoice Booked"
+},
 "HISTORYVIEW_CELLITEM_SENTSTATUS":{
 "en-GL":"Sent"
 },
