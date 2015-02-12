@@ -6243,22 +6243,22 @@
 "en-GL":"Invoice Booked"
 },
 "HISTORYVIEW_CELLITEM_SENTSTATUS":{
-"en-GL":"Sent"
+"en-GL":"Sent by e-mail"
 },
 "HISTORYVIEW_CELLITEM_REJECTEDSTATUS":{
-"en-GL":"Rejected"
+"en-GL":"E-mail didn't reach destination. Please send again."
 },
 "HISTORYVIEW_CELLITEM_DELIVEREDSTATUS":{
-"en-GL":"Delivered"
+"en-GL":"E-mail delivered"
 },
 "HISTORYVIEW_CELLITEM_SEENSTATUS":{
-"en-GL":"Seen"
+"en-GL":"E-mail delivered"
 },
 "HISTORYVIEW_CELLITEM_PARTIALLYPAIDSTATUS":{
-"en-GL":"Partially paid"
+"en-GL":"Payment received"
 },
 "HISTORYVIEW_CELLITEM_PAIDSTATUS":{
-"en-GL":"Paid"
+"en-GL":"Payment received"
 },
 "HISTORYVIEW_TITLE":{
 "en-GL":"Invoice history"
