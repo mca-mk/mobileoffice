@@ -6301,6 +6301,12 @@
 },
 "PDFPREVIEW_INVOICE_SEND":{
 "en-GL":"Send"
+},
+"HISTORYVIEW_ACTIONSSECTION_TITLE":{
+"en-GL":"Actions"
+},
+"HISTORYVIEW_HISTORYSECTION_TITLE":{
+"en-GL":"Invoice History"
 }
 }
 }
