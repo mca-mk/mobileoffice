@@ -6258,7 +6258,7 @@
 "en-GL":"Payment received"
 },
 "HISTORYVIEW_CELLITEM_PAIDSTATUS":{
-"en-GL":"Payment received"
+"en-GL":"Payment of [AMOUNT] [CURRENCY] recieved"
 },
 "HISTORYVIEW_TITLE":{
 "en-GL":"Invoice history"
