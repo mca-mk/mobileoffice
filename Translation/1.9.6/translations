@@ -6312,7 +6312,10 @@
 "en-GL":"Actions"
 },
 "HISTORYVIEW_HISTORYSECTION_TITLE":{
-"en-GL":"Invoice History"
+"en-GL":"Invoice history"
+},
+"HISTORYVIEW_HISTORYSECTION_TITLE_CREDITNOTE":{
+"en-GL":"Credit note history"
 }
 }
 }
