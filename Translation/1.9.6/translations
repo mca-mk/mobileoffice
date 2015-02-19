@@ -6240,7 +6240,10 @@
 "en-GL":"Send the invoice via e-mail, make a partial or full payment, wait for the user to see the invoice etc. in order for history data to show up here"
 },
 "HISTORYVIEW_CELLITEM_INVOICEBOOKEDSTATUS":{
-"en-GL":"Invoice Booked"
+"en-GL":"Invoice booked"
+},
+"HISTORYVIEW_CELLITEM_CREDITNOTEBOOKEDSTATUS":{
+"en-GL":"Credit note booked"
 },
 "HISTORYVIEW_CELLITEM_SENTSTATUS":{
 "en-GL":"Sent by e-mail"
@@ -6262,6 +6265,9 @@
 },
 "HISTORYVIEW_TITLE":{
 "en-GL":"Invoice history"
+},
+"HISTORYVIEW_CREDITNOTE_TITLE":{
+"en-GL":"Credit note history"
 },
 "SETTINGS_MODULES_EMAILMODE_TITLE":{
 "en-GL":"Email"
