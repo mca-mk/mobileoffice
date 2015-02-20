@@ -6316,6 +6316,9 @@
 },
 "HISTORYVIEW_HISTORYSECTION_TITLE_CREDITNOTE":{
 "en-GL":"Credit note history"
+},
+"CONTACTDETAILS_RECEIVECOPYOFEMAIL_CAPTION":{
+"en-GL":"Receive copy of email"
 }
 }
 }
