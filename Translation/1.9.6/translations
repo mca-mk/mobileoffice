@@ -6319,6 +6319,15 @@
 },
 "CONTACTDETAILS_RECEIVECOPYOFEMAIL_CAPTION":{
 "en-GL":"Receive copy of email"
+},
+"ALERT_MUSTUPDATE_TITLE":{
+"en-GL":"Cannot use this service"
+},
+"ALERT_MUSTUPDATE_MESSAGE":{
+"en-GL":"Some services that you want to use have been deprecated. Please update MobileOffice."
+},
+"ALERT_MUSTUPDATE_BUTTON":{
+"en-GL":"Update now"
 }
 }
 }
