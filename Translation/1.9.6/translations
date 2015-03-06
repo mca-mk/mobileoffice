@@ -6328,6 +6328,9 @@
 },
 "ALERT_MUSTUPDATE_BUTTON":{
 "en-GL":"Update now"
+},
+"REMOTE_NOTIFICATION_APPFOCUSED_TITLE":{
+"en-GL":"Email received"
 }
 }
 }
