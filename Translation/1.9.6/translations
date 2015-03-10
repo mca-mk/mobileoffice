@@ -76,9 +76,7 @@
 },
 "BUTTON_SEND":{
 "en-GL":"Send",
-"da-DK":"Send",
 "sv-SE":"Skicka",
-"no-NO":"Send",
 "fi-FI":"Lähetä",
 "es-ES":"Enviar"
 },
@@ -145,7 +143,9 @@
 },
 "CURRENTINVOICES_ADDITIONAL_CUSTOMERSECTION_HEADER":{
 "en-GL":"Recipient",
-"da-DK":"Modtager"
+"da-DK":"Modtager",
+"sv-SE":"Mottagare",
+"no-NO":"Mottaker"
 },
 "CURRENTINVOICES_ADDITIONAL_CUSTOMERSECTION_FOOTER":{
 "en-GL":"Additional settings for customer",
@@ -700,7 +700,10 @@
 "es-ES":"Enviar por e-mail"
 },
 "CURRENTINVOICES_DETAILS_PDFVIEW_TITLE":{
-"en-GL":"Invoice preview"
+"en-GL":"Preview",
+"da-DK":"Forhåndsvisning",
+"sv-SE":"Forhåndsvisning",
+"no-NO":"Forhåndsvisning"
 },
 "CURRENTINVOICE_DETAILS_DOWNLOADINGPDF":{
 "en-GL":"Downloading PDF",
@@ -1126,9 +1129,9 @@
 },
 "ORDERS_DETAILS_VIEW":{
 "en-GL":"Preview",
-"da-DK":"Vis",
-"sv-SE":"Förhandsgranska",
-"no-NO":"Vis ordre",
+"da-DK":"Forhåndsvisning",
+"sv-SE":"Forhåndsvisning",
+"no-NO":"Forhåndsvisning",
 "fi-FI":"Esikatselu",
 "es-ES":"Previsualizar"
 },
@@ -2856,9 +2859,9 @@
 },
 "SCAN_TITLE":{
 "en-GL":"Expense",
-"da-DK":"Indscanning",
-"sv-SE":"Skanna",
-"no-NO":"Innskanning",
+"da-DK":"Udgift",
+"sv-SE":"Utgift",
+"no-NO":"Utgift",
 "fi-FI":"Skannaus",
 "es-ES":"Gasto"
 },
@@ -2981,17 +2984,17 @@
 },
 "SCAN_ALL_ENTRIES_SENT":{
 "en-GL":"All expenses sent to e-conomic",
-"da-DK":"Alle indscanninger sendt til e-conomic",
-"sv-SE":"Alla bilder skickas till e-conomic",
-"no-NO":"Alle bilder sendt til e-conomic",
+"da-DK":"Alle utgifter er sendt til e-conomic",
+"sv-SE":"Samtliga utgifter har skickats till e-conomic",
+"no-NO":"Alle utgifter er sendt til e-conomic",
 "fi-FI":"Kaikki skannaukset lähetetään e-conomiciin",
 "es-ES":"Todos los gastos enviados a e-conomic"
 },
 "SCAN_AT_LEAST_ONE_ENTRY_FAILED":{
 "en-GL":"One or more expenses were not sent",
-"da-DK":"Et eller flere indscanninger blev ikke sendt",
-"sv-SE":"En eller flera bilder har inte skickats",
-"no-NO":"Et eller flere bilder ble ikke sendt",
+"da-DK":"En eller flere udgifter blev ikke sendt",
+"sv-SE":"En eller flera utgifter inte skickats",
+"no-NO":"En eller flere utgifter ble ikke sendt",
 "fi-FI":"Yhtä tai useampaa skannausta ei lähetetty",
 "es-ES":"Uno o más gastos no fueron enviados"
 },
@@ -3317,9 +3320,9 @@
 },
 "SETTINGS_SCANSECTION_TITLE":{
 "en-GL":"Expenses",
-"da-DK":"Indscanning",
-"sv-SE":"Skanning",
-"no-NO":"Innskanning",
+"da-DK":"Udgifter",
+"sv-SE":"Utgifter",
+"no-NO":"Utgifter",
 "fi-FI":"Skannaus",
 "es-ES":"Gastos"
 },
@@ -4226,9 +4229,9 @@
 },
 "SLIDEOUT_SCANNING":{
 "en-GL":"Expenses",
-"da-DK":"Indscanning",
-"sv-SE":"Skanning",
-"no-NO":"Innscanning",
+"da-DK":"Udgifter",
+"sv-SE":"Utgifter",
+"no-NO":"Utgifter",
 "fi-FI":"Skannaus",
 "es-ES":"Gastos"
 },
@@ -4511,9 +4514,9 @@
 },
 "HOMEDASHBOARD_NEWSCAN":{
 "en-GL":"New Expense",
-"da-DK":"Ny indscanning",
-"sv-SE":"Ny skanning",
-"no-NO":"Ny scanning",
+"da-DK":"Ny udgift",
+"sv-SE":"Ny utgift",
+"no-NO":"Ny utgift",
 "fi-FI":"Uusi skannaus",
 "es-ES":"Nuevo gasto"
 },
@@ -4528,6 +4531,7 @@
 "HOMEDASHBOARD_SALESCHART_LEGEND_THISPERIOD":{
 "en-GL":"This Year",
 "da-DK":"Dette år",
+"sv-SE":"Detta år",
 "no-NO":"Dette året",
 "fi-FI":"Tämä vuosi",
 "es-ES":"Este año"
@@ -4535,6 +4539,7 @@
 "HOMEDASHBOARD_SALESCHART_LEGENT_LASTPERIOD":{
 "en-GL":"Last Year",
 "da-DK":"Sidste år",
+"sv-SE":"Förra året",
 "no-NO":"Forrige år",
 "fi-FI":"Viime vuosi",
 "es-ES":"Año anterior"
@@ -5476,26 +5481,34 @@
 "SALESOVERVIEW_TABLE_TITLE_PERCENT":{
 "en-GL":"Difference",
 "da-DK":"Forskel",
+"sv-SE":"Skillnad",
+"no-NO":"Forskjell",
 "es-ES":"Beneficio"
 },
 "ORDERDETAILS_SAVE_ERROR_ORDERISSENT_TITLE":{
 "en-GL":"Cannot modify order",
 "da-DK":"Kan ikke ændre ordre",
+"sv-SE":"Kan inte ändra ordning",
+"no-NO":"Kan ikke endre ordre",
 "es-ES":"No se puede modificar el pedido"
 },
 "ORDERDETAILS_SAVE_ERROR_ORDERISSENT_MESSAGE":{
 "en-GL":"Order is registered as sent",
 "da-DK":"Order er registreret som sendt",
+"sv-SE":"Order är registrerat som skickas",
+"no-NO":"Ordren er registrert som sendes",
 "es-ES":"Pedido registrado como enviado"
 },
 "ORDER_DETAILS_ACTIONS_SENDORDER":{
 "en-GL":"Send",
-"da-DK":"Send",
-"es-ES":"Registrar como enviado"
+"sv-SE":"Skicka",
+"fi-FI":"Lähetä",
+"es-ES":"Enviar"
 },
 "ORDER_DETAILS_ACTIONS_MARKASNOTSENT":{
 "en-GL":"Remove sent status",
 "da-DK":"Ophæv sendt-status",
+"no-NO":"Fjern sendt status",
 "es-ES":"Cancelar estado de enviado"
 },
 "ORDER_DETAILS_STATUSINFO_ORDERISSENT":{
@@ -5511,6 +5524,9 @@
 "ORDERTABLEVIEW_SENTSTATUS_SENT":{
 "en-GL":"Sent",
 "da-DK":"Sendt",
+"sv-SE":"Skickat",
+"no-NO":"Sendt",
+"fi-FI":"Lähetetty",
 "es-ES":"Enviado"
 },
 "ORDER_MAIL_ATTACHMENTNAME":{
@@ -5531,21 +5547,29 @@
 "ORDERS_DETAILS_HEADING_TITLE":{
 "en-GL":"Heading",
 "da-DK":"Overskrift",
+"sv-SE":"Rubrik",
+"no-NO":"Overskrift",
 "es-ES":"Encabezamiento"
 },
 "ORDERS_DETAILS_HEADING_PLACEHOLDER":{
 "en-GL":"Heading",
 "da-DK":"Overskrift",
+"sv-SE":"Rubrik",
+"no-NO":"Overskrift",
 "es-ES":"Encabezamiento"
 },
 "CURRENTINVOICES_DETAILS_HEADING":{
 "en-GL":"Heading",
 "da-DK":"Overskrift",
+"sv-SE":"Rubrik",
+"no-NO":"Overskrift",
 "es-ES":"Encabezamiento"
 },
 "CURRENTINVOICES_DETAILS_HEADING_PLACEHOLDER":{
 "en-GL":"Heading",
 "da-DK":"Overskrift",
+"sv-SE":"Rubrik",
+"no-NO":"Overskrift",
 "es-ES":"Encabezamiento"
 },
 "SETTINGS_INVENTORY_ENABLEDELEMENT_DESCRIPTION_FOOTER":{
@@ -5605,6 +5629,8 @@
 "SLIDEOUT_QUOTES":{
 "en-GL":"Quotations",
 "da-DK":"Tilbud",
+"sv-SE":"Offerter",
+"no-NO":"Tilbud",
 "es-ES":"Presupuestos"
 },
 "QUOTES_SEARCH_PLACEHOLDER":{
@@ -5618,6 +5644,8 @@
 "QUOTESTABLE_TITLE":{
 "en-GL":"Quotations",
 "da-DK":"Tilbud",
+"sv-SE":"Offerter",
+"no-NO":"Tilbud",
 "es-ES":"Presupuestos"
 },
 "QUOTES_EMPTYSTATE_BUTTONTEXT":{
@@ -5684,7 +5712,8 @@
 },
 "QUOTE_DETAILS_ACTIONS_REGISTERASSENT":{
 "en-GL":"Send",
-"da-DK":"Send",
+"sv-SE":"Skicka",
+"fi-FI":"Lähetä",
 "es-ES":"Enviar"
 },
 "QUOTES_DETAILS_QUOTE_LOADING":{
@@ -5702,7 +5731,9 @@
 },
 "QUOTES_DETAILS_NEWQUOTE_TITLE":{
 "en-GL":"New quotation",
-"da-DK":"Nye tilbud",
+"da-DK":"Nyt tilbud",
+"sv-SE":"Ny offert",
+"no-NO":"Nytt tilbud",
 "es-ES":"Nuevo presupuesto"
 },
 "QUOTES_DETAILS_CUSTOMER_TITLE":{
@@ -5716,6 +5747,8 @@
 "QUOTES_DETAILS_TITLE":{
 "en-GL":"Quotation",
 "da-DK":"Tilbud",
+"sv-SE":"Offert",
+"no-NO":"Tilbud",
 "es-ES":"Presupuesto"
 },
 "QUOTES_DETAILS_SELECTCUSTOMERSECTION_TITLE":{
@@ -5742,11 +5775,15 @@
 "QUOTES_DETAILS_HEADING_TITLE":{
 "en-GL":"Heading",
 "da-DK":"Overskrift",
+"sv-SE":"Rubrik",
+"no-NO":"Overskrift",
 "es-ES":"Encabezado"
 },
 "QUOTES_DETAILS_HEADING_PLACEHOLDER":{
 "en-GL":"Heading",
 "da-DK":"Overskrift",
+"sv-SE":"Rubrik",
+"no-NO":"Overskrift",
 "es-ES":"Encabezado"
 },
 "QUOTES_DETAILS_TEXT1_PLACEHOLDER":{
@@ -5773,6 +5810,8 @@
 "QUOTES_DETAILS_BARBUTTON_CONVERT_TOORDER":{
 "en-GL":"Convert to order",
 "da-DK":"Konvertér til ordre",
+"sv-SE":"Konvertera till order",
+"no-NO":"Konverter til ordre",
 "es-ES":"Convertir a pedido"
 },
 "QUOTES_DETAILS_POPUP_SAVING":{
@@ -5944,17 +5983,20 @@
 },
 "QUOTELINE_TITLE":{
 "en-GL":"Quote line",
-"da-DK":"Tilbyd line",
+"da-DK":"Tilbudslinje",
+"no-NO":"Tilbudslinje",
 "es-ES":"Línea del presupuesto"
 },
 "QUOTELINE_DELETEBUTTON":{
 "en-GL":"Delete quotation line",
-"da-DK":"slet tilbud line",
+"da-DK":"Slet tilbud line",
 "es-ES":"Eliminar línea del presupuesto"
 },
 "QUOTES_DETAILS_BARBUTTON_CONVERTTOORDER":{
 "en-GL":"Convert to order",
 "da-DK":"Konvertér til ordre",
+"sv-SE":"Konvertera till order",
+"no-NO":"Konverter til ordre",
 "es-ES":"Convertir a pedido"
 },
 "QUOTES_DETAILS_EMAILSUBJECT":{
@@ -5970,6 +6012,8 @@
 "QUOTES_DETAILS_CONFIRMCONVERTTOORDER_TITLE":{
 "en-GL":"Convert to order",
 "da-DK":"Konvertér til ordre",
+"sv-SE":"Konvertera till order",
+"no-NO":"Konverter til ordre",
 "es-ES":"Convertir a pedido"
 },
 "QUOTES_DETAILS_CONFIRMCONVERTTOORDER_MESSAGE":{
@@ -5985,26 +6029,36 @@
 "SYNCVIEW_PROGRESS_QUOTES":{
 "en-GL":"Syncing quotations",
 "da-DK":"Hentning tilbud",
-"es-ES":"Sincronizando presupuestos"
+"sv-SE":"Hämtar offerter",
+"no-NO":"Henter tilbud",
+"es-ES":"Sincronización de presupuestos"
 },
 "INVOICEDETAILS_ADDITIONAL_YOURREFERENCE_TITLE":{
 "en-GL":"Your reference",
 "da-DK":"Deres reference",
+"sv-SE":"Er referens",
+"no-NO":"Deres ref.",
 "es-ES":"Su referencia"
 },
 "INVOICEDETAILS_ADDITIONAL_OURREFERENCE_TITLE":{
 "en-GL":"Our reference",
 "da-DK":"Vores reference",
+"sv-SE":"Vår referens",
+"no-NO":"Vår ref.",
 "es-ES":"Nuestra referencia"
 },
 "INVOICEDETAILS_ADDITIONAL_OUR2REFERENCE_TITLE":{
 "en-GL":"Our reference 2",
 "da-DK":"Vores reference 2",
+"sv-SE":"Vår referens 2",
+"no-NO":"Vår ref. 2",
 "es-ES":"Nuestra referencia 2"
 },
 "EMPLOYEETABLE_TITLE":{
 "en-GL":"Employees",
 "da-DK":"Medarbejdere",
+"sv-SE":"Medarbetare",
+"no-NO":"Medarbeidere",
 "es-ES":"Empleados"
 },
 "REFERENCES_LIST_NONE":{
@@ -6018,6 +6072,8 @@
 "INVOICEDETAILS_ADDITIONAL_REFERENCESSECTION_TITLE":{
 "en-GL":"References",
 "da-DK":"Referencer",
+"sv-SE":"Referenser",
+"no-NO":"Referanser",
 "es-ES":"Referencias"
 },
 "LINES_BARCODESCAN_PRODUCTNOTFOUND_TITLE":{
@@ -6063,6 +6119,9 @@
 "SETTINGS_PRODUCTS_ROOTTITLE":{
 "en-GL":"Products",
 "da-DK":"Varer",
+"sv-SE":"Artiklar",
+"no-NO":"Varer",
+"fi-FI":"Artikkelit",
 "es-ES":"Productos"
 },
 "SETTINGS_PRODUCTS_SORTBY":{
@@ -6072,11 +6131,18 @@
 },
 "SETTINGS_SORTOPTION_ID":{
 "en-GL":"ID",
-"da-DK":"Nummer"
+"da-DK":"Nummer",
+"sv-SE":"Nr.",
+"no-NO":"Nr.",
+"fi-FI":"Numero",
+"es-ES":"Número"
 },
 "SETTINGS_SORTOPTION_NAME":{
 "en-GL":"Name",
 "da-DK":"Navn",
+"sv-SE":"Namn",
+"no-NO":"Navn",
+"fi-FI":"Nimi",
 "es-ES":"Nombre"
 },
 "SALESPERFORMANCE_TABLE_TOTAL":{
@@ -6161,6 +6227,9 @@
 },
 "FEEDBACK_FEEDBACKANDSUPPORT_CAPTION":{
 "en-GL":"Feedback & Ideas",
+"da-DK":"Feedback & Idéer",
+"sv-SE":"Feedback & Idéer",
+"no-NO":"Feedback",
 "es-ES":"Ideas & Comentarios"
 },
 "FEEDBACK_FEEDBACKANDSUPPORT_SECTION_TITLE":{
@@ -6177,7 +6246,12 @@
 "en-GL":"Are you sure?"
 },
 "ORDERTABLE_SENTORDERDELETE_CONFIRM_POPUP_CONFIRM":{
-"en-GL":"Delete"
+"en-GL":"Delete",
+"da-DK":"Slet",
+"sv-SE":"Ta bort",
+"no-NO":"Slett",
+"fi-FI":"Poista",
+"es-ES":"Eliminar"
 },
 "QUOTETABLE_SENTORDERDELETE_CONFIRM_POPUP_TITLE":{
 "en-GL":"You are about to delete a sent quotation"
@@ -6186,13 +6260,23 @@
 "en-GL":"Are you sure?"
 },
 "QUOTETABLE_SENTORDERDELETE_CONFIRM_POPUP_CONFIRM":{
-"en-GL":"Delete"
+"en-GL":"Delete",
+"da-DK":"Slet",
+"sv-SE":"Ta bort",
+"no-NO":"Slett",
+"fi-FI":"Poista",
+"es-ES":"Eliminar"
 },
 "LOGIN_RECENTLOGINS_SECTION_TITLE":{
 "en-GL":"Recent logins"
 },
 "LOGIN_RECENTLOGINS_DELETE":{
-"en-GL":"Delete"
+"en-GL":"Delete",
+"da-DK":"Slet",
+"sv-SE":"Ta bort",
+"no-NO":"Slett",
+"fi-FI":"Poista",
+"es-ES":"Eliminar"
 },
 "PRODUCTSTABLE_BARREDPRODUCT_DELETE_POPUP_TITLE":{
 "en-GL":"Product exists in invoice lines and cannot be deleted"
@@ -6201,19 +6285,26 @@
 "en-GL":"Product is already barred"
 },
 "CREDITORDETAILS_CREDITORGROUP_TITLE":{
-"en-GL":"Supplier group"
+"en-GL":"Supplier group",
+"da-DK":"Leverandørgruppe",
+"no-NO":"Leverandørgruppe"
 },
 "ABOUT_RSSFEED_SECTIONTITLE":{
 "en-GL":"News"
 },
 "POPUP_ADDFROMCONTACTS_DENIED_TITLE":{
-"en-GL":"Please enable MobileOffice to access contacts"
+"en-GL":"Access to Contacts denied"
 },
 "POPUP_ADDFROMCONTACTS_DENIED_MESSAGE":{
-"en-GL":"Go to Settings->Privacy->Contacts"
+"en-GL":"Please go to Settings->Privacy->Contacts and enable MobileOffice to use Contacts"
 },
 "INVOICESTATUS_SENT":{
-"en-GL":"Sent"
+"en-GL":"Sent",
+"da-DK":"Sendt",
+"sv-SE":"Skickat",
+"no-NO":"Sendt",
+"fi-FI":"Lähetetty",
+"es-ES":"Enviado"
 },
 "INVOICESTATUS_OPENEDMAIL":{
 "en-GL":"Opened e-mail"
@@ -6270,7 +6361,11 @@
 "en-GL":"Credit note history"
 },
 "SETTINGS_MODULES_EMAILMODE_TITLE":{
-"en-GL":"Email"
+"en-GL":"Email",
+"da-DK":"E-mail",
+"sv-SE":"E-post",
+"fi-FI":"Sähköposti",
+"es-ES":"Correo electrónico"
 },
 "SETTINGS_BOOL_TRACKINVOICEHISTORY_CAPTION":{
 "en-GL":"Track invoice history"
@@ -6282,13 +6377,18 @@
 "en-GL":"Enter a message for your customer"
 },
 "MO_SENDMAIL_BARBUTTON_SEND":{
-"en-GL":"Send"
+"en-GL":"Send",
+"sv-SE":"Skicka",
+"fi-FI":"Lähetä",
+"es-ES":"Enviar"
 },
 "MO_SENDEMAIL_TO":{
-"en-GL":"To:"
+"en-GL":"To:",
+"da-DK":"Til:"
 },
 "MO_SENDEMAIL_SUBJECT":{
-"en-GL":"Subject"
+"en-GL":"Subject",
+"da-DK":"Emne"
 },
 "MO_SENDEMAIL_NOTIFY":{
 "en-GL":"Notify on delivery"
@@ -6306,7 +6406,10 @@
 "en-GL":"Email sent"
 },
 "PDFPREVIEW_INVOICE_SEND":{
-"en-GL":"Send"
+"en-GL":"Send",
+"sv-SE":"Skicka",
+"fi-FI":"Lähetä",
+"es-ES":"Enviar"
 },
 "HISTORYVIEW_ACTIONSSECTION_TITLE":{
 "en-GL":"Actions"
@@ -6318,19 +6421,34 @@
 "en-GL":"Credit note history"
 },
 "CONTACTDETAILS_RECEIVECOPYOFEMAIL_CAPTION":{
-"en-GL":"Receive copy of email"
+"en-GL":"Receive invoice emails"
 },
 "ALERT_MUSTUPDATE_TITLE":{
-"en-GL":"Cannot use this service"
+"en-GL":"Required update",
+"da-DK":"Nødvendig opdatering",
+"sv-SE":"Krävs uppdatering",
+"no-NO":"Nødvendig oppdatering"
 },
 "ALERT_MUSTUPDATE_MESSAGE":{
-"en-GL":"Some services that you want to use have been deprecated. Please update MobileOffice."
+"en-GL":"You have a version of MobileOffice that is obsolete.",
+"da-DK":"Du har en version af MobileOffice der er forældet.",
+"sv-SE":"Du har en version av MobileOffice som är föråldrat.",
+"no-NO":"Du har en versjon av MobileOffice som er foreldet."
 },
 "ALERT_MUSTUPDATE_BUTTON":{
-"en-GL":"Update now"
+"en-GL":"Update now",
+"da-DK":"Opdater nu",
+"sv-SE":"Uppdatera nu",
+"no-NO":"Oppdater nå"
 },
 "REMOTE_NOTIFICATION_APPFOCUSED_TITLE":{
-"en-GL":"Email received"
+"en-GL":"Email received",
+"da-DK":"Email modtaget",
+"sv-SE":"Email mottagna",
+"no-NO":"Email mottatt"
+},
+"CONTACTDETAILS_CONTACTDETAILS_SECTION_HEADER":{
+"en-GL":"Contact details"
 }
 }
 }
