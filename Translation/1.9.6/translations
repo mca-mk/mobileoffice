@@ -6374,7 +6374,10 @@
 "en-GL":"Enabling this will let you use the MobileOffice email sending mode. This mode will enable you to track the invoice history, and the email status (delivered, invoice seen, rejected etc.)"
 },
 "MO_SENDMAIL_MESSAGE_PLACEHOLDER":{
-"en-GL":"Enter a message for your customer"
+"en-GL":"Enter a message for your customer",
+"da-DK":"Indtast en besked til din kunde",
+"sv-SE":"Skriv ett meddelande till din kund",
+"no-NO":"Skriv inn en melding for kunden"
 },
 "MO_SENDMAIL_BARBUTTON_SEND":{
 "en-GL":"Send",
@@ -6387,11 +6390,12 @@
 "da-DK":"Til:"
 },
 "MO_SENDEMAIL_SUBJECT":{
-"en-GL":"Subject",
-"da-DK":"Emne"
+"en-GL":"Subject:",
+"da-DK":"Emne:"
 },
 "MO_SENDEMAIL_NOTIFY":{
-"en-GL":"Notify on delivery"
+"en-GL":"Notify me on delivery",
+"da-DK":"Advisér mig på levering"
 },
 "MO_SENDEMAIL_INVALID_POPUP_TITLE":{
 "en-GL":"Invalid email"
@@ -6412,16 +6416,28 @@
 "es-ES":"Enviar"
 },
 "HISTORYVIEW_ACTIONSSECTION_TITLE":{
-"en-GL":"Actions"
+"en-GL":"Actions",
+"da-DK":"Funktioner",
+"sv-SE":"Funktioner",
+"no-NO":"Funksjoner"
 },
 "HISTORYVIEW_HISTORYSECTION_TITLE":{
-"en-GL":"Invoice history"
+"en-GL":"Invoice history",
+"da-DK":"Faktura historie",
+"sv-SE":"Faktura historik",
+"no-NO":"Faktura historie"
 },
 "HISTORYVIEW_HISTORYSECTION_TITLE_CREDITNOTE":{
-"en-GL":"Credit note history"
+"en-GL":"Credit note history",
+"da-DK":"Kreditnota historie",
+"sv-SE":"Kreditnota historik",
+"no-NO":"Kreditnota historie"
 },
 "CONTACTDETAILS_RECEIVECOPYOFEMAIL_CAPTION":{
-"en-GL":"Receive invoice emails"
+"en-GL":"Receive invoice emails",
+"da-DK":"Modtag e-mail-kopi af faktura",
+"sv-SE":"Ta emot e-postkopia av faktura",
+"no-NO":"Motta e-postkopi av faktura"
 },
 "ALERT_MUSTUPDATE_TITLE":{
 "en-GL":"Required update",
@@ -6448,7 +6464,16 @@
 "no-NO":"Email mottatt"
 },
 "CONTACTDETAILS_CONTACTDETAILS_SECTION_HEADER":{
-"en-GL":"Contact details"
+"en-GL":"Contact details",
+"da-DK":"Kontaktoplysninger",
+"sv-SE":"Kontaktinformation",
+"no-NO":"Kontaktdetaljer"
+},
+"CONTACTDETAILS_CONTACTDASHBOARD_RECEIVECOPYOFEMAIL_YES":{
+"en-GL":"Yes"
+},
+"CONTACTDETAILS_CONTACTDASHBOARD_RECEIVECOPYOFEMAIL_NO":{
+"en-GL":"No"
 }
 }
 }
