@@ -6237,13 +6237,16 @@
 "es-ES":"Foro"
 },
 "CREDITORTABLE_POPUP_CREATINGCREDITOR":{
-"en-GL":"Creating supplier"
+"en-GL":"Creating supplier",
+"da-DK":"Oprettelse leverandør",
+"sv-SE":"Skapa leverantör",
+"no-NO":"Opprette leverandør"
 },
 "ORDERTABLE_SENTORDERDELETE_CONFIRM_POPUP_TITLE":{
-"en-GL":"You are about to delete a sent order"
-},
-"ORDERTABLE_SENTORDERDELETE_CONFIRM_POPUP_MESSAGE":{
-"en-GL":"Are you sure?"
+"en-GL":"Delete sent order?",
+"da-DK":"Slet sendt ordre?",
+"sv-SE":"Radera skickade order?",
+"no-NO":"Slett sendt ordre?"
 },
 "ORDERTABLE_SENTORDERDELETE_CONFIRM_POPUP_CONFIRM":{
 "en-GL":"Delete",
@@ -6254,10 +6257,10 @@
 "es-ES":"Eliminar"
 },
 "QUOTETABLE_SENTORDERDELETE_CONFIRM_POPUP_TITLE":{
-"en-GL":"You are about to delete a sent quotation"
-},
-"QUOTETABLE_SENTORDERDELETE_CONFIRM_POPUP_MESSAGE":{
-"en-GL":"Are you sure?"
+"en-GL":"Delete sent quotation?",
+"da-DK":"Slet sendt tilbud?",
+"sv-SE":"Radera sända offert?",
+"no-NO":"Slett sendte tilbudet?"
 },
 "QUOTETABLE_SENTORDERDELETE_CONFIRM_POPUP_CONFIRM":{
 "en-GL":"Delete",
@@ -6268,7 +6271,10 @@
 "es-ES":"Eliminar"
 },
 "LOGIN_RECENTLOGINS_SECTION_TITLE":{
-"en-GL":"Recent logins"
+"en-GL":"Recent logins",
+"da-DK":"Seneste logins",
+"sv-SE":"Senaste inloggningar",
+"no-NO":"Siste innlogginger"
 },
 "LOGIN_RECENTLOGINS_DELETE":{
 "en-GL":"Delete",
@@ -6279,24 +6285,34 @@
 "es-ES":"Eliminar"
 },
 "PRODUCTSTABLE_BARREDPRODUCT_DELETE_POPUP_TITLE":{
-"en-GL":"Product exists in invoice lines and cannot be deleted"
-},
-"PRODUCTSTABLE_BARREDPRODUCT_DELETE_POPUP_MESSAGE":{
-"en-GL":"Product is already barred"
+"en-GL":"Product is already barred",
+"da-DK":"Produktet er allerede spærret",
+"sv-SE":"Produkten är redan spärras",
+"no-NO":"Produktet er allerede sperret"
 },
 "CREDITORDETAILS_CREDITORGROUP_TITLE":{
 "en-GL":"Supplier group",
 "da-DK":"Leverandørgruppe",
+"sv-SE":"Leverantör grupp",
 "no-NO":"Leverandørgruppe"
 },
 "ABOUT_RSSFEED_SECTIONTITLE":{
-"en-GL":"News"
+"en-GL":"Announcements",
+"da-DK":"Meddelelser",
+"sv-SE":"Meddelanden",
+"no-NO":"Kunngjøringer"
 },
 "POPUP_ADDFROMCONTACTS_DENIED_TITLE":{
-"en-GL":"Access to Contacts denied"
+"en-GL":"Access to Contacts denied",
+"da-DK":"Kan ikke læse Kontakter",
+"sv-SE":"Kan inte läsa Kontakter",
+"no-NO":"Kan ikke lese Kontakter"
 },
 "POPUP_ADDFROMCONTACTS_DENIED_MESSAGE":{
-"en-GL":"Please go to Settings->Privacy->Contacts and enable MobileOffice to use Contacts"
+"en-GL":"Go to Settings > Privacy > Contacts and enable MobileOffice to use Contacts",
+"da-DK":"Gå til Indstillinger > Anonymitet > Kontakter og sætte MobileOffice at bruge Kontakter",
+"sv-SE":"Gå till Inställningar >Integritetsskydd > Kontakter och aktivera Mobile att använda Kontakter",
+"no-NO":"Gå til Innstillinger > Personvern > Kontakter og aktiver Mobile å bruke Kontakter"
 },
 "INVOICESTATUS_SENT":{
 "en-GL":"Sent",
@@ -6307,58 +6323,94 @@
 "es-ES":"Enviado"
 },
 "INVOICESTATUS_OPENEDMAIL":{
-"en-GL":"Opened e-mail"
+"en-GL":"Seen",
+"da-DK":"Set",
+"sv-SE":"Sett",
+"no-NO":"Sett"
 },
 "INVOICESTATUS_SEEN":{
-"en-GL":"Seen"
+"en-GL":"Seen",
+"da-DK":"Set",
+"sv-SE":"Sett",
+"no-NO":"Sett"
 },
 "INVOICESTATUS_REJECTED":{
-"en-GL":"Rejected"
+"en-GL":"Not delivered",
+"da-DK":"Ikke leveret",
+"sv-SE":"Inte levererade",
+"no-NO":"Ikke levert"
 },
 "INVOICESTATUS_PARTIALLYPAID":{
-"en-GL":"Partially paid"
+"en-GL":"Partially paid",
+"da-DK":"Delvist betalt",
+"sv-SE":"Delvis betald",
+"no-NO":"Delvis betalt"
 },
 "INVOICESTATUS_PAID":{
-"en-GL":"Paid"
+"en-GL":"Paid",
+"da-DK":"Betalt",
+"sv-SE":"Betald",
+"no-NO":"Betalt"
 },
 "SYNCVIEW_PROGRSS_DEBTORINVOICESTATUS":{
-"en-GL":"Syncing invoice status"
-},
-"HISTORYVIEW_EMPTYSTATE_HEADER":{
-"en-GL":"You currently don't have any history for this item"
-},
-"HISTORYVIEW_EMPTYSTATE_SUBTEXT":{
-"en-GL":"Send the invoice via e-mail, make a partial or full payment, wait for the user to see the invoice etc. in order for history data to show up here"
+"en-GL":"Syncing invoice history",
+"da-DK":"Hentning af faktura historie",
+"sv-SE":"Hämtat fakturahistorik",
+"no-NO":"Henter faktura historie"
 },
 "HISTORYVIEW_CELLITEM_INVOICEBOOKEDSTATUS":{
-"en-GL":"Invoice booked"
+"en-GL":"Invoice booked",
+"da-DK":"Faktura bogført",
+"sv-SE":"Fakturan bokförd",
+"no-NO":"Faktura bokført"
 },
 "HISTORYVIEW_CELLITEM_CREDITNOTEBOOKEDSTATUS":{
-"en-GL":"Credit note booked"
+"en-GL":"Credit note booked",
+"da-DK":"Kreditnota bogført",
+"sv-SE":"Kreditnota bokförd",
+"no-NO":"Kreditnota bokført"
 },
 "HISTORYVIEW_CELLITEM_SENTSTATUS":{
-"en-GL":"Sent by e-mail"
+"en-GL":"Sent to [VALUE]",
+"da-DK":"Sendt til [VALUE]",
+"sv-SE":"Skickas till [VALUE]",
+"no-NO":"Sendt til [VALUE]"
 },
 "HISTORYVIEW_CELLITEM_REJECTEDSTATUS":{
-"en-GL":"E-mail didn't reach destination. Please send again."
+"en-GL":"Email not delivered to [VALUE]. Please check the address.",
+"da-DK":"Email ikke leveret til [VALUE]. Kontroller adressen.",
+"sv-SE":"E-post inte levereras till [VALUE]. Vänligen kontrollera adressen.",
+"no-NO":"E-post ikke levert til [VALUE]. Vennligst sjekk adresse."
 },
 "HISTORYVIEW_CELLITEM_DELIVEREDSTATUS":{
-"en-GL":"E-mail delivered"
+"en-GL":"Delivered to [VALUE]",
+"da-DK":"Leveret til [VALUE]",
+"sv-SE":"Levereras till [VALUE]",
+"no-NO":"Levert til [VALUE]"
 },
 "HISTORYVIEW_CELLITEM_SEENSTATUS":{
-"en-GL":"E-mail delivered"
-},
-"HISTORYVIEW_CELLITEM_PARTIALLYPAIDSTATUS":{
-"en-GL":"Payment received"
+"en-GL":"Delivered to [VALUE]",
+"da-DK":"Leveret til [VALUE]",
+"sv-SE":"Levereras till [VALUE]",
+"no-NO":"Levert til [VALUE]"
 },
 "HISTORYVIEW_CELLITEM_PAIDSTATUS":{
-"en-GL":"Payment of [AMOUNT] [CURRENCY] recieved"
+"en-GL":"Payment of [AMOUNT] [CURRENCY] recieved",
+"da-DK":"Betaling af [AMOUNT] [CURRENCY] modtaget",
+"sv-SE":"Betalning av [AMOUNT] [CURRENCY] fått",
+"no-NO":"Betaling av [AMOUNT] [CURRENCY] mottatt"
 },
 "HISTORYVIEW_TITLE":{
-"en-GL":"Invoice history"
+"en-GL":"Invoice history",
+"da-DK":"Faktura historie",
+"sv-SE":"Faktura historik",
+"no-NO":"Faktura historie"
 },
 "HISTORYVIEW_CREDITNOTE_TITLE":{
-"en-GL":"Credit note history"
+"en-GL":"Credit note history",
+"da-DK":"Kreditnota historie",
+"sv-SE":"Kreditnota historik",
+"no-NO":"Kreditnota historie"
 },
 "SETTINGS_MODULES_EMAILMODE_TITLE":{
 "en-GL":"Email",
@@ -6368,10 +6420,16 @@
 "es-ES":"Correo electrónico"
 },
 "SETTINGS_BOOL_TRACKINVOICEHISTORY_CAPTION":{
-"en-GL":"Track invoice history"
+"en-GL":"Track invoice history",
+"da-DK":"Vedligehold faktura historie",
+"sv-SE":"Behåll faktura historik",
+"no-NO":"Opprettholde faktura historie"
 },
 "SETTINGS_BOOL_TRACKINVOICEHISTORY_FOOTER":{
-"en-GL":"Enabling this will let you use the MobileOffice email sending mode. This mode will enable you to track the invoice history, and the email status (delivered, invoice seen, rejected etc.)"
+"en-GL":"With this feature enabled we will send the invoices to the customer and track the email delivery history.",
+"da-DK":"Med denne funktion er aktiveret, vil vi sende fakturaerne for kunden og spore e-mail-levering historie.",
+"sv-SE":"Med denna funktion aktiverad kommer vi att skicka fakturorna till kunden och spåra e-postleverans historia.",
+"no-NO":"Med denne funksjonen aktivert vil vi sende fakturaer til kunden og spore e-postlevering historie."
 },
 "MO_SENDMAIL_MESSAGE_PLACEHOLDER":{
 "en-GL":"Enter a message for your customer",
@@ -6387,27 +6445,66 @@
 },
 "MO_SENDEMAIL_TO":{
 "en-GL":"To:",
-"da-DK":"Til:"
+"da-DK":"Til:",
+"sv-SE":"Till:",
+"no-NO":"Til:"
 },
 "MO_SENDEMAIL_SUBJECT":{
 "en-GL":"Subject:",
-"da-DK":"Emne:"
+"da-DK":"Emne:",
+"sv-SE":"Ämne:",
+"no-NO":"Emne:"
 },
 "MO_SENDEMAIL_NOTIFY":{
 "en-GL":"Notify me on delivery",
-"da-DK":"Advisér mig på levering"
+"da-DK":"Advisér mig på levering",
+"sv-SE":"Meddela mig om leverans",
+"no-NO":"Varsle meg på levering"
 },
 "MO_SENDEMAIL_INVALID_POPUP_TITLE":{
-"en-GL":"Invalid email"
+"en-GL":"Invalid email",
+"da-DK":"Ugyldig e-mail",
+"sv-SE":"Ogiltig e-post",
+"no-NO":"Ugyldig e-post"
 },
 "MO_SENDEMAIL_INVALID_POPUP_MESSAGE":{
-"en-GL":"Please correct your email"
+"en-GL":"Please enter a valid email address",
+"da-DK":"Indtast en gyldig e-mail-adresse",
+"sv-SE":"Ange en giltig e-postadress",
+"no-NO":"Skriv inn en gyldig e-postadresse"
 },
 "MO_SENDMAIL_DEFAULTMESSAGE":{
-"en-GL":"Dear [CUSTOMER_NAME], \nhere is your invoice [INVOICE_NO] with net amount of [CURRENCY] [NET_AMOUNT]. \n\nBest regards, [COMPANY_NAME]"
+"en-GL":"Dear [CUSTOMER_NAME],\n
+\n
+Click on the button below to see or download your invoice of [CURRENCY] [GROSS_AMOUNT]\n
+\n
+Kind regards,\n
+[COMPANY_NAME]\n",
+"da-DK":"Kære [CUSTOMER_NAME],\n
+\n
+Klik på knappen nedenfor for at se eller downloade din faktura på [GROSS_AMOUNT] [CURRENCY].\n
+\n
+Med venlig hilsen\n
+[COMPANY_NAME]\n",
+"sv-SE":"Bästa [CUSTOMER_NAME],\n
+\n
+Klicka på knappen nedan för att se eller ladda ner din faktura på [GROSS_AMOUNT] [CURRENCY].\n
+\n
+Vänliga hälsningar\n
+[COMPANY_NAME]\n
+",
+"no-NO":"Kjære [CUSTOMER_NAME],\n
+\n
+Klikk på knappen under for å se eller laste ned din faktura på [GROSS_AMOUNT] [CURRENCY].\n
+\n
+Vennlig hilsen\n
+[COMPANY_NAME]\n"
 },
 "MO_SENDMAIL_TOAST_SENT":{
-"en-GL":"Email sent"
+"en-GL":"Email sent",
+"da-DK":"e-mail sendt",
+"sv-SE":"e-post skickas",
+"no-NO":"e-post sendt"
 },
 "PDFPREVIEW_INVOICE_SEND":{
 "en-GL":"Send",
