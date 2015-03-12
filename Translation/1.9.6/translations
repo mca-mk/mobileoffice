@@ -6474,31 +6474,11 @@
 "no-NO":"Skriv inn en gyldig e-postadresse"
 },
 "MO_SENDMAIL_DEFAULTMESSAGE":{
-"en-GL":"Dear [CUSTOMER_NAME],\n
-\n
-Click on the button below to see or download your invoice of [CURRENCY] [GROSS_AMOUNT]\n
-\n
-Kind regards,\n
-[COMPANY_NAME]\n",
-"da-DK":"Kære [CUSTOMER_NAME],\n
-\n
-Klik på knappen nedenfor for at se eller downloade din faktura på [GROSS_AMOUNT] [CURRENCY].\n
-\n
-Med venlig hilsen\n
-[COMPANY_NAME]\n",
-"sv-SE":"Bästa [CUSTOMER_NAME],\n
-\n
-Klicka på knappen nedan för att se eller ladda ner din faktura på [GROSS_AMOUNT] [CURRENCY].\n
-\n
-Vänliga hälsningar\n
-[COMPANY_NAME]\n
+"en-GL":"Dear [CUSTOMER_NAME],\n\nClick on the button below to see or download your invoice of [CURRENCY] [GROSS_AMOUNT]\n\nKind regards,\n[COMPANY_NAME]\n",
+"da-DK":"Kære [CUSTOMER_NAME],\n\nKlik på knappen nedenfor for at se eller downloade din faktura på [GROSS_AMOUNT] [CURRENCY].\n\nMed venlig hilsen\n[COMPANY_NAME]\n",
+"sv-SE":"Bästa [CUSTOMER_NAME],\n\nKlicka på knappen nedan för att se eller ladda ner din faktura på [GROSS_AMOUNT] [CURRENCY].\n\nVänliga älsningar\n[COMPANY_NAME]\n
 ",
-"no-NO":"Kjære [CUSTOMER_NAME],\n
-\n
-Klikk på knappen under for å se eller laste ned din faktura på [GROSS_AMOUNT] [CURRENCY].\n
-\n
-Vennlig hilsen\n
-[COMPANY_NAME]\n"
+"no-NO":"Kjære [CUSTOMER_NAME],\n\nKlikk på knappen under for å se eller laste ned din faktura på [GROSS_AMOUNT] [CURRENCY].\n\nVennlig hilsen\n[COMPANY_NAME]\n"
 },
 "MO_SENDMAIL_TOAST_SENT":{
 "en-GL":"Email sent",
