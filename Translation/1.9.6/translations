@@ -4608,6 +4608,12 @@
 "fi-FI":"Valitse jaksot",
 "es-ES":"Elegir periodos"
 },
+"HOMEDASHBOARD_ACTIONSSECTION_TITLE":{
+"en-GL":"Actions"
+},
+"HOMEDASHBOARD_SCANPRODUCT_CAPTION":{
+"en-GL":"Scan product"
+},
 "PUSHNOTIFICATION_REOPENAPP_TITLE":{
 "en-GL":"Open MobileOffice",
 "da-DK":"Åbn MobileOffice",
