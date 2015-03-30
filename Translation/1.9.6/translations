@@ -6576,6 +6576,18 @@
 "no-NO":"Nei",
 "fi-FI":"Ei",
 "es-ES":"No"
+},
+"TOPPRODUCTS_TITLE":{
+"en-GL":"Top products overall"
+},
+"TOPPRODUCTS_SEGMENTCONTROL_MARGIN":{
+"en-GL":"Margin"
+},
+"TOPPRODUCTS_SEGMENTCONTROL_PROFIT":{
+"en-GL":"Profit"
+},
+"TOPPRODUCTS_SEGMENTCONTROL_QTY":{
+"en-GL":"Quantity"
 }
 }
 }
