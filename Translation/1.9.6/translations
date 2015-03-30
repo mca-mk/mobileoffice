@@ -6588,6 +6588,12 @@
 },
 "TOPPRODUCTS_SEGMENTCONTROL_QTY":{
 "en-GL":"Quantity"
+},
+"DATEPICKERVIEW_TOPLABEL":{
+"en-GL":"From Date"
+},
+"DATEPICKERVIEW_BOTTOMLABEL":{
+"en-GL":"To Date"
 }
 }
 }
