@@ -6594,6 +6594,36 @@
 },
 "DATEPICKERVIEW_BOTTOMLABEL":{
 "en-GL":"To Date"
+},
+"TOPITEMS_ACTIONPICKER_TITLE":{
+"en-GL":"Pick period"
+},
+"TOPITEMS_ACTIONPICKER_TODAY":{
+"en-GL":"Today"
+},
+"TOPITEMS_ACTIONPICKER_YESTERDAY":{
+"en-GL":"Yesterday"
+},
+"TOPITEMS_ACTIONPICKER_THISWEEK":{
+"en-GL":"This week"
+},
+"TOPITEMS_ACTIONPICKER_LASTWEEK":{
+"en-GL":"Last week"
+},
+"TOPITEMS_ACTIONPICKER_THISMONTH":{
+"en-GL":"This month"
+},
+"TOPITEMS_ACTIONPICKER_LASTMONTH":{
+"en-GL":"Last month"
+},
+"TOPITEMS_ACTIONPICKER_THISYEAR":{
+"en-GL":"This year"
+},
+"TOPITEMS_ACTIONPICKER_LASTYEAR":{
+"en-GL":"Last year"
+},
+"TOPITEMS_ACTIONPICKER_CUSTOM":{
+"en-GL":"Custom..."
 }
 }
 }
