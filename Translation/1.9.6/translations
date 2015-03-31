@@ -6598,12 +6598,6 @@
 "TOPITEMS_ACTIONPICKER_TITLE":{
 "en-GL":"Pick period"
 },
-"TOPITEMS_ACTIONPICKER_TODAY":{
-"en-GL":"Today"
-},
-"TOPITEMS_ACTIONPICKER_YESTERDAY":{
-"en-GL":"Yesterday"
-},
 "TOPITEMS_ACTIONPICKER_THISWEEK":{
 "en-GL":"This week"
 },
@@ -6616,14 +6610,20 @@
 "TOPITEMS_ACTIONPICKER_LASTMONTH":{
 "en-GL":"Last month"
 },
-"TOPITEMS_ACTIONPICKER_THISYEAR":{
-"en-GL":"This year"
-},
-"TOPITEMS_ACTIONPICKER_LASTYEAR":{
-"en-GL":"Last year"
-},
 "TOPITEMS_ACTIONPICKER_CUSTOM":{
 "en-GL":"Custom..."
+},
+"TOPCUSTOMERS_TITLE":{
+"en-GL":"Top customers overall"
+},
+"TOPCUSTOMERS_SEGMENTCONTROL_MARGIN":{
+"en-GL":"Margin"
+},
+"TOPCUSTOMERS_SEGMENTCONTROL_PROFIT":{
+"en-GL":"Profit"
+},
+"TOPCUSTOMERS_SEGMENTCONTROL_QTY":{
+"en-GL":"Quantity"
 }
 }
 }
