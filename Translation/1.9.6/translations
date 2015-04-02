@@ -6501,6 +6501,9 @@
 "sv-SE":"e-post skickas",
 "no-NO":"e-post sendt"
 },
+"MO_SENDMAIL_TOAST_NOTSENT":{
+"en-GL":"Not sent"
+},
 "PDFPREVIEW_INVOICE_SEND":{
 "en-GL":"Send",
 "sv-SE":"Skicka",
