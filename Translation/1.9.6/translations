@@ -5494,11 +5494,7 @@
 "es-ES":"iZettle y el logo de iZettle son marcas registradas de iZettle AB, Suecia."
 },
 "SALESOVERVIEW_TABLE_TITLE_PERCENT":{
-"en-GL":"Difference",
-"da-DK":"Forskel",
-"sv-SE":"Skillnad",
-"no-NO":"Forskjell",
-"es-ES":"Beneficio"
+"en-GL":"± %"
 },
 "ORDERDETAILS_SAVE_ERROR_ORDERISSENT_TITLE":{
 "en-GL":"Cannot modify order",
