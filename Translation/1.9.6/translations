@@ -6623,6 +6623,10 @@
 },
 "TOPCUSTOMERS_SEGMENTCONTROL_QTY":{
 "en-GL":"Quantity"
+},
+"TOPITEMS_DATEFORMAT":{
+"en-GL":"[FROM] - [TO]",
+"da-DK":"[FROM] .. [TO]"
 }
 }
 }
