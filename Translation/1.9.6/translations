@@ -6627,6 +6627,9 @@
 "TOPITEMS_DATEFORMAT":{
 "en-GL":"[FROM] - [TO]",
 "da-DK":"[FROM] .. [TO]"
+},
+"TOPITEMS_CHANGEPERIOD_BUTTON_TEXT":{
+"en-GL":"Change"
 }
 }
 }
