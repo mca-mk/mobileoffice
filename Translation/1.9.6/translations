@@ -6630,6 +6630,12 @@
 },
 "TOPITEMS_CHANGEPERIOD_BUTTON_TEXT":{
 "en-GL":"Change"
+},
+"TOPITEMS_EMPTYSTATE_HEADER":{
+"en-GL":"No data available"
+},
+"TOPITEMS_EMPTYSTATE_BODY":{
+"en-GL":"Our server is still syncing your data. Please try again tomorrow."
 }
 }
 }
