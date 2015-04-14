@@ -6636,6 +6636,15 @@
 },
 "TOPITEMS_EMPTYSTATE_BODY":{
 "en-GL":"Our server is still syncing your data. Please try again tomorrow."
+},
+"GRIDMENU_ACTIONS_NEWINVOICE":{
+"en-GL":"New invoice"
+},
+"GRIDMENU_ACTIONS_NEWSCAN":{
+"en-GL":"New expense"
+},
+"GRIDMENU_ACTIONS_PRODUCTSCAN":{
+"en-GL":"Product barcode scan"
 }
 }
 }
