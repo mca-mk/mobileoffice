@@ -6645,6 +6645,9 @@
 },
 "GRIDMENU_ACTIONS_PRODUCTSCAN":{
 "en-GL":"Product barcode scan"
+},
+"GRIDMENU_ACTIONS_NEWCUSTOMER":{
+"en-GL":"New customer"
 }
 }
 }
