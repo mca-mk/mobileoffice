@@ -6648,6 +6648,12 @@
 },
 "GRIDMENU_ACTIONS_NEWCUSTOMER":{
 "en-GL":"New customer"
+},
+"SETTINGS_IZETTLE_CANNOTENABLEBALANCING_BOOKKEEPINGDISABLED_TITLE":{
+"en-GL":"Unavailable"
+},
+"SETTINGS_IZETTLE_CANNOTENABLEBALANCING_BOOKKEEPINGDISABLED_MESSAGE":{
+"en-GL":"This feature is not available as the international ledger users cannot access cashbooks"
 }
 }
 }
