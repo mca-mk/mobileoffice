@@ -6654,6 +6654,12 @@
 },
 "FEATURE_INTERNATIONALLEDGER_DISABLED_ALERT_MESSAGE":{
 "en-GL":"This feature is not available as the international ledger users cannot access cashbooks"
+},
+"HOMEDASHBOARD_SALES_CURRENTMONTH":{
+"en-GL":"Sales"
+},
+"HOMEDASHBOARD_SALES_LASTMONTH":{
+"en-GL":"Sales"
 }
 }
 }
