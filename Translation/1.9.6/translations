@@ -4489,12 +4489,12 @@
 "es-ES":"Resumen impagos"
 },
 "HOMEDASHBOARD_DUE":{
-"en-GL":"Due Overall",
-"da-DK":"Forfaldne i alt",
-"sv-SE":"Förfallna fakturor",
-"no-NO":"Samlede forfalte",
+"en-GL":"Overdue Total",
+"da-DK":"Forfalden i alt",
+"sv-SE":"Förfallet totalt",
+"no-NO":"Forfalt totalt",
 "fi-FI":"Erääntyneet yht.",
-"es-ES":"Pagos pendientes"
+"es-ES":"Vencido en total"
 },
 "HOMEDASHBOARD_SALESPERFORMANCECHART":{
 "en-GL":"Sales Performance",
