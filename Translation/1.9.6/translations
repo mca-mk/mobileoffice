@@ -6665,7 +6665,7 @@
 "en-GL":"Invalid dates"
 },
 "TOPITEMS_INVALIDDATES_POPUP_MESSAGE":{
-"en-GL":"'To date' must be bigger than 'From date'"
+"en-GL":"To Date must be bigger than From Date"
 }
 }
 }
