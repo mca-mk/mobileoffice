@@ -6660,6 +6660,12 @@
 },
 "HOMEDASHBOARD_SALES_LASTMONTH":{
 "en-GL":"Sales"
+},
+"TOPITEMS_INVALIDDATES_POPUP_TITLE":{
+"en-GL":"Invalid dates"
+},
+"TOPITEMS_INVALIDDATES_POPUP_MESSAGE":{
+"en-GL":"'To date' must be bigger than 'From date'"
 }
 }
 }
