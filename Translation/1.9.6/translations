@@ -6635,7 +6635,19 @@
 "en-GL":"No data available"
 },
 "TOPITEMS_EMPTYSTATE_BODY":{
-"en-GL":"Our server is still syncing your data. Please try again tomorrow."
+"en-GL":"Please try again later"
+},
+"TOPITEMS_EMPTYSTATE_NOITEMS_HEADER":{
+"en-GL":"No items available for this period"
+},
+"TOPITEMS_EMPTYSTATE_NOITEMS_BODY":{
+"en-GL":"It looks like there are no items for the period you selected"
+},
+"TOPITEMS_EMPTYSTATE_SYNCING_HEADER":{
+"en-GL":"Please try again later"
+},
+"TOPITEMS_EMPTYSTATE_SYNCING_BODY":{
+"en-GL":"We are still syncing your data"
 },
 "GRIDMENU_ACTIONS_NEWINVOICE":{
 "en-GL":"New invoice"
