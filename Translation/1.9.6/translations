@@ -6682,10 +6682,10 @@
 "en-GL":"[FROM] .. [TO]"
 },
 "TOPITEMS_CHANGEPERIOD_BUTTON_TEXT":{
-"en-GL":"Change period",
-"da-DK":"Skift periode",
-"sv-SE":"Ändra period",
-"no-NO":"Endre periode"
+"en-GL":"Change",
+"da-DK":"Skift",
+"sv-SE":"Ändra",
+"no-NO":"Endre"
 },
 "TOPITEMS_EMPTYSTATE_HEADER":{
 "en-GL":"Data unavailable",
