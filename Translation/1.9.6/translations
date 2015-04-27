@@ -4608,20 +4608,17 @@
 "fi-FI":"Valitse jaksot",
 "es-ES":"Elegir periodos"
 },
-"HOMEDASHBOARD_ACTIONSSECTION_TITLE":{
-"en-GL":"Actions"
-},
-"HOMEDASHBOARD_SCANPRODUCT_CAPTION":{
-"en-GL":"Scan product"
-},
-"HOMEDASHBOARD_REPORTSSECTION_TITLE":{
-"en-GL":"Reports"
-},
 "HOMEDASHBOARD_REPORTSSECTION_TOPPRODUCTS":{
-"en-GL":"Top 20 products"
+"en-GL":"Top 20 products",
+"da-DK":"Top 20 produkter",
+"sv-SE":"Top 20 produkter",
+"no-NO":"Topp 20 produkter"
 },
 "HOMEDASHBOARD_REPORTSSECTION_TOPCUSTOMERS":{
-"en-GL":"Top 20 customers"
+"en-GL":"Top 20 customers",
+"da-DK":"Top 20 kunder",
+"sv-SE":"Top 20 kunder",
+"no-NO":"Topp 20 kunder"
 },
 "PUSHNOTIFICATION_REOPENAPP_TITLE":{
 "en-GL":"Open MobileOffice",
@@ -6498,7 +6495,12 @@
 "no-NO":"e-post sendt"
 },
 "MO_SENDMAIL_TOAST_NOTSENT":{
-"en-GL":"Not sent"
+"en-GL":"Not sent",
+"da-DK":"Ikke sendt",
+"sv-SE":"Inte skickat",
+"no-NO":"Ikke sendt",
+"fi-FI":"Ei lähetetty",
+"es-ES":"No enviada"
 },
 "PDFPREVIEW_INVOICE_SEND":{
 "en-GL":"Send",
@@ -6577,107 +6579,211 @@
 "es-ES":"No"
 },
 "TOPPRODUCTS_TITLE":{
-"en-GL":"Top products overall"
+"en-GL":"Top products",
+"da-DK":"Top produkter",
+"sv-SE":"Top produkter",
+"no-NO":"Topp produkter"
 },
 "TOPPRODUCTS_SEGMENTCONTROL_MARGIN":{
-"en-GL":"Margin"
+"en-GL":"Margin",
+"da-DK":"Avance",
+"sv-SE":"Marginal",
+"no-NO":"Margin",
+"fi-FI":"Marginaali",
+"es-ES":"Margen"
 },
 "TOPPRODUCTS_SEGMENTCONTROL_TURNOVER":{
-"en-GL":"Turnover"
+"en-GL":"Turnover",
+"da-DK":"Omsætning",
+"sv-SE":"Omsättning",
+"no-NO":"Omsetning"
 },
 "TOPPRODUCTS_SEGMENTCONTROL_QTY":{
-"en-GL":"Quantity"
+"en-GL":"Quantity",
+"da-DK":"Antal",
+"sv-SE":"Antal",
+"no-NO":"Antall",
+"fi-FI":"Määrä",
+"es-ES":"Cantidad"
 },
 "DATEPICKERVIEW_TOPLABEL":{
-"en-GL":"From Date"
+"en-GL":"From date",
+"da-DK":"Fra dato",
+"sv-SE":"Från datum",
+"no-NO":"Fra dato"
 },
 "DATEPICKERVIEW_BOTTOMLABEL":{
-"en-GL":"To Date"
-},
-"TOPITEMS_ACTIONPICKER_TITLE":{
-"en-GL":"Pick period"
+"en-GL":"To date",
+"da-DK":"Indtil dato",
+"sv-SE":"Till datum",
+"no-NO":"Till dato"
 },
 "TOPITEMS_ACTIONPICKER_THISWEEK":{
-"en-GL":"This week"
+"en-GL":"This week",
+"da-DK":"Denne uge",
+"sv-SE":"Denna vecka",
+"no-NO":"Denne uka"
 },
 "TOPITEMS_ACTIONPICKER_LASTWEEK":{
-"en-GL":"Last week"
+"en-GL":"Last week",
+"da-DK":"Sidste uge",
+"sv-SE":"Förra veckan",
+"no-NO":"Siste uken"
 },
 "TOPITEMS_ACTIONPICKER_THISMONTH":{
-"en-GL":"This month"
+"en-GL":"This month",
+"da-DK":"Denne måned",
+"sv-SE":"Denna månad",
+"no-NO":"Denne måneden",
+"fi-FI":"Tässä kuussa"
 },
 "TOPITEMS_ACTIONPICKER_LASTMONTH":{
-"en-GL":"Last month"
+"en-GL":"Last month",
+"da-DK":"Sidste måned",
+"sv-SE":"Förra månaden",
+"no-NO":"Siste måned",
+"fi-FI":"Viime kuussa"
 },
 "TOPITEMS_ACTIONPICKER_CUSTOM":{
-"en-GL":"Custom..."
+"en-GL":"Choose period...",
+"da-DK":"Vælg periode ...",
+"sv-SE":"Välj period ...",
+"no-NO":"Velg periode ..."
 },
 "TOPCUSTOMERS_TITLE":{
-"en-GL":"Top customers overall"
+"en-GL":"Top customers",
+"da-DK":"Top kunder",
+"sv-SE":"Top kunder",
+"no-NO":"Topp kunder"
 },
 "TOPCUSTOMERS_SEGMENTCONTROL_MARGIN":{
-"en-GL":"Margin"
+"en-GL":"Margin",
+"da-DK":"Avance",
+"sv-SE":"Marginal",
+"no-NO":"Margin",
+"fi-FI":"Marginaali",
+"es-ES":"Margen"
 },
 "TOPCUSTOMERS_SEGMENTCONTROL_TURNOVER":{
-"en-GL":"Turnover"
+"en-GL":"Turnover",
+"da-DK":"Omsætning",
+"sv-SE":"Omsättning",
+"no-NO":"Omsetning"
 },
 "TOPCUSTOMERS_SEGMENTCONTROL_QTY":{
-"en-GL":"Quantity"
+"en-GL":"Quantity",
+"da-DK":"Antal",
+"sv-SE":"Antal",
+"no-NO":"Antall",
+"fi-FI":"Määrä",
+"es-ES":"Cantidad"
 },
 "TOPITEMS_DATEFORMAT":{
-"en-GL":"[FROM] - [TO]",
-"da-DK":"[FROM] .. [TO]"
+"en-GL":"[FROM] .. [TO]"
 },
 "TOPITEMS_CHANGEPERIOD_BUTTON_TEXT":{
-"en-GL":"Change"
+"en-GL":"Change period",
+"da-DK":"Skift periode",
+"sv-SE":"Ändra period",
+"no-NO":"Endre periode"
 },
 "TOPITEMS_EMPTYSTATE_HEADER":{
-"en-GL":"No data available"
+"en-GL":"Data unavailable",
+"da-DK":"Data ikke tilgængelig",
+"sv-SE":"Data saknas",
+"no-NO":"Data utilgjengelig"
 },
 "TOPITEMS_EMPTYSTATE_BODY":{
-"en-GL":"Please try again later"
+"en-GL":"Please try again later",
+"da-DK":"Prøv igen senere",
+"sv-SE":"Försök igen senare",
+"no-NO":"Vennligst prøv igjen senere"
 },
 "TOPITEMS_EMPTYSTATE_NOITEMS_HEADER":{
-"en-GL":"No items available for this period"
-},
-"TOPITEMS_EMPTYSTATE_NOITEMS_BODY":{
-"en-GL":"It looks like there are no items for the period you selected"
+"en-GL":"There are no sales in the selected period",
+"da-DK":"Der er intet salg i den valgte periode",
+"sv-SE":"Det finns ingen försäljning under vald period",
+"no-NO":"Det er ingen salg i den valgte perioden"
 },
 "TOPITEMS_EMPTYSTATE_SYNCING_HEADER":{
-"en-GL":"Please try again later"
+"en-GL":"We're currently analyzing your account",
+"da-DK":"Vi er i øjeblikket analyserer din konto",
+"sv-SE":"Vi analyserar nu ditt konto",
+"no-NO":"Vi er for tiden analysere kontoen din"
 },
 "TOPITEMS_EMPTYSTATE_SYNCING_BODY":{
-"en-GL":"We are still syncing your data"
+"en-GL":"Please try again later",
+"da-DK":"Prøv igen senere",
+"sv-SE":"Försök igen senare",
+"no-NO":"Vennligst prøv igjen senere"
 },
 "GRIDMENU_ACTIONS_NEWINVOICE":{
-"en-GL":"New invoice"
+"en-GL":"New invoice",
+"da-DK":"Ny faktura",
+"sv-SE":"Ny faktura",
+"no-NO":"Ny faktura",
+"fi-FI":"Uusi asiakas",
+"es-ES":"Nueva factura"
 },
 "GRIDMENU_ACTIONS_NEWSCAN":{
-"en-GL":"New expense"
+"en-GL":"New expense",
+"da-DK":"Ny udgift",
+"sv-SE":"Ny utgift",
+"no-NO":"Ny utgift",
+"fi-FI":"Uusi skannaus",
+"es-ES":"Nuevo gasto"
 },
 "GRIDMENU_ACTIONS_PRODUCTSCAN":{
-"en-GL":"Find product"
+"en-GL":"Find product",
+"da-DK":"Opslag produkt",
+"sv-SE":"Uppslags produkt",
+"no-NO":"Oppslag produkt"
 },
 "GRIDMENU_ACTIONS_NEWCUSTOMER":{
-"en-GL":"New customer"
+"en-GL":"New customer",
+"da-DK":"Ny kunde",
+"sv-SE":"Ny kund",
+"no-NO":"Ny kunde"
 },
 "FEATURE_INTERNATIONALLEDGER_DISABLED_ALERT_TITLE":{
-"en-GL":"Unavailable"
+"en-GL":"Unavailable",
+"da-DK":"ikke tilgængelig",
+"sv-SE":"Ej tillgänglig",
+"no-NO":"utilgjengelig"
 },
 "FEATURE_INTERNATIONALLEDGER_DISABLED_ALERT_MESSAGE":{
-"en-GL":"This feature is not available as the international ledger users cannot access cashbooks"
+"en-GL":"This feature is not available for the international ledger users",
+"da-DK":"Denne funktion er ikke tilgængelig",
+"sv-SE":"Denna funktion är inte tillgänglig",
+"no-NO":"Denne funksjonen er ikke tilgjengelig"
 },
 "HOMEDASHBOARD_SALES_CURRENTMONTH":{
-"en-GL":"Sales"
+"en-GL":"Sales",
+"da-DK":"Salg",
+"sv-SE":"Försäljning",
+"no-NO":"Salg",
+"fi-FI":"Myynti",
+"es-ES":"Ventas"
 },
 "HOMEDASHBOARD_SALES_LASTMONTH":{
-"en-GL":"Sales"
+"en-GL":"Sales",
+"da-DK":"Salg",
+"sv-SE":"Försäljning",
+"no-NO":"Salg",
+"fi-FI":"Myynti",
+"es-ES":"Ventas"
 },
 "TOPITEMS_INVALIDDATES_POPUP_TITLE":{
-"en-GL":"Invalid dates"
+"en-GL":"Invalid dates",
+"da-DK":"Ugyldig periode",
+"sv-SE":"Ogiltig period",
+"no-NO":"Ugyldig periode"
 },
 "TOPITEMS_INVALIDDATES_POPUP_MESSAGE":{
-"en-GL":"To Date must be bigger than From Date"
+"en-GL":"The "From field" must be before the "Till field"",
+"da-DK":"Den feltet Fra skal være før Till",
+"sv-SE":"Från fältet måste vara innan Till",
+"no-NO":"Fra-feltet må være før Till"
 }
 }
 }
