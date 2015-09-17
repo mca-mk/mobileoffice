@@ -6484,8 +6484,7 @@
 "MO_SENDMAIL_DEFAULTMESSAGE":{
 "en-GL":"Dear [CUSTOMER_NAME],\n\nClick on the button below to see or download your invoice of [CURRENCY] [GROSS_AMOUNT]\n\nKind regards,\n[COMPANY_NAME]\n",
 "da-DK":"Kære [CUSTOMER_NAME],\n\nKlik på knappen nedenfor for at se eller downloade din faktura på [GROSS_AMOUNT] [CURRENCY].\n\nMed venlig hilsen\n[COMPANY_NAME]\n",
-"sv-SE":"Basta [CUSTOMER_NAME],\n\nKlicka på knappen nedan för att se eller ladda ner din faktura på [GROSS_AMOUNT] [CURRENCY].\n\nVänliga älsningar\n[COMPANY_NAME]\n
-",
+"sv-SE":"Basta [CUSTOMER_NAME],\n\nKlicka på knappen nedan för att se eller ladda ner din faktura på [GROSS_AMOUNT] [CURRENCY].\n\nVänliga älsningar\n[COMPANY_NAME]\n",
 "no-NO":"Kjære [CUSTOMER_NAME],\n\nKlikk på knappen under for å se eller laste ned din faktura på [GROSS_AMOUNT] [CURRENCY].\n\nVennlig hilsen\n[COMPANY_NAME]\n"
 },
 "MO_SENDMAIL_TOAST_SENT":{
