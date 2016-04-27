@@ -6112,6 +6112,9 @@
 "PRODUCTDETAILS_BARCODE_UNSUCCESSFULLSCAN_MESSAGE":{
 "en-GL":"Please try again",
 "da-DK":"Prøv igen",
+"sv-SE":"Försök igen",
+"no-NO":"Vennligst prøv igjen",
+"fi-FI":"Yritä uudestaan",
 "es-ES":"Por favor, inténtalo de nuevo"
 },
 "PDF_PREVIEW_ERROR_PRINT_TITLE":{
@@ -6122,6 +6125,8 @@
 "PDF_PREVIEW_ERROR_PRINT_MESSAGE":{
 "en-GL":"An error occured",
 "da-DK":"Der opstod en fejl",
+"sv-SE":"Ett fel uppstod",
+"no-NO":"Det oppstod en feil",
 "es-ES":"Se ha producido un error"
 },
 "SETTINGS_PRODUCTS_ROOTTITLE":{
@@ -6783,6 +6788,21 @@
 "da-DK":"Den feltet Fra skal være før Till",
 "sv-SE":"Från fältet måste vara innan Till",
 "no-NO":"Fra-feltet må være før Till"
+},
+"AUTHENTICATION_ERROR_ALERT_TITLE":{
+"en-GL":"Please login again",
+"da-DK":"Logge ind igen",
+"sv-SE":"Vänligen logga in igen",
+"no-NO":"Vennligst logg inn igjen",
+"fi-FI":"Kirjaudu uudelleen",
+"es-ES":"Por favor inicia tu sesión de nuevo"
+},
+"AUTHENTICATION_ERROR_ALERT_MESSAGE":{
+"en-GL":"An error occured",
+"da-DK":"Der opstod en fejl",
+"sv-SE":"Ett fel uppstod",
+"no-NO":"Det oppstod en feil",
+"es-ES":"Ocurrió un error"
 }
 }
 }
